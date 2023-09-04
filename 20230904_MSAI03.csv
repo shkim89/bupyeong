@@ -5,6 +5,9 @@
 6956,2023-09-02 오전 9:17,2023-09-02 오전 9:17,MSAI03,Shuttle Not Ready for Orders                                                                                    ,LV04SH01            
 7277,2023-09-02 오전 7:38,2023-09-02 오전 7:38,MSAI03,Hall Sensor Error                                                                                               ,LL02RO12            
 7732,2023-09-02 오전 6:13,2023-09-02 오전 6:13,MSAI03,Conveyor Gap Sensor Blocked                                                                                     ,CR01PS11            
+9418,2023-09-02 오전 2:03,2023-09-02 오전 2:03,MSAI03,Maintenance Level Rear Gate Open                                                                                ,ML04                
+9426,2023-09-02 오전 2:00,2023-09-02 오전 2:00,MSAI03,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+9429,2023-09-02 오전 2:00,2023-09-02 오전 2:00,MSAI03,Maintenance Level Rear Gate Open                                                                                ,ML03                
 9439,2023-09-02 오전 1:56,2023-09-02 오전 1:56,MSAI03,"Pick Location Deep, Front Bin Occupied                                                                          ",LV12SH01            
 9483,2023-09-02 오전 1:52,2023-09-02 오전 1:52,MSAI03,Gap between loads too small                                                                                     ,LV13SH01            
 9763,2023-09-02 오전 1:23,2023-09-02 오전 1:23,MSAI03,Rear Solenoid Release Fault                                                                                     ,ML03                
@@ -22,5 +25,7 @@
 10342,2023-09-02 오전 12:34,2023-09-02 오전 12:34,MSAI03,Infeed 1 Gap Check Fault                                                                                        ,ER01LO00            
 10366,2023-09-02 오전 12:31,2023-09-02 오전 12:31,MSAI03,"Pick Location Deep, Front Bin Occupied                                                                          ",LV12SH01            
 10437,2023-09-02 오전 12:24,2023-09-02 오전 12:24,MSAI03,Hall Sensor Error                                                                                               ,LR07RI12            
+12279,2023-09-01 오후 8:29,2023-09-01 오후 8:29,MSAI03,Maintenance Level Rear Gate Open                                                                                ,ML03                
 12298,2023-09-01 오후 8:25,2023-09-01 오후 8:25,MSAI03,Bin Empty                                                                                                       ,LV11SH01            
 12325,2023-09-01 오후 8:22,2023-09-01 오후 8:22,MSAI03,Bin Empty                                                                                                       ,LV11SH01            
+12492,2023-09-01 오후 8:07,2023-09-01 오후 8:07,MSAI03,Maintenance Level Rear Gate Open                                                                                ,ML03                

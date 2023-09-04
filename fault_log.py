@@ -37,20 +37,14 @@ def open_dialog_1():
 
     df1 = df[df[df.columns[2]].str.contains('UL01') == True]
     df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('200108') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('200102') == False]
     df1.to_csv(f'{window.dirName}\\{date}_{"UL01"}.csv', encoding='utf-8-sig')  
 
     df1 = df[df[df.columns[2]].str.contains('UL02') == True]
     df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('200108') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('200102') == False]
     df1.to_csv(f'{window.dirName}\\{date}_{"UL02"}.csv', encoding='utf-8-sig')
 
     df1 = df[df[df.columns[2]].str.contains('UL03') == True]
     df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('200108') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('200102') == False]
     df1.to_csv(f'{window.dirName}\\{date}_{"UL03"}.csv', encoding='utf-8-sig')
 
     df1 = df[df[df.columns[2]].str.contains('PC01') == True]
@@ -75,26 +69,18 @@ def open_dialog_1():
 
     df1 = df[df[df.columns[2]].str.contains('MSAI01') == True]
     df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('Maintenance Level Rear Gate Open') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('Maintenance Level Safety Barrier Tripped') == False]
     df1.to_csv(f'{window.dirName}\\{date}_{"MSAI01"}.csv', encoding='utf-8-sig')
 
     df1 = df[df[df.columns[2]].str.contains('MSAI02') == True]
     df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('Maintenance Level Rear Gate Open') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('Maintenance Level Safety Barrier Tripped') == False]
     df1.to_csv(f'{window.dirName}\\{date}_{"MSAI02"}.csv', encoding='utf-8-sig')
 
     df1 = df[df[df.columns[2]].str.contains('MSAI03') == True]
     df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('Maintenance Level Rear Gate Open') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('Maintenance Level Safety Barrier Tripped') == False]
     df1.to_csv(f'{window.dirName}\\{date}_{"MSAI03"}.csv', encoding='utf-8-sig')
 
     df1 = df[df[df.columns[2]].str.contains('MSAI04') == True]
     df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('Maintenance Level Rear Gate Open') == False]
-    df1 = df1[df1[df1.columns[3]].str.contains('Maintenance Level Safety Barrier Tripped') == False]
     df1.to_csv(f'{window.dirName}\\{date}_{"MSAI04"}.csv', encoding='utf-8-sig')
 
     os.startfile(window.dirName)

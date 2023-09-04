@@ -5,8 +5,11 @@
 72,2023-09-04 오전 8:29,2023-09-04 오전 8:29,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
 73,2023-09-04 오전 8:29,2023-09-04 오전 8:29,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
 74,2023-09-04 오전 8:29,2023-09-04 오전 8:29,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+97,2023-09-04 오전 8:25,2023-09-04 오전 8:25,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML04                
 118,2023-09-04 오전 8:23,2023-09-04 오전 8:23,MSAI02,Order repair timeout                                                                                            ,LV02SH01            
 173,2023-09-04 오전 8:18,2023-09-04 오전 8:18,MSAI02,Load Runtime Fault on Conveyor                                                                                  ,LL10RI11            
+176,2023-09-04 오전 8:18,2023-09-04 오전 8:18,MSAI02,Maintenance Level Safety Barrier Tripped                                                                        ,ML01                
+183,2023-09-04 오전 8:17,2023-09-04 오전 8:17,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML01                
 242,2023-09-04 오전 8:11,2023-09-04 오전 8:11,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
 251,2023-09-04 오전 8:11,2023-09-04 오전 8:11,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
 252,2023-09-04 오전 8:11,2023-09-04 오전 8:11,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
@@ -481,6 +484,7 @@
 4595,2023-09-02 오후 4:57,2023-09-02 오후 4:57,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
 4596,2023-09-02 오후 4:57,2023-09-02 오후 4:57,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
 4656,2023-09-02 오후 4:49,2023-09-02 오후 4:49,MSAI02,Order repair timeout                                                                                            ,LV02SH01            
+4766,2023-09-02 오후 4:43,2023-09-02 오후 4:43,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML01                
 4943,2023-09-02 오후 4:22,2023-09-02 오후 4:22,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
 4944,2023-09-02 오후 4:22,2023-09-02 오후 4:22,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
 4945,2023-09-02 오후 4:22,2023-09-02 오후 4:22,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
@@ -498,6 +502,9 @@
 5330,2023-09-02 오후 3:42,2023-09-02 오후 3:42,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
 5331,2023-09-02 오후 3:42,2023-09-02 오후 3:42,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
 5670,2023-09-02 오후 2:38,2023-09-02 오후 2:38,MSAI02,Load Runtime Fault on Conveyor                                                                                  ,LL09RI12            
+5687,2023-09-02 오후 2:36,2023-09-02 오후 2:36,MSAI02,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+5690,2023-09-02 오후 2:35,2023-09-02 오후 2:35,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML03                
+5701,2023-09-02 오후 2:34,2023-09-02 오후 2:34,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML02                
 5710,2023-09-02 오후 2:31,2023-09-02 오후 2:31,MSAI02,X: Max Current Duration Exceeded                                                                                ,LV09SH01            
 6009,2023-09-02 오후 1:56,2023-09-02 오후 1:56,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
 6010,2023-09-02 오후 1:56,2023-09-02 오후 1:56,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
@@ -526,6 +533,8 @@
 6732,2023-09-02 오전 11:08,2023-09-02 오전 11:08,MSAI02,"Data Present, No Logical Load Presence                                                                          ",LL16RI12            
 6743,2023-09-02 오전 11:07,2023-09-02 오전 11:07,MSAI02,Load Runtime Fault on Conveyor                                                                                  ,LL08RI11            
 6744,2023-09-02 오전 11:07,2023-09-02 오전 11:07,MSAI02,Load Runtime Fault on Conveyor                                                                                  ,LL16RI12            
+6745,2023-09-02 오전 11:07,2023-09-02 오전 11:07,MSAI02,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+6748,2023-09-02 오전 11:06,2023-09-02 오전 11:06,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML03                
 6755,2023-09-02 오전 11:04,2023-09-02 오전 11:04,MSAI02,Front Finger 3 Not Closed                                                                                       ,LV10SH01            
 6823,2023-09-02 오전 10:45,2023-09-02 오전 10:45,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
 6824,2023-09-02 오전 10:45,2023-09-02 오전 10:45,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
@@ -565,6 +574,7 @@
 8233,2023-09-02 오전 5:13,2023-09-02 오전 5:13,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
 8236,2023-09-02 오전 5:13,2023-09-02 오전 5:13,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
 8237,2023-09-02 오전 5:13,2023-09-02 오전 5:13,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+8279,2023-09-02 오전 5:05,2023-09-02 오전 5:05,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML01                
 8280,2023-09-02 오전 5:05,2023-09-02 오전 5:05,MSAI02,Move W-axis not allowed when loaded                                                                             ,LV02SH01            
 8353,2023-09-02 오전 5:00,2023-09-02 오전 5:00,MSAI02,Move W-axis not allowed when loaded                                                                             ,LV02SH01            
 8365,2023-09-02 오전 4:59,2023-09-02 오전 4:59,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
@@ -591,6 +601,7 @@
 9142,2023-09-02 오전 2:52,2023-09-02 오전 2:52,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
 9143,2023-09-02 오전 2:52,2023-09-02 오전 2:52,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
 9144,2023-09-02 오전 2:52,2023-09-02 오전 2:52,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+9177,2023-09-02 오전 2:43,2023-09-02 오전 2:43,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML01                
 9190,2023-09-02 오전 2:40,2023-09-02 오전 2:40,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
 9193,2023-09-02 오전 2:40,2023-09-02 오전 2:40,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
 9194,2023-09-02 오전 2:40,2023-09-02 오전 2:40,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
@@ -598,6 +609,7 @@
 9221,2023-09-02 오전 2:38,2023-09-02 오전 2:38,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
 9222,2023-09-02 오전 2:38,2023-09-02 오전 2:38,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
 9233,2023-09-02 오전 2:37,2023-09-02 오전 2:37,MSAI02,Front Finger 1 Not Closed                                                                                       ,LV01SH01            
+9419,2023-09-02 오전 2:03,2023-09-02 오전 2:03,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML02                
 9448,2023-09-02 오전 1:54,2023-09-02 오전 1:54,MSAI02,Gap between loads too small                                                                                     ,LV08SH01            
 9524,2023-09-02 오전 1:44,2023-09-02 오전 1:44,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
 9525,2023-09-02 오전 1:44,2023-09-02 오전 1:44,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
@@ -616,6 +628,8 @@
 9910,2023-09-02 오전 1:07,2023-09-02 오전 1:07,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
 9911,2023-09-02 오전 1:07,2023-09-02 오전 1:07,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
 9958,2023-09-02 오전 1:03,2023-09-02 오전 1:03,MSAI02,Load Runtime Fault on Conveyor                                                                                  ,LL11RI12            
+9968,2023-09-02 오전 1:02,2023-09-02 오전 1:02,MSAI02,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+9972,2023-09-02 오전 1:02,2023-09-02 오전 1:02,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML03                
 10002,2023-09-02 오전 1:00,2023-09-02 오전 1:00,MSAI02,Front Finger 1 Not Closed                                                                                       ,LV11SH01            
 10008,2023-09-02 오전 12:59,2023-09-02 오전 12:59,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
 10011,2023-09-02 오전 12:59,2023-09-02 오전 12:59,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
