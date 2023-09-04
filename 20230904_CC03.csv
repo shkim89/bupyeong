@@ -1,208 +1,71 @@
 ﻿,Time / Date,Active Time/Date,Area,Description,Device
-4680,2023-09-02 오후 4:48,2023-09-02 오후 4:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-4681,2023-09-02 오후 4:48,2023-09-02 오후 4:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 4688,2023-09-02 오후 4:48,2023-09-02 오후 4:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-5271,2023-09-02 오후 3:48,2023-09-02 오후 3:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-5272,2023-09-02 오후 3:48,2023-09-02 오후 3:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 5278,2023-09-02 오후 3:48,2023-09-02 오후 3:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-5605,2023-09-02 오후 2:48,2023-09-02 오후 2:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-5606,2023-09-02 오후 2:48,2023-09-02 오후 2:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 5611,2023-09-02 오후 2:48,2023-09-02 오후 2:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-6055,2023-09-02 오후 1:48,2023-09-02 오후 1:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-6056,2023-09-02 오후 1:48,2023-09-02 오후 1:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 6063,2023-09-02 오후 1:48,2023-09-02 오후 1:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-6290,2023-09-02 오후 12:48,2023-09-02 오후 12:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-6291,2023-09-02 오후 12:48,2023-09-02 오후 12:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 6292,2023-09-02 오후 12:48,2023-09-02 오후 12:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-6497,2023-09-02 오전 11:48,2023-09-02 오전 11:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-6498,2023-09-02 오전 11:48,2023-09-02 오전 11:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 6499,2023-09-02 오전 11:48,2023-09-02 오전 11:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-6946,2023-09-02 오전 9:48,2023-09-02 오전 9:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-6947,2023-09-02 오전 9:48,2023-09-02 오전 9:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 6948,2023-09-02 오전 9:48,2023-09-02 오전 9:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-6978,2023-09-02 오전 8:48,2023-09-02 오전 8:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-6979,2023-09-02 오전 8:48,2023-09-02 오전 8:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 6980,2023-09-02 오전 8:48,2023-09-02 오전 8:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-7160,2023-09-02 오전 7:48,2023-09-02 오전 7:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-7161,2023-09-02 오전 7:48,2023-09-02 오전 7:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 7165,2023-09-02 오전 7:48,2023-09-02 오전 7:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-7495,2023-09-02 오전 6:48,2023-09-02 오전 6:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-7496,2023-09-02 오전 6:48,2023-09-02 오전 6:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 7509,2023-09-02 오전 6:48,2023-09-02 오전 6:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-7960,2023-09-02 오전 5:48,2023-09-02 오전 5:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-7961,2023-09-02 오전 5:48,2023-09-02 오전 5:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 7964,2023-09-02 오전 5:48,2023-09-02 오전 5:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-8308,2023-09-02 오전 5:03,2023-09-02 오전 5:03,PC03,P2203 Jog Mode Selected  OK ,P2203               
-8309,2023-09-02 오전 5:03,2023-09-02 오전 5:03,PC03,P2203 Jog Mode Selected  OK ,P2203               
 8310,2023-09-02 오전 5:03,2023-09-02 오전 5:03,PC03,P2203 Jog Mode Selected  ,P2203               
-8423,2023-09-02 오전 4:48,2023-09-02 오전 4:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-8424,2023-09-02 오전 4:48,2023-09-02 오전 4:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 8428,2023-09-02 오전 4:48,2023-09-02 오전 4:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-8531,2023-09-02 오전 4:19,2023-09-02 오전 4:19,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8532,2023-09-02 오전 4:19,2023-09-02 오전 4:19,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8533,2023-09-02 오전 4:19,2023-09-02 오전 4:19,PC03,ErgoPall Not Ready  ,ErgoPall            
-8534,2023-09-02 오전 4:19,2023-09-02 오전 4:18,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8535,2023-09-02 오전 4:19,2023-09-02 오전 4:18,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8537,2023-09-02 오전 4:18,2023-09-02 오전 4:18,PC03,ErgoPall Not Ready  ,ErgoPall            
-8538,2023-09-02 오전 4:18,2023-09-02 오전 4:17,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8539,2023-09-02 오전 4:18,2023-09-02 오전 4:17,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8540,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,ErgoPall Not Ready  ,ErgoPall            
-8541,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,ErgoPall Estop  OK ,ErgoPall            
-8542,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,ErgoPall Estop  OK ,ErgoPall            
-8543,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,EZ19 ESTOP S03 reset required  OK ,                    
-8544,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,EZ19 ESTOP S03 Activated  OK ,EZ19                
-8545,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,EZ19 Tripped  OK ,                    
-8546,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,Gate_ErgoPall  open  OK ,Gate_ErgoPall       
 8547,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,EZ19 ESTOP S03 reset required  ,                    
 8548,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,Gate_ErgoPall  open  ,Gate_ErgoPall       
 8549,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,EZ19 ESTOP S03 Activated  ,EZ19                
 8550,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,EZ19 Tripped  ,                    
 8551,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,ErgoPall Estop  ,ErgoPall            
-8552,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8553,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8554,2023-09-02 오전 4:17,2023-09-02 오전 4:17,PC03,ErgoPall Not Ready  ,ErgoPall            
-8555,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8556,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8557,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  ,ErgoPall            
-8558,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8559,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8560,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  ,ErgoPall            
-8562,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8563,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8564,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  ,ErgoPall            
-8565,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8566,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8567,2023-09-02 오전 4:16,2023-09-02 오전 4:16,PC03,ErgoPall Not Ready  ,ErgoPall            
-8571,2023-09-02 오전 4:15,2023-09-02 오전 4:15,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8572,2023-09-02 오전 4:15,2023-09-02 오전 4:15,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8573,2023-09-02 오전 4:15,2023-09-02 오전 4:15,PC03,ErgoPall Not Ready  ,ErgoPall            
-8574,2023-09-02 오전 4:15,2023-09-02 오전 4:15,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8575,2023-09-02 오전 4:15,2023-09-02 오전 4:15,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8578,2023-09-02 오전 4:15,2023-09-02 오전 4:15,PC03,ErgoPall Not Ready  ,ErgoPall            
-8579,2023-09-02 오전 4:15,2023-09-02 오전 4:15,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8580,2023-09-02 오전 4:15,2023-09-02 오전 4:15,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8583,2023-09-02 오전 4:15,2023-09-02 오전 4:15,PC03,ErgoPall Not Ready  ,ErgoPall            
-8586,2023-09-02 오전 4:14,2023-09-02 오전 4:14,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8587,2023-09-02 오전 4:14,2023-09-02 오전 4:14,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8588,2023-09-02 오전 4:14,2023-09-02 오전 4:14,PC03,ErgoPall Not Ready  ,ErgoPall            
-8589,2023-09-02 오전 4:14,2023-09-02 오전 4:14,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8590,2023-09-02 오전 4:14,2023-09-02 오전 4:14,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8591,2023-09-02 오전 4:14,2023-09-02 오전 4:14,PC03,ErgoPall Not Ready  ,ErgoPall            
-8592,2023-09-02 오전 4:14,2023-09-02 오전 4:14,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8593,2023-09-02 오전 4:14,2023-09-02 오전 4:14,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8594,2023-09-02 오전 4:14,2023-09-02 오전 4:14,PC03,ErgoPall Not Ready  ,ErgoPall            
-8595,2023-09-02 오전 4:14,2023-09-02 오전 4:13,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8596,2023-09-02 오전 4:14,2023-09-02 오전 4:13,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8597,2023-09-02 오전 4:13,2023-09-02 오전 4:13,PC03,ErgoPall Not Ready  ,ErgoPall            
-8600,2023-09-02 오전 4:13,2023-09-02 오전 4:09,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8601,2023-09-02 오전 4:13,2023-09-02 오전 4:09,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8603,2023-09-02 오전 4:13,2023-09-02 오전 4:09,PC03,ErgoPall Estop  OK ,ErgoPall            
-8604,2023-09-02 오전 4:13,2023-09-02 오전 4:09,PC03,ErgoPall Estop  OK ,ErgoPall            
-8609,2023-09-02 오전 4:13,2023-09-02 오전 4:13,PC03,EZ19 ESTOP S03 reset required  OK ,                    
-8610,2023-09-02 오전 4:13,2023-09-02 오전 4:13,PC03,EZ19 ESTOP S03 reset required  OK ,                    
-8612,2023-09-02 오전 4:13,2023-09-02 오전 4:08,PC03,EZ19 Tripped  OK ,                    
 8613,2023-09-02 오전 4:13,2023-09-02 오전 4:13,PC03,EZ19 ESTOP S03 reset required  ,                    
-8614,2023-09-02 오전 4:13,2023-09-02 오전 4:08,PC03,EZ19 Tripped  OK ,                    
-8615,2023-09-02 오전 4:13,2023-09-02 오전 4:08,PC03,Gate_ErgoPall  open  OK ,Gate_ErgoPall       
-8616,2023-09-02 오전 4:13,2023-09-02 오전 4:08,PC03,EZ19 ESTOP S03 Activated  OK ,EZ19                
-8617,2023-09-02 오전 4:13,2023-09-02 오전 4:09,PC03,Gate_ErgoPall has been opened too long  OK ,Gate_ErgoPall       
-8618,2023-09-02 오전 4:13,2023-09-02 오전 4:08,PC03,Gate_ErgoPall  open  OK ,Gate_ErgoPall       
 8656,2023-09-02 오전 4:09,2023-09-02 오전 4:09,PC03,Gate_ErgoPall has been opened too long  ,Gate_ErgoPall       
 8659,2023-09-02 오전 4:09,2023-09-02 오전 4:09,PC03,ErgoPall Estop  ,ErgoPall            
 8660,2023-09-02 오전 4:09,2023-09-02 오전 4:09,PC03,ErgoPall Not Ready  ,ErgoPall            
 8661,2023-09-02 오전 4:08,2023-09-02 오전 4:08,PC03,EZ19 ESTOP S03 Activated  ,EZ19                
 8662,2023-09-02 오전 4:08,2023-09-02 오전 4:08,PC03,EZ19 Tripped  ,                    
 8663,2023-09-02 오전 4:08,2023-09-02 오전 4:08,PC03,Gate_ErgoPall  open  ,Gate_ErgoPall       
-8664,2023-09-02 오전 4:08,2023-09-02 오전 4:08,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8665,2023-09-02 오전 4:08,2023-09-02 오전 4:08,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8666,2023-09-02 오전 4:08,2023-09-02 오전 4:08,PC03,ErgoPall Not Ready  ,ErgoPall            
-8667,2023-09-02 오전 4:08,2023-09-02 오전 4:04,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8668,2023-09-02 오전 4:08,2023-09-02 오전 4:04,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8672,2023-09-02 오전 4:04,2023-09-02 오전 4:04,PC03,ErgoPall Not Ready  ,ErgoPall            
-8693,2023-09-02 오전 3:59,2023-09-02 오전 3:59,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8694,2023-09-02 오전 3:59,2023-09-02 오전 3:59,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8695,2023-09-02 오전 3:59,2023-09-02 오전 3:59,PC03,ErgoPall Not Ready  ,ErgoPall            
-8696,2023-09-02 오전 3:59,2023-09-02 오전 3:59,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8697,2023-09-02 오전 3:59,2023-09-02 오전 3:59,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8698,2023-09-02 오전 3:59,2023-09-02 오전 3:59,PC03,ErgoPall Not Ready  ,ErgoPall            
-8699,2023-09-02 오전 3:59,2023-09-02 오전 3:58,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8700,2023-09-02 오전 3:59,2023-09-02 오전 3:58,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8701,2023-09-02 오전 3:58,2023-09-02 오전 3:58,PC03,ErgoPall Not Ready  ,ErgoPall            
-8702,2023-09-02 오전 3:58,2023-09-02 오전 3:58,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8703,2023-09-02 오전 3:58,2023-09-02 오전 3:58,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8711,2023-09-02 오전 3:58,2023-09-02 오전 3:58,PC03,ErgoPall Not Ready  ,ErgoPall            
-8712,2023-09-02 오전 3:58,2023-09-02 오전 3:58,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8713,2023-09-02 오전 3:58,2023-09-02 오전 3:58,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8714,2023-09-02 오전 3:58,2023-09-02 오전 3:58,PC03,ErgoPall Not Ready  ,ErgoPall            
-8715,2023-09-02 오전 3:58,2023-09-02 오전 3:56,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8716,2023-09-02 오전 3:58,2023-09-02 오전 3:56,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8726,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,ErgoPall Estop  OK ,ErgoPall            
-8727,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,ErgoPall Estop  OK ,ErgoPall            
-8728,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,EZ19 ESTOP S03 reset required  OK ,                    
-8729,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,EZ19 ESTOP S03 reset required  OK ,                    
-8730,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,EZ19 ESTOP S03 Activated  OK ,EZ19                
-8731,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,EZ19 Tripped  OK ,                    
 8732,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,EZ19 ESTOP S03 reset required  ,                    
-8733,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,EZ19 ESTOP S03 Activated  OK ,EZ19                
-8734,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,Gate_ErgoPall  open  OK ,Gate_ErgoPall       
-8735,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,Gate_ErgoPall  open  OK ,Gate_ErgoPall       
 8737,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,EZ19 ESTOP S03 Activated  ,EZ19                
 8738,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,EZ19 Tripped  ,                    
 8739,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,ErgoPall Estop  ,ErgoPall            
 8741,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,Gate_ErgoPall  open  ,Gate_ErgoPall       
 8743,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,ErgoPall Not Ready  ,ErgoPall            
-8744,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8745,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8746,2023-09-02 오전 3:56,2023-09-02 오전 3:56,PC03,ErgoPall Not Ready  ,ErgoPall            
-8750,2023-09-02 오전 3:56,2023-09-02 오전 3:55,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8751,2023-09-02 오전 3:56,2023-09-02 오전 3:55,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8755,2023-09-02 오전 3:55,2023-09-02 오전 3:55,PC03,ErgoPall Not Ready  ,ErgoPall            
-8762,2023-09-02 오전 3:55,2023-09-02 오전 3:55,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8763,2023-09-02 오전 3:55,2023-09-02 오전 3:55,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8766,2023-09-02 오전 3:55,2023-09-02 오전 3:55,PC03,ErgoPall Not Ready  ,ErgoPall            
-8768,2023-09-02 오전 3:55,2023-09-02 오전 3:55,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8769,2023-09-02 오전 3:55,2023-09-02 오전 3:55,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8770,2023-09-02 오전 3:55,2023-09-02 오전 3:55,PC03,ErgoPall Not Ready  ,ErgoPall            
-8773,2023-09-02 오전 3:55,2023-09-02 오전 3:54,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8774,2023-09-02 오전 3:55,2023-09-02 오전 3:54,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8786,2023-09-02 오전 3:54,2023-09-02 오전 3:54,PC03,ErgoPall Not Ready  ,ErgoPall            
-8790,2023-09-02 오전 3:54,2023-09-02 오전 3:54,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8792,2023-09-02 오전 3:54,2023-09-02 오전 3:54,PC03,ErgoPall Not Ready  ,ErgoPall            
-8794,2023-09-02 오전 3:54,2023-09-02 오전 3:54,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8795,2023-09-02 오전 3:54,2023-09-02 오전 3:54,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8797,2023-09-02 오전 3:54,2023-09-02 오전 3:54,PC03,ErgoPall Not Ready  ,ErgoPall            
-8800,2023-09-02 오전 3:54,2023-09-02 오전 3:52,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8801,2023-09-02 오전 3:54,2023-09-02 오전 3:52,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8802,2023-09-02 오전 3:53,2023-09-02 오전 3:50,PC03,EZ18 Tripped  OK ,                    
-8803,2023-09-02 오전 3:53,2023-09-02 오전 3:50,PC03,LC2260A  Safety Light Curtain Tripped  OK ,LC2260A             
-8804,2023-09-02 오전 3:53,2023-09-02 오전 3:50,PC03,EZ18 Tripped  OK ,                    
-8806,2023-09-02 오전 3:53,2023-09-02 오전 3:36,PC03,P2259 Position 01 PE Blocked whilst  Unoccupied Fault  OK ,P2259               
 8812,2023-09-02 오전 3:52,2023-09-02 오전 3:52,PC03,ErgoPall Not Ready  ,ErgoPall            
-8813,2023-09-02 오전 3:52,2023-09-02 오전 3:47,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8814,2023-09-02 오전 3:52,2023-09-02 오전 3:47,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8815,2023-09-02 오전 3:52,2023-09-02 오전 3:47,PC03,ErgoPall Estop  OK ,ErgoPall            
-8816,2023-09-02 오전 3:52,2023-09-02 오전 3:47,PC03,ErgoPall Estop  OK ,ErgoPall            
-8819,2023-09-02 오전 3:52,2023-09-02 오전 3:52,PC03,EZ19 ESTOP S03 reset required  OK ,                    
-8820,2023-09-02 오전 3:52,2023-09-02 오전 3:52,PC03,EZ19 ESTOP S03 reset required  OK ,                    
 8821,2023-09-02 오전 3:52,2023-09-02 오전 3:52,PC03,EZ19 ESTOP S03 reset required  ,                    
-8822,2023-09-02 오전 3:52,2023-09-02 오전 3:47,PC03,EZ19 Tripped  OK ,                    
-8823,2023-09-02 오전 3:52,2023-09-02 오전 3:48,PC03,Gate_ErgoPall has been opened too long  OK ,Gate_ErgoPall       
-8824,2023-09-02 오전 3:52,2023-09-02 오전 3:47,PC03,Gate_ErgoPall  open  OK ,Gate_ErgoPall       
-8825,2023-09-02 오전 3:52,2023-09-02 오전 3:47,PC03,EZ19 ESTOP S03 Activated  OK ,EZ19                
-8826,2023-09-02 오전 3:52,2023-09-02 오전 3:47,PC03,EZ19 ESTOP S03 Activated  OK ,EZ19                
-8840,2023-09-02 오전 3:50,2023-09-02 오전 3:50,PC03,P2261 Jog Mode Selected  OK ,P2261               
-8841,2023-09-02 오전 3:50,2023-09-02 오전 3:50,PC03,P2261 Jog Mode Selected  OK ,P2261               
 8844,2023-09-02 오전 3:50,2023-09-02 오전 3:50,PC03,P2261 Jog Mode Selected  ,P2261               
-8845,2023-09-02 오전 3:50,2023-09-02 오전 3:50,PC03,P2260 Jog Mode Selected  OK ,P2260               
-8846,2023-09-02 오전 3:50,2023-09-02 오전 3:50,PC03,P2260 Jog Mode Selected  OK ,P2260               
 8847,2023-09-02 오전 3:50,2023-09-02 오전 3:50,PC03,LC2260A  Safety Light Curtain Tripped  ,LC2260A             
 8848,2023-09-02 오전 3:50,2023-09-02 오전 3:50,PC03,EZ18 Tripped  ,                    
 8849,2023-09-02 오전 3:50,2023-09-02 오전 3:50,PC03,P2260 Jog Mode Selected  ,P2260               
-8850,2023-09-02 오전 3:50,2023-09-02 오전 3:49,PC03,P2259 Jog Mode Selected  OK ,P2259               
-8851,2023-09-02 오전 3:50,2023-09-02 오전 3:49,PC03,P2259 Jog Mode Selected  OK ,P2259               
 8854,2023-09-02 오전 3:49,2023-09-02 오전 3:49,PC03,P2259 Jog Mode Selected  ,P2259               
-8861,2023-09-02 오전 3:48,2023-09-02 오전 3:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-8862,2023-09-02 오전 3:48,2023-09-02 오전 3:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 8863,2023-09-02 오전 3:48,2023-09-02 오전 3:48,PC03,Gate_ErgoPall has been opened too long  ,Gate_ErgoPall       
 8864,2023-09-02 오전 3:48,2023-09-02 오전 3:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
 8865,2023-09-02 오전 3:47,2023-09-02 오전 3:47,PC03,ErgoPall Estop  ,ErgoPall            
@@ -210,107 +73,41 @@
 8867,2023-09-02 오전 3:47,2023-09-02 오전 3:47,PC03,ErgoPall Not Ready  ,ErgoPall            
 8868,2023-09-02 오전 3:47,2023-09-02 오전 3:47,PC03,EZ19 ESTOP S03 Activated  ,EZ19                
 8869,2023-09-02 오전 3:47,2023-09-02 오전 3:47,PC03,Gate_ErgoPall  open  ,Gate_ErgoPall       
-8870,2023-09-02 오전 3:47,2023-09-02 오전 3:43,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8871,2023-09-02 오전 3:47,2023-09-02 오전 3:43,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8887,2023-09-02 오전 3:43,2023-09-02 오전 3:43,PC03,ErgoPall Not Ready  ,ErgoPall            
-8927,2023-09-02 오전 3:37,2023-09-02 오전 3:36,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8928,2023-09-02 오전 3:37,2023-09-02 오전 3:36,PC03,ErgoPall Not Ready  OK ,ErgoPall            
 8933,2023-09-02 오전 3:36,2023-09-02 오전 3:36,PC03,P2259 Position 01 PE Blocked whilst  Unoccupied Fault  ,P2259               
 8934,2023-09-02 오전 3:36,2023-09-02 오전 3:36,PC03,ErgoPall Not Ready  ,ErgoPall            
-8935,2023-09-02 오전 3:36,2023-09-02 오전 3:32,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8936,2023-09-02 오전 3:36,2023-09-02 오전 3:32,PC03,ErgoPall Not Ready  OK ,ErgoPall            
-8937,2023-09-02 오전 3:35,2023-09-02 오전 3:32,PC03,ErgoPall Estop  OK ,ErgoPall            
-8938,2023-09-02 오전 3:35,2023-09-02 오전 3:32,PC03,ErgoPall Estop  OK ,ErgoPall            
-8941,2023-09-02 오전 3:34,2023-09-02 오전 3:34,PC03,EZ18 Tripped  OK ,                    
-8942,2023-09-02 오전 3:34,2023-09-02 오전 3:34,PC03,LC2256A  Safety Light Curtain Tripped  OK ,LC2256A             
-8943,2023-09-02 오전 3:34,2023-09-02 오전 3:34,PC03,EZ18 Tripped  OK ,                    
 8944,2023-09-02 오전 3:34,2023-09-02 오전 3:34,PC03,LC2256A  Safety Light Curtain Tripped  ,LC2256A             
 8945,2023-09-02 오전 3:34,2023-09-02 오전 3:34,PC03,EZ18 Tripped  ,                    
-8946,2023-09-02 오전 3:34,2023-09-02 오전 3:33,PC03,LC2256A  Safety Light Curtain Tripped  OK ,LC2256A             
-8947,2023-09-02 오전 3:34,2023-09-02 오전 3:32,PC03,EZ19 Tripped  OK ,                    
-8948,2023-09-02 오전 3:34,2023-09-02 오전 3:32,PC03,LC2248A  Safety Light Curtain Tripped  OK ,LC2248A             
-8949,2023-09-02 오전 3:34,2023-09-02 오전 3:33,PC03,EZ18 Tripped  OK ,                    
-8950,2023-09-02 오전 3:34,2023-09-02 오전 3:33,PC03,EZ18 Tripped  OK ,                    
 8959,2023-09-02 오전 3:33,2023-09-02 오전 3:33,PC03,LC2256A  Safety Light Curtain Tripped  ,LC2256A             
 8960,2023-09-02 오전 3:33,2023-09-02 오전 3:33,PC03,EZ18 Tripped  ,                    
-8961,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,EZ18 Tripped  OK ,                    
-8962,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,LC2256A  Safety Light Curtain Tripped  OK ,LC2256A             
 8963,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,EZ19 Tripped  ,                    
 8964,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,LC2248A  Safety Light Curtain Tripped  ,LC2248A             
 8965,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,ErgoPall Not Ready  ,ErgoPall            
 8966,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,ErgoPall Estop  ,ErgoPall            
-8967,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,EZ18 Tripped  OK ,                    
 8968,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,LC2256A  Safety Light Curtain Tripped  ,LC2256A             
 8969,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,EZ18 Tripped  ,                    
-8971,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,LC2256A  Safety Light Curtain Tripped  OK ,LC2256A             
-8972,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,EZ18 Tripped  OK ,                    
-8973,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,LC2256A  Safety Light Curtain Tripped  OK ,LC2256A             
-8974,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,EZ18 Tripped  OK ,                    
 8975,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,LC2256A  Safety Light Curtain Tripped  ,LC2256A             
 8976,2023-09-02 오전 3:32,2023-09-02 오전 3:32,PC03,EZ18 Tripped  ,                    
-8981,2023-09-02 오전 3:31,2023-09-02 오전 3:29,PC03,EZ18 Tripped  OK ,                    
-8982,2023-09-02 오전 3:31,2023-09-02 오전 3:31,PC03,EZ18 ESTOP S02 reset required  OK ,                    
-8983,2023-09-02 오전 3:31,2023-09-02 오전 3:29,PC03,EZ18 Tripped  OK ,                    
-8986,2023-09-02 오전 3:31,2023-09-02 오전 3:29,PC03,LC2256A  Safety Light Curtain Tripped  OK ,LC2256A             
-8987,2023-09-02 오전 3:31,2023-09-02 오전 3:29,PC03,LC2256A  Safety Light Curtain Tripped  OK ,LC2256A             
 8988,2023-09-02 오전 3:31,2023-09-02 오전 3:31,PC03,EZ18 ESTOP S02 reset required  ,                    
-8989,2023-09-02 오전 3:31,2023-09-02 오전 3:30,PC03,EZ18 ESTOP S02 Activated  OK ,EZ18                
-8990,2023-09-02 오전 3:31,2023-09-02 오전 3:30,PC03,EZ18 ESTOP S02 Input hardware faulted  OK ,                    
-8991,2023-09-02 오전 3:31,2023-09-02 오전 3:30,PC03,EZ18 ESTOP S02 Activated  OK ,EZ18                
 8997,2023-09-02 오전 3:30,2023-09-02 오전 3:30,PC03,EZ18 ESTOP S02 Input hardware faulted  ,                    
 8998,2023-09-02 오전 3:30,2023-09-02 오전 3:30,PC03,EZ18 ESTOP S02 Activated  ,EZ18                
 9001,2023-09-02 오전 3:29,2023-09-02 오전 3:29,PC03,LC2256A  Safety Light Curtain Tripped  ,LC2256A             
 9002,2023-09-02 오전 3:29,2023-09-02 오전 3:29,PC03,EZ18 Tripped  ,                    
-9009,2023-09-02 오전 3:28,2023-09-02 오전 3:28,PC03,P2259 Jog Mode Selected  OK ,P2259               
-9010,2023-09-02 오전 3:28,2023-09-02 오전 3:28,PC03,P2259 Jog Mode Selected  OK ,P2259               
 9011,2023-09-02 오전 3:28,2023-09-02 오전 3:28,PC03,P2259 Jog Mode Selected  ,P2259               
-9012,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2259 Jog Mode Selected  OK ,P2259               
-9013,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2259 Jog Mode Selected  OK ,P2259               
 9014,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2259 Jog Mode Selected  ,P2259               
-9015,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2255 Jog Mode Selected  OK ,P2255               
-9016,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2255 Jog Mode Selected  OK ,P2255               
-9018,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2259 Jog Mode Selected  OK ,P2259               
-9019,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2260 Jog Mode Selected  OK ,P2260               
-9020,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2259 Jog Mode Selected  OK ,P2259               
 9021,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2255 Jog Mode Selected  ,P2255               
 9022,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2260 Jog Mode Selected  ,P2260               
-9023,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2255 Jog Mode Selected  OK ,P2255               
-9024,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2255 Jog Mode Selected  OK ,P2255               
 9025,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2255 Jog Mode Selected  ,P2255               
 9026,2023-09-02 오전 3:27,2023-09-02 오전 3:27,PC03,P2259 Jog Mode Selected  ,P2259               
-9027,2023-09-02 오전 3:27,2023-09-02 오전 3:26,PC03,P2259 Jog Mode Selected  OK ,P2259               
-9028,2023-09-02 오전 3:27,2023-09-02 오전 3:26,PC03,P2259 Jog Mode Selected  OK ,P2259               
 9029,2023-09-02 오전 3:26,2023-09-02 오전 3:26,PC03,P2259 Jog Mode Selected  ,P2259               
-9032,2023-09-02 오전 3:25,2023-09-02 오전 3:25,PC03,P2259 Jog Mode Selected  OK ,P2259               
-9033,2023-09-02 오전 3:25,2023-09-02 오전 3:25,PC03,P2259 Jog Mode Selected  OK ,P2259               
 9034,2023-09-02 오전 3:25,2023-09-02 오전 3:25,PC03,P2259 Jog Mode Selected  ,P2259               
-9074,2023-09-02 오전 3:09,2023-09-02 오전 3:09,PC03,ST22341 STOP Button Activated  OK ,ST22341             
-9075,2023-09-02 오전 3:09,2023-09-02 오전 3:09,PC03,ST22341 STOP Button Activated  OK ,ST22341             
 9076,2023-09-02 오전 3:09,2023-09-02 오전 3:09,PC03,ST22341 STOP Button Activated  ,ST22341             
-9097,2023-09-02 오전 3:01,2023-09-02 오전 2:56,PC03,P2203 Conveyor Movimot Drive M01 Fault  OK ,P2203               
-9098,2023-09-02 오전 3:01,2023-09-02 오전 2:56,PC03,P2203 Conveyor Movimot Drive M01 Fault  OK ,P2203               
 9115,2023-09-02 오전 2:56,2023-09-02 오전 2:56,PC03,P2203 Conveyor Movimot Drive M01 Fault  ,P2203               
-9163,2023-09-02 오전 2:48,2023-09-02 오전 2:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-9164,2023-09-02 오전 2:48,2023-09-02 오전 2:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 9166,2023-09-02 오전 2:48,2023-09-02 오전 2:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-9352,2023-09-02 오전 2:15,2023-09-02 오전 2:15,PC03,ST22341 STOP Button Activated  OK ,ST22341             
-9353,2023-09-02 오전 2:15,2023-09-02 오전 2:15,PC03,ST22341 STOP Button Activated  OK ,ST22341             
 9354,2023-09-02 오전 2:15,2023-09-02 오전 2:15,PC03,ST22341 STOP Button Activated  ,ST22341             
-9499,2023-09-02 오전 1:48,2023-09-02 오전 1:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-9500,2023-09-02 오전 1:48,2023-09-02 오전 1:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 9501,2023-09-02 오전 1:48,2023-09-02 오전 1:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-10776,2023-09-01 오후 11:48,2023-09-01 오후 11:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-10777,2023-09-01 오후 11:48,2023-09-01 오후 11:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 10781,2023-09-01 오후 11:48,2023-09-01 오후 11:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-11185,2023-09-01 오후 10:48,2023-09-01 오후 10:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-11186,2023-09-01 오후 10:48,2023-09-01 오후 10:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 11191,2023-09-01 오후 10:48,2023-09-01 오후 10:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-11531,2023-09-01 오후 9:48,2023-09-01 오후 9:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-11532,2023-09-01 오후 9:48,2023-09-01 오후 9:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 11533,2023-09-01 오후 9:48,2023-09-01 오후 9:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-12127,2023-09-01 오후 8:48,2023-09-01 오후 8:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-12128,2023-09-01 오후 8:48,2023-09-01 오후 8:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 12129,2023-09-01 오후 8:48,2023-09-01 오후 8:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
-12657,2023-09-01 오후 7:48,2023-09-01 오후 7:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
-12658,2023-09-01 오후 7:48,2023-09-01 오후 7:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
 12661,2023-09-01 오후 7:48,2023-09-01 오후 7:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
