@@ -1,0 +1,279 @@
+﻿,Time / Date,Active Time/Date,Area,Description,Device
+9,2023-09-04 오전 8:44,2023-09-04 오전 8:38,MSAI04,Order repair timeout                                                                                            OK ,LV12SH01            
+10,2023-09-04 오전 8:44,2023-09-04 오전 8:38,MSAI04,Order repair timeout                                                                                            OK ,LV12SH01            
+26,2023-09-04 오전 8:38,2023-09-04 오전 8:38,MSAI04,Order repair timeout                                                                                            ,LV12SH01            
+32,2023-09-04 오전 8:35,2023-09-04 오전 8:20,MSAI04,"Logical Load Presence, No Data Present                                                                          OK ",EL01LO03            
+33,2023-09-04 오전 8:35,2023-09-04 오전 8:20,MSAI04,"Logical Load Presence, No Data Present                                                                          OK ",EL01LO03            
+34,2023-09-04 오전 8:35,2023-09-03 오전 2:06,MSAI04,Gap between loads too small                                                                                     OK ,LV12SH01            
+35,2023-09-04 오전 8:35,2023-09-03 오전 2:06,MSAI04,Gap between loads too small                                                                                     OK ,LV12SH01            
+36,2023-09-04 오전 8:35,2023-09-04 오전 8:23,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+37,2023-09-04 오전 8:35,2023-09-04 오전 8:23,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+40,2023-09-04 오전 8:34,2023-09-04 오전 8:33,MSAI04,Order repair timeout                                                                                            OK ,LV15SH01            
+41,2023-09-04 오전 8:34,2023-09-04 오전 8:33,MSAI04,Order repair timeout                                                                                            OK ,LV15SH01            
+46,2023-09-04 오전 8:33,2023-09-04 오전 8:31,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML02                
+47,2023-09-04 오전 8:33,2023-09-04 오전 8:33,MSAI04,Order repair timeout                                                                                            ,LV15SH01            
+48,2023-09-04 오전 8:33,2023-09-04 오전 8:31,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML02                
+55,2023-09-04 오전 8:31,2023-09-04 오전 8:31,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        ,ML02                
+56,2023-09-04 오전 8:31,2023-09-04 오전 8:31,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML02                
+57,2023-09-04 오전 8:31,2023-09-04 오전 8:31,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML02                
+58,2023-09-04 오전 8:31,2023-09-04 오전 8:31,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML02                
+59,2023-09-04 오전 8:30,2023-09-04 오전 8:30,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,LL08RI11            
+60,2023-09-04 오전 8:30,2023-09-04 오전 8:30,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,LL08RI11            
+61,2023-09-04 오전 8:30,2023-09-04 오전 8:30,MSAI04,Load Runtime Fault on Conveyor                                                                                  ,LL08RI11            
+62,2023-09-04 오전 8:30,2023-09-04 오전 8:25,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,LL08RI11            
+63,2023-09-04 오전 8:30,2023-09-04 오전 8:25,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,LL08RI11            
+64,2023-09-04 오전 8:30,2023-09-04 오전 2:03,MSAI04,Gap between loads too small                                                                                     OK ,LV15SH01            
+65,2023-09-04 오전 8:30,2023-09-04 오전 2:03,MSAI04,Gap between loads too small                                                                                     OK ,LV15SH01            
+66,2023-09-04 오전 8:30,2023-09-04 오전 8:28,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML04                
+67,2023-09-04 오전 8:30,2023-09-04 오전 8:28,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML04                
+84,2023-09-04 오전 8:28,2023-09-04 오전 8:28,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        ,ML04                
+85,2023-09-04 오전 8:28,2023-09-04 오전 8:27,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML04                
+86,2023-09-04 오전 8:28,2023-09-04 오전 8:27,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML04                
+87,2023-09-04 오전 8:27,2023-09-04 오전 8:27,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML04                
+95,2023-09-04 오전 8:25,2023-09-04 오전 8:25,MSAI04,Load Runtime Fault on Conveyor                                                                                  ,LL08RI11            
+96,2023-09-04 오전 8:25,2023-09-04 오전 8:25,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,LL08RI11            
+98,2023-09-04 오전 8:25,2023-09-04 오전 8:25,MSAI04,Load Runtime Fault on Conveyor                                                                                  ,LL08RI11            
+101,2023-09-04 오전 8:25,2023-09-04 오전 8:20,MSAI04,"Sensor Blocked, No Logical Load Presence                                                                        OK ",LL08RI11            
+102,2023-09-04 오전 8:25,2023-09-04 오전 8:20,MSAI04,"Sensor Blocked, No Logical Load Presence                                                                        OK ",LL08RI11            
+123,2023-09-04 오전 8:23,2023-09-04 오전 8:23,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+124,2023-09-04 오전 8:23,2023-09-04 오전 8:20,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+125,2023-09-04 오전 8:23,2023-09-04 오전 8:22,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+126,2023-09-04 오전 8:23,2023-09-04 오전 8:20,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+132,2023-09-04 오전 8:22,2023-09-04 오전 8:22,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+144,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI04,Load Runtime Fault on Conveyor                                                                                  ,EL01LO04            
+145,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI04,"Logical Load Presence, No Data Present                                                                          ",EL01LO03            
+147,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI04,"Sensor Blocked, No Logical Load Presence                                                                        ",LL08RI11            
+148,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+149,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+152,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI04,Rack Conveyor Gap Sensor Blocked                                                                                OK ,LL08RI11            
+153,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI04,Rack Conveyor Gap Sensor Blocked                                                                                OK ,LL08RI11            
+154,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI04,Load Runtime Fault on Conveyor                                                                                  ,EL01LO04            
+155,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI04,Rack Conveyor Gap Sensor Blocked                                                                                ,LL08RI11            
+156,2023-09-04 오전 8:20,2023-09-04 오전 7:22,MSAI04,Motor Stalled                                                                                                   OK ,EL01LO04            
+157,2023-09-04 오전 8:20,2023-09-04 오전 7:22,MSAI04,Motor Stalled                                                                                                   OK ,EL01LO04            
+483,2023-09-04 오전 7:22,2023-09-04 오전 7:22,MSAI04,Motor Stalled                                                                                                   ,EL01LO04            
+732,2023-09-04 오전 2:03,2023-09-04 오전 2:03,MSAI04,Gap between loads too small                                                                                     ,LV15SH01            
+1636,2023-09-03 오전 2:06,2023-09-03 오전 2:06,MSAI04,Gap between loads too small                                                                                     ,LV12SH01            
+4620,2023-09-02 오후 4:51,2023-09-02 오후 4:45,MSAI04,Motor Stalled                                                                                                   OK ,LL15RI12            
+4622,2023-09-02 오후 4:51,2023-09-02 오후 4:45,MSAI04,Motor Stalled                                                                                                   OK ,LL15RI12            
+4735,2023-09-02 오후 4:45,2023-09-02 오후 4:45,MSAI04,Motor Stalled                                                                                                   ,LL15RI12            
+6091,2023-09-02 오후 1:42,2023-09-02 오후 1:42,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+6092,2023-09-02 오후 1:42,2023-09-02 오후 1:42,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+6093,2023-09-02 오후 1:42,2023-09-02 오후 1:42,MSAI04,Load Runtime Fault on Conveyor                                                                                  ,EL01LO04            
+6094,2023-09-02 오후 1:42,2023-09-02 오후 1:42,MSAI04,"Logical Load Presence, No Data Present                                                                          OK ",EL01LO04            
+6095,2023-09-02 오후 1:42,2023-09-02 오후 1:42,MSAI04,"Logical Load Presence, No Data Present                                                                          OK ",EL01LO04            
+6096,2023-09-02 오후 1:42,2023-09-02 오후 1:42,MSAI04,"Logical Load Presence, No Data Present                                                                          ",EL01LO04            
+6099,2023-09-02 오후 1:42,2023-09-02 오후 1:41,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+6100,2023-09-02 오후 1:42,2023-09-02 오후 1:41,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+6101,2023-09-02 오후 1:41,2023-09-02 오후 1:41,MSAI04,Load Runtime Fault on Conveyor                                                                                  ,EL01LO04            
+6102,2023-09-02 오후 1:41,2023-09-02 오후 1:41,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO03            
+6103,2023-09-02 오후 1:41,2023-09-02 오후 1:41,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO03            
+6104,2023-09-02 오후 1:41,2023-09-02 오후 12:20,MSAI04,Hall Sensor Error                                                                                               OK ,LL10RI11            
+6105,2023-09-02 오후 1:41,2023-09-02 오후 12:20,MSAI04,Hall Sensor Error                                                                                               OK ,LL10RI11            
+6108,2023-09-02 오후 1:41,2023-09-02 오후 1:41,MSAI04,Load Runtime Fault on Conveyor                                                                                  ,EL01LO03            
+6109,2023-09-02 오후 1:41,2023-09-02 오후 12:20,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+6110,2023-09-02 오후 1:41,2023-09-02 오후 12:20,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+6348,2023-09-02 오후 12:20,2023-09-02 오후 12:20,MSAI04,Load Runtime Fault on Conveyor                                                                                  ,EL01LO04            
+6351,2023-09-02 오후 12:20,2023-09-02 오후 12:20,MSAI04,Hall Sensor Error                                                                                               ,LL10RI11            
+7387,2023-09-02 오전 7:11,2023-09-02 오전 7:05,MSAI04,Bin Empty                                                                                                       OK ,LV12SH01            
+7388,2023-09-02 오전 7:11,2023-09-02 오전 7:05,MSAI04,Bin Empty                                                                                                       OK ,LV12SH01            
+7389,2023-09-02 오전 7:11,2023-09-02 오전 7:09,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+7390,2023-09-02 오전 7:11,2023-09-02 오전 7:09,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+7397,2023-09-02 오전 7:09,2023-09-02 오전 7:09,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+7398,2023-09-02 오전 7:09,2023-09-02 오전 7:09,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+7399,2023-09-02 오전 7:09,2023-09-02 오전 7:09,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+7402,2023-09-02 오전 7:09,2023-09-02 오전 7:09,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+7420,2023-09-02 오전 7:05,2023-09-02 오전 7:05,MSAI04,Bin Empty                                                                                                       ,LV12SH01            
+9502,2023-09-02 오전 1:46,2023-09-02 오전 1:43,MSAI04,Front Finger 2 Not Closed                                                                                       OK ,LV10SH01            
+9503,2023-09-02 오전 1:46,2023-09-02 오전 1:43,MSAI04,Front Finger 2 Not Closed                                                                                       OK ,LV10SH01            
+9504,2023-09-02 오전 1:46,2023-09-02 오전 1:45,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+9505,2023-09-02 오전 1:46,2023-09-02 오전 1:45,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+9514,2023-09-02 오전 1:45,2023-09-02 오전 1:45,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+9515,2023-09-02 오전 1:45,2023-09-02 오전 1:45,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+9516,2023-09-02 오전 1:45,2023-09-02 오전 1:45,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+9519,2023-09-02 오전 1:45,2023-09-02 오전 1:45,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+9532,2023-09-02 오전 1:43,2023-09-02 오전 1:43,MSAI04,Front Finger 2 Not Closed                                                                                       ,LV10SH01            
+9533,2023-09-02 오전 1:43,2023-09-02 오전 1:43,MSAI04,Front Finger 2 Not Closed                                                                                       OK ,LV10SH01            
+9534,2023-09-02 오전 1:43,2023-09-02 오전 1:43,MSAI04,Front Finger 2 Not Closed                                                                                       OK ,LV10SH01            
+9535,2023-09-02 오전 1:43,2023-09-02 오전 1:43,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO03            
+9536,2023-09-02 오전 1:43,2023-09-02 오전 1:43,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO03            
+9537,2023-09-02 오전 1:43,2023-09-02 오전 1:43,MSAI04,Front Finger 2 Not Closed                                                                                       ,LV10SH01            
+9538,2023-09-02 오전 1:43,2023-09-02 오전 1:43,MSAI04,Load Runtime Fault on Conveyor                                                                                  ,EL01LO03            
+9546,2023-09-02 오전 1:42,2023-09-02 오전 1:41,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+9547,2023-09-02 오전 1:42,2023-09-02 오전 1:41,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+9548,2023-09-02 오전 1:41,2023-09-02 오전 1:41,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+9549,2023-09-02 오전 1:41,2023-09-02 오전 1:35,MSAI04,"Data Present, No Logical Load Presence                                                                          OK ",LL09RI11            
+9550,2023-09-02 오전 1:41,2023-09-02 오전 1:41,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+9554,2023-09-02 오전 1:41,2023-09-02 오전 1:41,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+9580,2023-09-02 오전 1:37,2023-09-02 오전 1:35,MSAI04,"Logical Load Presence, No Data Present                                                                          OK ",EL01LO04            
+9582,2023-09-02 오전 1:37,2023-09-02 오전 1:35,MSAI04,"Logical Load Presence, No Data Present                                                                          OK ",EL01LO04            
+9593,2023-09-02 오전 1:35,2023-09-02 오전 1:35,MSAI04,"Logical Load Presence, No Data Present                                                                          ",EL01LO04            
+9594,2023-09-02 오전 1:35,2023-09-02 오전 1:35,MSAI04,"Data Present, No Logical Load Presence                                                                          ",LL09RI11            
+9595,2023-09-02 오전 1:35,2023-09-02 오전 1:34,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+9596,2023-09-02 오전 1:35,2023-09-02 오전 1:34,MSAI04,Load Runtime Fault on Conveyor                                                                                  OK ,EL01LO04            
+9599,2023-09-02 오전 1:34,2023-09-02 오전 1:34,MSAI04,Load Runtime Fault on Conveyor                                                                                  ,EL01LO04            
+9603,2023-09-02 오전 1:34,2023-09-02 오전 1:30,MSAI04,Lift Conveyor Overhang Fault Side B                                                                             OK ,EL01LO00            
+9604,2023-09-02 오전 1:34,2023-09-02 오전 1:30,MSAI04,Lift Conveyor Overhang Fault Side B                                                                             OK ,EL01LO00            
+9667,2023-09-02 오전 1:30,2023-09-02 오전 1:30,MSAI04,Lift Conveyor Overhang Fault Side B                                                                             ,EL01LO00            
+9732,2023-09-02 오전 1:25,2023-09-02 오전 1:12,MSAI04,Gap between loads too small                                                                                     OK ,LV12SH01            
+9733,2023-09-02 오전 1:25,2023-09-02 오전 1:25,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+9734,2023-09-02 오전 1:25,2023-09-02 오전 1:25,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+9741,2023-09-02 오전 1:25,2023-09-02 오전 1:25,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+9742,2023-09-02 오전 1:25,2023-09-02 오전 1:24,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+9743,2023-09-02 오전 1:25,2023-09-02 오전 1:24,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+9755,2023-09-02 오전 1:24,2023-09-02 오전 1:24,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+9775,2023-09-02 오전 1:23,2023-09-02 오전 1:12,MSAI04,Gap between loads too small                                                                                     ,LV12SH01            
+9877,2023-09-02 오전 1:12,2023-09-02 오전 1:12,MSAI04,Gap between loads too small                                                                                     ,LV12SH01            
+10804,2023-09-01 오후 11:43,2023-09-01 오후 11:41,MSAI04,Motor Stalled                                                                                                   OK ,EL01LO01            
+10805,2023-09-01 오후 11:43,2023-09-01 오후 11:41,MSAI04,Motor Stalled                                                                                                   OK ,EL01LO01            
+10819,2023-09-01 오후 11:41,2023-09-01 오후 11:41,MSAI04,Motor Stalled                                                                                                   ,EL01LO01            
+11428,2023-09-01 오후 10:00,2023-09-01 오후 10:00,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11429,2023-09-01 오후 10:00,2023-09-01 오후 10:00,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11430,2023-09-01 오후 10:00,2023-09-01 오후 10:00,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11431,2023-09-01 오후 10:00,2023-09-01 오후 10:00,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11432,2023-09-01 오후 10:00,2023-09-01 오후 10:00,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11437,2023-09-01 오후 10:00,2023-09-01 오후 10:00,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         ,LV11SH01            
+11451,2023-09-01 오후 9:58,2023-09-01 오후 9:58,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11452,2023-09-01 오후 9:58,2023-09-01 오후 9:58,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11461,2023-09-01 오후 9:58,2023-09-01 오후 9:58,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+11464,2023-09-01 오후 9:58,2023-09-01 오후 9:55,MSAI04,Maintenance Level Shuttle Breaker Fault                                                                         OK ,ML03                
+11465,2023-09-01 오후 9:58,2023-09-01 오후 9:55,MSAI04,Maintenance Level Shuttle Breaker Fault                                                                         OK ,ML03                
+11495,2023-09-01 오후 9:55,2023-09-01 오후 9:55,MSAI04,Maintenance Level Shuttle Breaker Fault                                                                         ,ML03                
+11496,2023-09-01 오후 9:54,2023-09-01 오후 9:53,MSAI04,Front Finger 2 Not Open                                                                                         OK ,LV11SH01            
+11497,2023-09-01 오후 9:54,2023-09-01 오후 9:53,MSAI04,Front Finger 2 Not Open                                                                                         OK ,LV11SH01            
+11498,2023-09-01 오후 9:54,2023-09-01 오후 9:53,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11499,2023-09-01 오후 9:54,2023-09-01 오후 9:53,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11500,2023-09-01 오후 9:53,2023-09-01 오후 9:53,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+11502,2023-09-01 오후 9:53,2023-09-01 오후 9:53,MSAI04,Front Finger 2 Not Open                                                                                         ,LV11SH01            
+11503,2023-09-01 오후 9:53,2023-09-01 오후 9:52,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11504,2023-09-01 오후 9:53,2023-09-01 오후 9:52,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11505,2023-09-01 오후 9:52,2023-09-01 오후 9:52,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11527,2023-09-01 오후 9:48,2023-09-01 오후 9:46,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11528,2023-09-01 오후 9:48,2023-09-01 오후 9:46,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11529,2023-09-01 오후 9:48,2023-09-01 오후 9:46,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11530,2023-09-01 오후 9:48,2023-09-01 오후 9:46,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11538,2023-09-01 오후 9:46,2023-09-01 오후 9:46,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+11539,2023-09-01 오후 9:46,2023-09-01 오후 9:46,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         ,LV11SH01            
+11541,2023-09-01 오후 9:46,2023-09-01 오후 9:46,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11542,2023-09-01 오후 9:46,2023-09-01 오후 9:46,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11543,2023-09-01 오후 9:46,2023-09-01 오후 9:46,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11544,2023-09-01 오후 9:46,2023-09-01 오후 9:46,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11545,2023-09-01 오후 9:46,2023-09-01 오후 9:46,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11546,2023-09-01 오후 9:46,2023-09-01 오후 9:46,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         ,LV11SH01            
+11549,2023-09-01 오후 9:46,2023-09-01 오후 9:46,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11550,2023-09-01 오후 9:46,2023-09-01 오후 9:46,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11551,2023-09-01 오후 9:46,2023-09-01 오후 9:46,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11552,2023-09-01 오후 9:45,2023-09-01 오후 9:45,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11553,2023-09-01 오후 9:45,2023-09-01 오후 9:45,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11554,2023-09-01 오후 9:45,2023-09-01 오후 9:45,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         ,LV11SH01            
+11555,2023-09-01 오후 9:45,2023-09-01 오후 9:45,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11556,2023-09-01 오후 9:45,2023-09-01 오후 9:45,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11557,2023-09-01 오후 9:45,2023-09-01 오후 9:45,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11558,2023-09-01 오후 9:45,2023-09-01 오후 9:45,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11559,2023-09-01 오후 9:45,2023-09-01 오후 9:45,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11562,2023-09-01 오후 9:45,2023-09-01 오후 9:45,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         ,LV11SH01            
+11569,2023-09-01 오후 9:45,2023-09-01 오후 9:44,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11570,2023-09-01 오후 9:45,2023-09-01 오후 9:44,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11578,2023-09-01 오후 9:44,2023-09-01 오후 9:44,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11592,2023-09-01 오후 9:38,2023-09-01 오후 9:36,MSAI04,Front Finger 2 Not Open                                                                                         OK ,LV11SH01            
+11593,2023-09-01 오후 9:38,2023-09-01 오후 9:36,MSAI04,Front Finger 2 Not Open                                                                                         OK ,LV11SH01            
+11594,2023-09-01 오후 9:38,2023-09-01 오후 9:37,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11595,2023-09-01 오후 9:38,2023-09-01 오후 9:37,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11602,2023-09-01 오후 9:37,2023-09-01 오후 9:37,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+11603,2023-09-01 오후 9:36,2023-09-01 오후 9:36,MSAI04,Front Finger 2 Not Open                                                                                         ,LV11SH01            
+11604,2023-09-01 오후 9:36,2023-09-01 오후 9:36,MSAI04,Front Finger 2 Not Open                                                                                         OK ,LV11SH01            
+11605,2023-09-01 오후 9:36,2023-09-01 오후 9:36,MSAI04,Front Finger 2 Not Open                                                                                         OK ,LV11SH01            
+11606,2023-09-01 오후 9:36,2023-09-01 오후 9:36,MSAI04,Front Finger 2 Not Open                                                                                         ,LV11SH01            
+11607,2023-09-01 오후 9:36,2023-09-01 오후 9:36,MSAI04,Front Finger 2 Not Open                                                                                         OK ,LV11SH01            
+11608,2023-09-01 오후 9:36,2023-09-01 오후 9:36,MSAI04,Front Finger 2 Not Open                                                                                         OK ,LV11SH01            
+11610,2023-09-01 오후 9:36,2023-09-01 오후 9:36,MSAI04,Front Finger 2 Not Open                                                                                         ,LV11SH01            
+11611,2023-09-01 오후 9:36,2023-09-01 오후 9:36,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11612,2023-09-01 오후 9:36,2023-09-01 오후 9:36,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11613,2023-09-01 오후 9:36,2023-09-01 오후 9:36,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         ,LV11SH01            
+11618,2023-09-01 오후 9:33,2023-09-01 오후 9:29,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11619,2023-09-01 오후 9:33,2023-09-01 오후 9:29,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11622,2023-09-01 오후 9:33,2023-09-01 오후 9:31,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11624,2023-09-01 오후 9:33,2023-09-01 오후 9:31,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11644,2023-09-01 오후 9:31,2023-09-01 오후 9:31,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+11711,2023-09-01 오후 9:29,2023-09-01 오후 9:29,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11836,2023-09-01 오후 9:23,2023-09-01 오후 9:23,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11837,2023-09-01 오후 9:23,2023-09-01 오후 9:23,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11838,2023-09-01 오후 9:23,2023-09-01 오후 9:23,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11848,2023-09-01 오후 9:22,2023-09-01 오후 9:22,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11850,2023-09-01 오후 9:22,2023-09-01 오후 9:22,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11851,2023-09-01 오후 9:22,2023-09-01 오후 9:22,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         ,LV11SH01            
+11854,2023-09-01 오후 9:21,2023-09-01 오후 9:21,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11855,2023-09-01 오후 9:21,2023-09-01 오후 9:21,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11856,2023-09-01 오후 9:21,2023-09-01 오후 9:21,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11882,2023-09-01 오후 9:18,2023-09-01 오후 9:14,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11884,2023-09-01 오후 9:18,2023-09-01 오후 9:14,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11885,2023-09-01 오후 9:18,2023-09-01 오후 9:14,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11886,2023-09-01 오후 9:18,2023-09-01 오후 9:14,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11899,2023-09-01 오후 9:14,2023-09-01 오후 9:14,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+11900,2023-09-01 오후 9:14,2023-09-01 오후 9:10,MSAI04,Maintenance Level Shuttle Breaker Fault                                                                         OK ,ML03                
+11901,2023-09-01 오후 9:14,2023-09-01 오후 9:10,MSAI04,Maintenance Level Shuttle Breaker Fault                                                                         OK ,ML03                
+11904,2023-09-01 오후 9:14,2023-09-01 오후 9:14,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11913,2023-09-01 오후 9:12,2023-09-01 오후 9:12,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11914,2023-09-01 오후 9:12,2023-09-01 오후 9:12,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11919,2023-09-01 오후 9:12,2023-09-01 오후 9:12,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11921,2023-09-01 오후 9:12,2023-09-01 오후 9:12,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11922,2023-09-01 오후 9:12,2023-09-01 오후 9:12,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11923,2023-09-01 오후 9:12,2023-09-01 오후 9:12,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         ,LV11SH01            
+11926,2023-09-01 오후 9:11,2023-09-01 오후 9:11,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11927,2023-09-01 오후 9:11,2023-09-01 오후 9:11,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+11933,2023-09-01 오후 9:11,2023-09-01 오후 9:11,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+11945,2023-09-01 오후 9:10,2023-09-01 오후 9:10,MSAI04,Maintenance Level Shuttle Breaker Fault                                                                         ,ML03                
+11946,2023-09-01 오후 9:09,2023-09-01 오후 9:05,MSAI04,Shuttle Safety Circuit Active                                                                                   OK ,LV11SH01            
+11947,2023-09-01 오후 9:09,2023-09-01 오후 9:05,MSAI04,Shuttle Safety Circuit Active                                                                                   OK ,LV11SH01            
+11948,2023-09-01 오후 9:09,2023-09-01 오후 9:08,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11949,2023-09-01 오후 9:09,2023-09-01 오후 9:08,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+11961,2023-09-01 오후 9:08,2023-09-01 오후 9:08,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+11962,2023-09-01 오후 9:08,2023-09-01 오후 9:05,MSAI04,Maintenance Level Shuttle Breaker Fault                                                                         OK ,ML03                
+11963,2023-09-01 오후 9:08,2023-09-01 오후 9:05,MSAI04,Maintenance Level Shuttle Breaker Fault                                                                         OK ,ML03                
+11980,2023-09-01 오후 9:05,2023-09-01 오후 9:05,MSAI04,Shuttle Safety Circuit Active                                                                                   ,LV11SH01            
+11988,2023-09-01 오후 9:05,2023-09-01 오후 9:05,MSAI04,Maintenance Level Shuttle Breaker Fault                                                                         ,ML03                
+11991,2023-09-01 오후 9:05,2023-09-01 오후 8:57,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11992,2023-09-01 오후 9:05,2023-09-01 오후 8:57,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+11993,2023-09-01 오후 9:05,2023-09-01 오후 9:00,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+11994,2023-09-01 오후 9:05,2023-09-01 오후 9:00,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+12021,2023-09-01 오후 9:00,2023-09-01 오후 9:00,MSAI04,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+12022,2023-09-01 오후 9:00,2023-09-01 오후 8:58,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12023,2023-09-01 오후 9:00,2023-09-01 오후 8:58,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12037,2023-09-01 오후 8:58,2023-09-01 오후 8:58,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+12038,2023-09-01 오후 8:57,2023-09-01 오후 8:57,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         ,LV11SH01            
+12051,2023-09-01 오후 8:55,2023-09-01 오후 8:47,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+12052,2023-09-01 오후 8:55,2023-09-01 오후 8:47,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+12053,2023-09-01 오후 8:55,2023-09-01 오후 8:53,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12054,2023-09-01 오후 8:55,2023-09-01 오후 8:53,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12069,2023-09-01 오후 8:53,2023-09-01 오후 8:53,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+12136,2023-09-01 오후 8:47,2023-09-01 오후 8:47,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+12181,2023-09-01 오후 8:43,2023-09-01 오후 8:38,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12182,2023-09-01 오후 8:43,2023-09-01 오후 8:38,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12207,2023-09-01 오후 8:41,2023-09-01 오후 8:36,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+12208,2023-09-01 오후 8:41,2023-09-01 오후 8:36,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         OK ,LV11SH01            
+12213,2023-09-01 오후 8:38,2023-09-01 오후 8:38,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+12223,2023-09-01 오후 8:36,2023-09-01 오후 8:36,MSAI04,Too Many Consecutive Bin Blocked Faults                                                                         ,LV11SH01            
+12236,2023-09-01 오후 8:33,2023-09-01 오후 8:25,MSAI04,"Shuttle Load Overhang, Both Sides                                                                               OK ",LV11SH01            
+12237,2023-09-01 오후 8:33,2023-09-01 오후 8:25,MSAI04,"Shuttle Load Overhang, Both Sides                                                                               OK ",LV11SH01            
+12238,2023-09-01 오후 8:33,2023-09-01 오후 8:27,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12239,2023-09-01 오후 8:33,2023-09-01 오후 8:27,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12290,2023-09-01 오후 8:27,2023-09-01 오후 8:27,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+12297,2023-09-01 오후 8:25,2023-09-01 오후 8:25,MSAI04,"Shuttle Load Overhang, Both Sides                                                                               ",LV11SH01            
+12299,2023-09-01 오후 8:25,2023-09-01 오후 8:22,MSAI04,X: Shuttle Telescope Not Centered                                                                               OK ,LV11SH01            
+12300,2023-09-01 오후 8:25,2023-09-01 오후 8:22,MSAI04,X: Shuttle Telescope Not Centered                                                                               OK ,LV11SH01            
+12324,2023-09-01 오후 8:22,2023-09-01 오후 8:22,MSAI04,X: Shuttle Telescope Not Centered                                                                               ,LV11SH01            
+12330,2023-09-01 오후 8:22,2023-09-01 오후 8:13,MSAI04,Order repair timeout                                                                                            OK ,LV11SH01            
+12331,2023-09-01 오후 8:22,2023-09-01 오후 8:13,MSAI04,Order repair timeout                                                                                            OK ,LV11SH01            
+12446,2023-09-01 오후 8:13,2023-09-01 오후 8:13,MSAI04,Order repair timeout                                                                                            ,LV11SH01            
+12470,2023-09-01 오후 8:10,2023-09-01 오후 7:57,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+12471,2023-09-01 오후 8:10,2023-09-01 오후 7:57,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+12472,2023-09-01 오후 8:10,2023-09-01 오후 8:08,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12473,2023-09-01 오후 8:10,2023-09-01 오후 8:08,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12487,2023-09-01 오후 8:08,2023-09-01 오후 8:08,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+12578,2023-09-01 오후 7:57,2023-09-01 오후 7:57,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            
+12609,2023-09-01 오후 7:54,2023-09-01 오후 7:39,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+12610,2023-09-01 오후 7:54,2023-09-01 오후 7:39,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV11SH01            
+12611,2023-09-01 오후 7:53,2023-09-01 오후 7:51,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12612,2023-09-01 오후 7:53,2023-09-01 오후 7:51,MSAI04,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12625,2023-09-01 오후 7:51,2023-09-01 오후 7:51,MSAI04,Maintenance Level Rear Gate Open                                                                                ,ML03                
+12732,2023-09-01 오후 7:39,2023-09-01 오후 7:39,MSAI04,"Drop Location Deep, Front Bin Occupied                                                                          ",LV11SH01            

@@ -1,0 +1,202 @@
+﻿,Time / Date,Active Time/Date,Area,Description,Device
+75,2023-09-04 오전 8:29,2023-09-04 오전 8:23,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+76,2023-09-04 오전 8:29,2023-09-04 오전 8:23,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+77,2023-09-04 오전 8:29,2023-09-04 오전 8:24,MSAI01,"Sensor Blocked, No Logical Load Presence                                                                        OK ",LR15RI11            
+78,2023-09-04 오전 8:29,2023-09-04 오전 8:24,MSAI01,"Sensor Blocked, No Logical Load Presence                                                                        OK ",LR15RI11            
+82,2023-09-04 오전 8:28,2023-09-04 오전 8:19,MSAI01,Order repair timeout                                                                                            OK ,LV10SH01            
+83,2023-09-04 오전 8:28,2023-09-04 오전 8:19,MSAI01,Order repair timeout                                                                                            OK ,LV10SH01            
+108,2023-09-04 오전 8:24,2023-09-04 오전 8:24,MSAI01,"Sensor Blocked, No Logical Load Presence                                                                        ",LR15RI11            
+110,2023-09-04 오전 8:24,2023-09-04 오전 8:23,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML04                
+111,2023-09-04 오전 8:24,2023-09-04 오전 8:23,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML04                
+113,2023-09-04 오전 8:23,2023-09-04 오전 8:23,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,ER01LO00            
+114,2023-09-04 오전 8:23,2023-09-04 오전 8:23,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        ,ML04                
+115,2023-09-04 오전 8:23,2023-09-04 오전 8:23,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML04                
+116,2023-09-04 오전 8:23,2023-09-04 오전 8:20,MSAI01,"Data Present, No Logical Load Presence                                                                          OK ",LR15RI11            
+117,2023-09-04 오전 8:23,2023-09-04 오전 8:23,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML04                
+127,2023-09-04 오전 8:23,2023-09-04 오전 8:23,MSAI01,Maintenance Level Rear Gate Open                                                                                ,ML04                
+135,2023-09-04 오전 8:22,2023-09-04 오전 8:11,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+136,2023-09-04 오전 8:22,2023-09-04 오전 8:11,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+139,2023-09-04 오전 8:21,2023-09-04 오전 8:11,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+140,2023-09-04 오전 8:21,2023-09-04 오전 8:11,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+146,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI01,"Data Present, No Logical Load Presence                                                                          ",LR15RI11            
+150,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI01,Maintenance Level Front Gate Open                                                                               OK ,ML00                
+151,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI01,Maintenance Level Front Gate Open                                                                               OK ,ML00                
+162,2023-09-04 오전 8:20,2023-09-04 오전 8:20,MSAI01,Maintenance Level Front Gate Open                                                                               ,ML00                
+163,2023-09-04 오전 8:20,2023-09-04 오전 8:18,MSAI01,"Data Present, No Logical Load Presence                                                                          OK ",LR15RI11            
+165,2023-09-04 오전 8:20,2023-09-04 오전 8:18,MSAI01,"Data Present, No Logical Load Presence                                                                          OK ",LR15RI11            
+169,2023-09-04 오전 8:19,2023-09-04 오전 8:19,MSAI01,Order repair timeout                                                                                            ,LV10SH01            
+172,2023-09-04 오전 8:18,2023-09-04 오전 8:18,MSAI01,"Data Present, No Logical Load Presence                                                                          ",LR15RI11            
+174,2023-09-04 오전 8:18,2023-09-04 오전 8:16,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML04                
+175,2023-09-04 오전 8:18,2023-09-04 오전 8:16,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML04                
+195,2023-09-04 오전 8:16,2023-09-04 오전 8:16,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        ,ML04                
+196,2023-09-04 오전 8:16,2023-09-04 오전 7:30,MSAI01,"Data Present, No Logical Load Presence                                                                          OK ",LR15RI11            
+197,2023-09-04 오전 8:16,2023-09-04 오전 8:15,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML04                
+198,2023-09-04 오전 8:16,2023-09-04 오전 7:30,MSAI01,"Data Present, No Logical Load Presence                                                                          OK ",LR15RI11            
+209,2023-09-04 오전 8:15,2023-09-04 오전 8:15,MSAI01,Maintenance Level Rear Gate Open                                                                                ,ML04                
+210,2023-09-04 오전 8:15,2023-09-04 오전 8:10,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+211,2023-09-04 오전 8:15,2023-09-04 오전 8:10,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+264,2023-09-04 오전 8:11,2023-09-04 오전 8:11,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,ER01LO00            
+265,2023-09-04 오전 8:11,2023-09-04 오전 8:11,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,EL01LO00            
+266,2023-09-04 오전 8:10,2023-09-04 오전 8:10,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+267,2023-09-04 오전 8:10,2023-09-04 오전 8:10,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+268,2023-09-04 오전 8:10,2023-09-04 오전 8:10,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+269,2023-09-04 오전 8:10,2023-09-04 오전 8:10,MSAI01,Maintenance Level Rear Gate Open                                                                                ,ML03                
+270,2023-09-04 오전 8:10,2023-09-03 오전 2:02,MSAI01,Bin Empty                                                                                                       OK ,LV10SH01            
+271,2023-09-04 오전 8:10,2023-09-03 오전 2:02,MSAI01,Bin Empty                                                                                                       OK ,LV10SH01            
+414,2023-09-04 오전 7:30,2023-09-04 오전 7:30,MSAI01,"Data Present, No Logical Load Presence                                                                          ",LR15RI11            
+417,2023-09-04 오전 7:30,2023-09-04 오전 7:30,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+418,2023-09-04 오전 7:30,2023-09-04 오전 7:30,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+419,2023-09-04 오전 7:30,2023-09-04 오전 7:30,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,ER01LO04            
+422,2023-09-04 오전 7:30,2023-09-04 오전 7:26,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+423,2023-09-04 오전 7:30,2023-09-04 오전 7:26,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+446,2023-09-04 오전 7:26,2023-09-04 오전 7:26,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,ER01LO04            
+449,2023-09-04 오전 7:26,2023-09-04 오전 7:25,MSAI01,"Logical Load Presence, No Data Present                                                                          OK ",ER01LO03            
+450,2023-09-04 오전 7:26,2023-09-04 오전 7:25,MSAI01,"Logical Load Presence, No Data Present                                                                          OK ",ER01LO03            
+451,2023-09-04 오전 7:26,2023-09-04 오전 7:25,MSAI01,"Data Present, No Logical Load Presence                                                                          OK ",LR15RI11            
+452,2023-09-04 오전 7:26,2023-09-04 오전 7:25,MSAI01,"Data Present, No Logical Load Presence                                                                          OK ",LR15RI11            
+453,2023-09-04 오전 7:25,2023-09-04 오전 7:25,MSAI01,"Data Present, No Logical Load Presence                                                                          ",LR15RI11            
+456,2023-09-04 오전 7:25,2023-09-04 오전 7:25,MSAI01,"Logical Load Presence, No Data Present                                                                          ",ER01LO03            
+457,2023-09-04 오전 7:25,2023-09-04 오전 7:20,MSAI01,Hall Sensor Error                                                                                               OK ,LR15RI11            
+458,2023-09-04 오전 7:25,2023-09-04 오전 7:20,MSAI01,Hall Sensor Error                                                                                               OK ,LR15RI11            
+461,2023-09-04 오전 7:25,2023-09-04 오전 7:24,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+462,2023-09-04 오전 7:25,2023-09-04 오전 7:24,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+463,2023-09-04 오전 7:24,2023-09-04 오전 7:24,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,ER01LO04            
+465,2023-09-04 오전 7:24,2023-09-04 오전 7:21,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+466,2023-09-04 오전 7:24,2023-09-04 오전 7:21,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+488,2023-09-04 오전 7:21,2023-09-04 오전 7:21,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,ER01LO04            
+491,2023-09-04 오전 7:20,2023-09-04 오전 7:20,MSAI01,Hall Sensor Error                                                                                               ,LR15RI11            
+508,2023-09-04 오전 7:17,2023-09-03 오후 11:06,MSAI01,Hall Sensor Error                                                                                               OK ,LR13RI12            
+509,2023-09-04 오전 7:17,2023-09-03 오후 11:06,MSAI01,Hall Sensor Error                                                                                               OK ,LR13RI12            
+950,2023-09-03 오후 11:06,2023-09-03 오후 11:06,MSAI01,Hall Sensor Error                                                                                               ,LR13RI12            
+1637,2023-09-03 오전 2:02,2023-09-03 오전 2:02,MSAI01,Bin Empty                                                                                                       ,LV10SH01            
+6399,2023-09-02 오후 12:08,2023-09-02 오후 12:06,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML02                
+6400,2023-09-02 오후 12:08,2023-09-02 오후 12:06,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML02                
+6407,2023-09-02 오후 12:06,2023-09-02 오후 12:06,MSAI01,Maintenance Level Rear Gate Open                                                                                ,ML02                
+6408,2023-09-02 오후 12:05,2023-09-02 오전 11:58,MSAI01,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV05SH01            
+6409,2023-09-02 오후 12:05,2023-09-02 오전 11:58,MSAI01,"Drop Location Deep, Front Bin Occupied                                                                          OK ",LV05SH01            
+6441,2023-09-02 오전 11:58,2023-09-02 오전 11:58,MSAI01,"Drop Location Deep, Front Bin Occupied                                                                          ",LV05SH01            
+7137,2023-09-02 오전 7:50,2023-09-02 오전 7:42,MSAI01,"Sensor Blocked, No Logical Load Presence                                                                        OK ",CL02DS18            
+7138,2023-09-02 오전 7:50,2023-09-02 오전 7:42,MSAI01,"Sensor Blocked, No Logical Load Presence                                                                        OK ",CL02DS18            
+7224,2023-09-02 오전 7:42,2023-09-02 오전 7:42,MSAI01,"Sensor Blocked, No Logical Load Presence                                                                        ",CL02DS18            
+7265,2023-09-02 오전 7:40,2023-09-02 오전 7:38,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+7266,2023-09-02 오전 7:40,2023-09-02 오전 7:38,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+7267,2023-09-02 오전 7:40,2023-09-02 오전 7:38,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+7268,2023-09-02 오전 7:40,2023-09-02 오전 7:38,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+7269,2023-09-02 오전 7:40,2023-09-02 오전 7:38,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML01                
+7270,2023-09-02 오전 7:40,2023-09-02 오전 7:38,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML01                
+7275,2023-09-02 오전 7:38,2023-09-02 오전 7:38,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,ER01LO00            
+7276,2023-09-02 오전 7:38,2023-09-02 오전 7:38,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,EL01LO00            
+7278,2023-09-02 오전 7:38,2023-09-02 오전 7:38,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        ,ML01                
+7279,2023-09-02 오전 7:38,2023-09-02 오전 7:38,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML01                
+7280,2023-09-02 오전 7:38,2023-09-02 오전 7:38,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML01                
+7281,2023-09-02 오전 7:38,2023-09-02 오전 7:38,MSAI01,Maintenance Level Rear Gate Open                                                                                ,ML01                
+8570,2023-09-02 오전 4:15,2023-09-02 오전 3:51,MSAI01,Motor Stalled                                                                                                   OK ,EL01LO04            
+8671,2023-09-02 오전 4:06,2023-09-02 오전 3:51,MSAI01,Motor Stalled                                                                                                   ,EL01LO04            
+8831,2023-09-02 오전 3:51,2023-09-02 오전 3:51,MSAI01,Motor Stalled                                                                                                   ,EL01LO04            
+9255,2023-09-02 오전 2:33,2023-09-02 오전 2:27,MSAI01,Gap between loads too small                                                                                     OK ,LV06SH01            
+9256,2023-09-02 오전 2:33,2023-09-02 오전 2:27,MSAI01,Gap between loads too small                                                                                     OK ,LV06SH01            
+9257,2023-09-02 오전 2:33,2023-09-02 오전 2:32,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML02                
+9259,2023-09-02 오전 2:33,2023-09-02 오전 2:32,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML02                
+9265,2023-09-02 오전 2:32,2023-09-02 오전 2:32,MSAI01,Maintenance Level Rear Gate Open                                                                                ,ML02                
+9278,2023-09-02 오전 2:27,2023-09-02 오전 2:27,MSAI01,Gap between loads too small                                                                                     ,LV06SH01            
+9654,2023-09-02 오전 1:31,2023-09-02 오전 1:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+9655,2023-09-02 오전 1:31,2023-09-02 오전 1:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+9657,2023-09-02 오전 1:31,2023-09-02 오전 1:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+9658,2023-09-02 오전 1:31,2023-09-02 오전 1:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+9662,2023-09-02 오전 1:31,2023-09-02 오전 1:29,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,LR13RI12            
+9663,2023-09-02 오전 1:31,2023-09-02 오전 1:29,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,LR13RI12            
+9683,2023-09-02 오전 1:29,2023-09-02 오전 1:29,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,LR13RI12            
+9691,2023-09-02 오전 1:28,2023-09-02 오전 1:25,MSAI01,Z: Over Current                                                                                                 OK ,LV13SH01            
+9692,2023-09-02 오전 1:28,2023-09-02 오전 1:25,MSAI01,Z: Over Current                                                                                                 OK ,LV13SH01            
+9693,2023-09-02 오전 1:28,2023-09-02 오전 1:28,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML04                
+9694,2023-09-02 오전 1:28,2023-09-02 오전 1:28,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML04                
+9707,2023-09-02 오전 1:28,2023-09-02 오전 1:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,ER01LO00            
+9708,2023-09-02 오전 1:28,2023-09-02 오전 1:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,EL01LO00            
+9709,2023-09-02 오전 1:28,2023-09-02 오전 1:28,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        ,ML04                
+9712,2023-09-02 오전 1:28,2023-09-02 오전 1:27,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML04                
+9713,2023-09-02 오전 1:28,2023-09-02 오전 1:27,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML04                
+9719,2023-09-02 오전 1:27,2023-09-02 오전 1:27,MSAI01,Maintenance Level Rear Gate Open                                                                                ,ML04                
+9735,2023-09-02 오전 1:25,2023-09-02 오전 1:25,MSAI01,Z: Over Current                                                                                                 ,LV13SH01            
+10022,2023-09-02 오전 12:58,2023-09-02 오전 12:56,MSAI01,Motor Stalled                                                                                                   OK ,LR02RI12            
+10023,2023-09-02 오전 12:58,2023-09-02 오전 12:56,MSAI01,Motor Stalled                                                                                                   OK ,LR02RI12            
+10032,2023-09-02 오전 12:56,2023-09-02 오전 12:56,MSAI01,Motor Stalled                                                                                                   ,LR02RI12            
+10089,2023-09-02 오전 12:51,2023-09-02 오전 12:49,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,LR03RI12            
+10090,2023-09-02 오전 12:51,2023-09-02 오전 12:49,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,LR03RI12            
+10104,2023-09-02 오전 12:49,2023-09-02 오전 12:49,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,LR03RI12            
+10105,2023-09-02 오전 12:49,2023-09-02 오전 12:45,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+10106,2023-09-02 오전 12:49,2023-09-02 오전 12:45,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+10107,2023-09-02 오전 12:49,2023-09-02 오전 12:45,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+10108,2023-09-02 오전 12:49,2023-09-02 오전 12:45,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+10109,2023-09-02 오전 12:49,2023-09-02 오전 12:43,MSAI01,Front Finger 2 Not Closed                                                                                       OK ,LV03SH01            
+10110,2023-09-02 오전 12:49,2023-09-02 오전 12:43,MSAI01,Front Finger 2 Not Closed                                                                                       OK ,LV03SH01            
+10111,2023-09-02 오전 12:49,2023-09-02 오전 12:45,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML01                
+10112,2023-09-02 오전 12:49,2023-09-02 오전 12:45,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML01                
+10174,2023-09-02 오전 12:45,2023-09-02 오전 12:45,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,ER01LO00            
+10175,2023-09-02 오전 12:45,2023-09-02 오전 12:45,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,EL01LO00            
+10176,2023-09-02 오전 12:45,2023-09-02 오전 12:45,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        ,ML01                
+10177,2023-09-02 오전 12:45,2023-09-02 오전 12:45,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML01                
+10178,2023-09-02 오전 12:45,2023-09-02 오전 12:45,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML01                
+10188,2023-09-02 오전 12:45,2023-09-02 오전 12:45,MSAI01,Maintenance Level Rear Gate Open                                                                                ,ML01                
+10206,2023-09-02 오전 12:43,2023-09-02 오전 12:43,MSAI01,Front Finger 2 Not Closed                                                                                       ,LV03SH01            
+10223,2023-09-02 오전 12:42,2023-09-02 오전 12:37,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO03            
+10224,2023-09-02 오전 12:42,2023-09-02 오전 12:37,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO03            
+10259,2023-09-02 오전 12:40,2023-09-02 오전 12:39,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+10260,2023-09-02 오전 12:40,2023-09-02 오전 12:39,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+10261,2023-09-02 오전 12:40,2023-09-02 오전 12:39,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+10262,2023-09-02 오전 12:40,2023-09-02 오전 12:39,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+10265,2023-09-02 오전 12:40,2023-09-02 오전 12:39,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+10266,2023-09-02 오전 12:40,2023-09-02 오전 12:39,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+10268,2023-09-02 오전 12:39,2023-09-02 오전 12:39,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,ER01LO00            
+10269,2023-09-02 오전 12:39,2023-09-02 오전 12:39,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,EL01LO00            
+10272,2023-09-02 오전 12:39,2023-09-02 오전 12:39,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+10274,2023-09-02 오전 12:39,2023-09-02 오전 12:38,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+10275,2023-09-02 오전 12:39,2023-09-02 오전 12:38,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+10283,2023-09-02 오전 12:38,2023-09-02 오전 12:38,MSAI01,Maintenance Level Rear Gate Open                                                                                ,ML03                
+10302,2023-09-02 오전 12:37,2023-09-02 오전 12:37,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,ER01LO03            
+10303,2023-09-02 오전 12:37,2023-09-02 오전 12:36,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO03            
+10304,2023-09-02 오전 12:37,2023-09-02 오전 12:36,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO03            
+10320,2023-09-02 오전 12:36,2023-09-02 오전 12:36,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,ER01LO03            
+10321,2023-09-02 오전 12:36,2023-09-02 오전 12:35,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+10322,2023-09-02 오전 12:36,2023-09-02 오전 12:35,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+10327,2023-09-02 오전 12:35,2023-09-02 오전 12:35,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,ER01LO04            
+10328,2023-09-02 오전 12:35,2023-09-02 오전 12:35,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO03            
+10329,2023-09-02 오전 12:35,2023-09-02 오전 12:35,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO03            
+10330,2023-09-02 오전 12:35,2023-09-02 오전 12:35,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,ER01LO03            
+10349,2023-09-02 오전 12:32,2023-09-02 오전 12:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+10350,2023-09-02 오전 12:32,2023-09-02 오전 12:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,EL01LO00            
+10356,2023-09-02 오전 12:32,2023-09-02 오전 12:30,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+10357,2023-09-02 오전 12:32,2023-09-02 오전 12:30,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,ER01LO04            
+10376,2023-09-02 오전 12:30,2023-09-02 오전 12:29,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,LR03RI12            
+10377,2023-09-02 오전 12:30,2023-09-02 오전 12:29,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,LR03RI12            
+10378,2023-09-02 오전 12:30,2023-09-02 오전 12:29,MSAI01,Rack Conveyor Gap Sensor Blocked                                                                                OK ,LR03RI11            
+10379,2023-09-02 오전 12:30,2023-09-02 오전 12:29,MSAI01,Rack Conveyor Gap Sensor Blocked                                                                                OK ,LR03RI11            
+10380,2023-09-02 오전 12:30,2023-09-02 오전 12:30,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,ER01LO04            
+10381,2023-09-02 오전 12:29,2023-09-02 오전 12:29,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,LR03RI12            
+10382,2023-09-02 오전 12:29,2023-09-02 오전 12:29,MSAI01,Rack Conveyor Gap Sensor Blocked                                                                                ,LR03RI11            
+10383,2023-09-02 오전 12:29,2023-09-02 오전 12:28,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,LR03RI11            
+10384,2023-09-02 오전 12:29,2023-09-02 오전 12:28,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,LR03RI11            
+10387,2023-09-02 오전 12:29,2023-09-02 오전 12:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+10388,2023-09-02 오전 12:29,2023-09-02 오전 12:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                OK ,ER01LO00            
+10389,2023-09-02 오전 12:29,2023-09-02 오전 12:29,MSAI01,Conveyor Gap Sensor Blocked                                                                                     OK ,ER01LO04            
+10390,2023-09-02 오전 12:29,2023-09-02 오전 12:29,MSAI01,Conveyor Gap Sensor Blocked                                                                                     OK ,ER01LO04            
+10391,2023-09-02 오전 12:29,2023-09-02 오전 12:29,MSAI01,Conveyor Gap Sensor Blocked                                                                                     ,ER01LO04            
+10393,2023-09-02 오전 12:28,2023-09-02 오전 12:28,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML04                
+10394,2023-09-02 오전 12:28,2023-09-02 오전 12:28,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML04                
+10395,2023-09-02 오전 12:28,2023-09-02 오전 12:28,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,LR03RI11            
+10396,2023-09-02 오전 12:28,2023-09-02 오전 12:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,ER01LO00            
+10397,2023-09-02 오전 12:28,2023-09-02 오전 12:28,MSAI01,Lift Securing Pin Not in Bracket                                                                                ,EL01LO00            
+10400,2023-09-02 오전 12:28,2023-09-02 오전 12:28,MSAI01,Maintenance Level Safety Barrier Tripped                                                                        ,ML04                
+10401,2023-09-02 오전 12:28,2023-09-02 오전 12:27,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML04                
+10402,2023-09-02 오전 12:28,2023-09-02 오전 12:25,MSAI01,"Data Present, No Logical Load Presence                                                                          OK ",LR13RI12            
+10403,2023-09-02 오전 12:28,2023-09-02 오전 12:27,MSAI01,Maintenance Level Rear Gate Open                                                                                OK ,ML04                
+10408,2023-09-02 오전 12:27,2023-09-02 오전 12:27,MSAI01,Maintenance Level Rear Gate Open                                                                                ,ML04                
+10428,2023-09-02 오전 12:25,2023-09-02 오전 12:25,MSAI01,"Data Present, No Logical Load Presence                                                                          ",LR13RI12            
+10429,2023-09-02 오전 12:25,2023-09-02 오전 12:21,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,LR13RI12            
+10430,2023-09-02 오전 12:25,2023-09-02 오전 12:21,MSAI01,Load Runtime Fault on Conveyor                                                                                  OK ,LR13RI12            
+10432,2023-09-02 오전 12:25,2023-09-02 오전 12:21,MSAI01,Conveyor Gap Sensor Blocked                                                                                     OK ,CR01PS11            
+10433,2023-09-02 오전 12:25,2023-09-02 오전 12:21,MSAI01,Conveyor Gap Sensor Blocked                                                                                     OK ,CR01PS11            
+10434,2023-09-02 오전 12:25,2023-09-02 오전 12:21,MSAI01,Infeed 1 Gap Check Fault                                                                                        OK ,ER01LO00            
+10435,2023-09-02 오전 12:25,2023-09-02 오전 12:21,MSAI01,Infeed 1 Gap Check Fault                                                                                        OK ,ER01LO00            
+10476,2023-09-02 오전 12:21,2023-09-02 오전 12:21,MSAI01,Conveyor Gap Sensor Blocked                                                                                     ,CR01PS11            
+10477,2023-09-02 오전 12:21,2023-09-02 오전 12:21,MSAI01,Infeed 1 Gap Check Fault                                                                                        ,ER01LO00            
+10478,2023-09-02 오전 12:21,2023-09-02 오전 12:21,MSAI01,Load Runtime Fault on Conveyor                                                                                  ,LR13RI12            

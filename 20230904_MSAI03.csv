@@ -1,0 +1,89 @@
+﻿,Time / Date,Active Time/Date,Area,Description,Device
+5543,2023-09-02 오후 3:00,2023-09-02 오후 2:56,MSAI03,Motor Stalled                                                                                                   OK ,LR01RI12            
+5544,2023-09-02 오후 3:00,2023-09-02 오후 2:56,MSAI03,Motor Stalled                                                                                                   OK ,LR01RI12            
+5562,2023-09-02 오후 2:56,2023-09-02 오후 2:56,MSAI03,Motor Stalled                                                                                                   ,LR01RI12            
+5711,2023-09-02 오후 2:31,2023-09-02 오후 2:29,MSAI03,Motor Stalled                                                                                                   OK ,LR03RI12            
+5712,2023-09-02 오후 2:31,2023-09-02 오후 2:29,MSAI03,Motor Stalled                                                                                                   OK ,LR03RI12            
+5721,2023-09-02 오후 2:29,2023-09-02 오후 2:29,MSAI03,Motor Stalled                                                                                                   ,LR03RI12            
+6848,2023-09-02 오전 10:39,2023-09-02 오전 9:17,MSAI03,Shuttle Not Ready for Orders                                                                                    OK ,LV04SH01            
+6849,2023-09-02 오전 10:39,2023-09-02 오전 9:17,MSAI03,Shuttle Not Ready for Orders                                                                                    OK ,LV04SH01            
+6850,2023-09-02 오전 10:39,2023-09-02 오전 10:38,MSAI03,Maintenance Level Front Gate Open                                                                               OK ,ML02                
+6851,2023-09-02 오전 10:39,2023-09-02 오전 10:38,MSAI03,Maintenance Level Front Gate Open                                                                               OK ,ML02                
+6852,2023-09-02 오전 10:38,2023-09-02 오전 10:38,MSAI03,Maintenance Level Front Gate Open                                                                               ,ML02                
+6956,2023-09-02 오전 9:17,2023-09-02 오전 9:17,MSAI03,Shuttle Not Ready for Orders                                                                                    ,LV04SH01            
+7247,2023-09-02 오전 7:41,2023-09-02 오전 7:38,MSAI03,Hall Sensor Error                                                                                               OK ,LL02RO12            
+7248,2023-09-02 오전 7:41,2023-09-02 오전 7:38,MSAI03,Hall Sensor Error                                                                                               OK ,LL02RO12            
+7277,2023-09-02 오전 7:38,2023-09-02 오전 7:38,MSAI03,Hall Sensor Error                                                                                               ,LL02RO12            
+7616,2023-09-02 오전 6:31,2023-09-02 오전 6:13,MSAI03,Conveyor Gap Sensor Blocked                                                                                     OK ,CR01PS11            
+7617,2023-09-02 오전 6:31,2023-09-02 오전 6:13,MSAI03,Conveyor Gap Sensor Blocked                                                                                     OK ,CR01PS11            
+7732,2023-09-02 오전 6:13,2023-09-02 오전 6:13,MSAI03,Conveyor Gap Sensor Blocked                                                                                     ,CR01PS11            
+9411,2023-09-02 오전 2:04,2023-09-02 오전 1:52,MSAI03,Gap between loads too small                                                                                     OK ,LV13SH01            
+9414,2023-09-02 오전 2:04,2023-09-02 오전 2:03,MSAI03,Maintenance Level Rear Gate Open                                                                                OK ,ML04                
+9415,2023-09-02 오전 2:04,2023-09-02 오전 2:03,MSAI03,Maintenance Level Rear Gate Open                                                                                OK ,ML04                
+9418,2023-09-02 오전 2:03,2023-09-02 오전 2:03,MSAI03,Maintenance Level Rear Gate Open                                                                                ,ML04                
+9420,2023-09-02 오전 2:02,2023-09-02 오전 1:56,MSAI03,"Pick Location Deep, Front Bin Occupied                                                                          OK ",LV12SH01            
+9421,2023-09-02 오전 2:02,2023-09-02 오전 1:56,MSAI03,"Pick Location Deep, Front Bin Occupied                                                                          OK ",LV12SH01            
+9422,2023-09-02 오전 2:02,2023-09-02 오전 2:00,MSAI03,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+9423,2023-09-02 오전 2:02,2023-09-02 오전 2:00,MSAI03,Maintenance Level Safety Barrier Tripped                                                                        OK ,ML03                
+9426,2023-09-02 오전 2:00,2023-09-02 오전 2:00,MSAI03,Maintenance Level Safety Barrier Tripped                                                                        ,ML03                
+9427,2023-09-02 오전 2:00,2023-09-02 오전 2:00,MSAI03,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+9428,2023-09-02 오전 2:00,2023-09-02 오전 2:00,MSAI03,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+9429,2023-09-02 오전 2:00,2023-09-02 오전 2:00,MSAI03,Maintenance Level Rear Gate Open                                                                                ,ML03                
+9439,2023-09-02 오전 1:56,2023-09-02 오전 1:56,MSAI03,"Pick Location Deep, Front Bin Occupied                                                                          ",LV12SH01            
+9483,2023-09-02 오전 1:52,2023-09-02 오전 1:52,MSAI03,Gap between loads too small                                                                                     ,LV13SH01            
+9761,2023-09-02 오전 1:23,2023-09-02 오전 1:23,MSAI03,Rear Solenoid Release Fault                                                                                     OK ,ML03                
+9762,2023-09-02 오전 1:23,2023-09-02 오전 1:23,MSAI03,Rear Solenoid Release Fault                                                                                     OK ,ML03                
+9763,2023-09-02 오전 1:23,2023-09-02 오전 1:23,MSAI03,Rear Solenoid Release Fault                                                                                     ,ML03                
+9932,2023-09-02 오전 1:06,2023-09-02 오전 1:05,MSAI03,"Data Present, No Logical Load Presence                                                                          OK ",LR06RI12            
+9933,2023-09-02 오전 1:06,2023-09-02 오전 1:05,MSAI03,"Data Present, No Logical Load Presence                                                                          OK ",LR06RI12            
+9936,2023-09-02 오전 1:05,2023-09-02 오전 1:05,MSAI03,"Data Present, No Logical Load Presence                                                                          ",LR06RI12            
+9938,2023-09-02 오전 1:05,2023-09-02 오전 1:02,MSAI03,Load Runtime Fault on Conveyor                                                                                  OK ,LR06RI12            
+9939,2023-09-02 오전 1:05,2023-09-02 오전 1:02,MSAI03,Load Runtime Fault on Conveyor                                                                                  OK ,LR06RI12            
+9967,2023-09-02 오전 1:02,2023-09-02 오전 1:02,MSAI03,Load Runtime Fault on Conveyor                                                                                  ,LR06RI12            
+10209,2023-09-02 오전 12:42,2023-09-02 오전 12:42,MSAI03,Load Runtime Fault on Conveyor                                                                                  OK ,CR01PS15            
+10210,2023-09-02 오전 12:42,2023-09-02 오전 12:42,MSAI03,Load Runtime Fault on Conveyor                                                                                  OK ,CR01PS15            
+10213,2023-09-02 오전 12:42,2023-09-02 오전 12:42,MSAI03,Load Runtime Fault on Conveyor                                                                                  ,CR01PS15            
+10227,2023-09-02 오전 12:42,2023-09-02 오전 12:42,MSAI03,Load Jam or Sensor Fault on Conveyor                                                                            OK ,CR01PS16            
+10228,2023-09-02 오전 12:42,2023-09-02 오전 12:42,MSAI03,Load Jam or Sensor Fault on Conveyor                                                                            OK ,CR01PS16            
+10229,2023-09-02 오전 12:42,2023-09-02 오전 12:42,MSAI03,Load Jam or Sensor Fault on Conveyor                                                                            ,CR01PS16            
+10230,2023-09-02 오전 12:42,2023-09-02 오전 12:40,MSAI03,"Logical Load Presence, No Data Present                                                                          OK ",CR01PS15            
+10231,2023-09-02 오전 12:42,2023-09-02 오전 12:40,MSAI03,"Logical Load Presence, No Data Present                                                                          OK ",CR01PS15            
+10237,2023-09-02 오전 12:42,2023-09-02 오전 12:40,MSAI03,"Logical Load Presence, No Data Present                                                                          OK ",CR01PS16            
+10238,2023-09-02 오전 12:42,2023-09-02 오전 12:40,MSAI03,"Logical Load Presence, No Data Present                                                                          OK ",CR01PS16            
+10250,2023-09-02 오전 12:41,2023-09-02 오전 12:39,MSAI03,Conveyor Gap Sensor Blocked                                                                                     OK ,CR01PS11            
+10251,2023-09-02 오전 12:41,2023-09-02 오전 12:39,MSAI03,Conveyor Gap Sensor Blocked                                                                                     OK ,CR01PS11            
+10257,2023-09-02 오전 12:40,2023-09-02 오전 12:40,MSAI03,"Logical Load Presence, No Data Present                                                                          ",CR01PS16            
+10258,2023-09-02 오전 12:40,2023-09-02 오전 12:40,MSAI03,"Logical Load Presence, No Data Present                                                                          ",CR01PS15            
+10267,2023-09-02 오전 12:39,2023-09-02 오전 12:39,MSAI03,Conveyor Gap Sensor Blocked                                                                                     ,CR01PS11            
+10281,2023-09-02 오전 12:38,2023-09-02 오전 12:38,MSAI03,Load Runtime Fault on Conveyor                                                                                  OK ,CR01PS15            
+10282,2023-09-02 오전 12:38,2023-09-02 오전 12:38,MSAI03,Load Runtime Fault on Conveyor                                                                                  OK ,CR01PS15            
+10284,2023-09-02 오전 12:38,2023-09-02 오전 12:38,MSAI03,Load Runtime Fault on Conveyor                                                                                  ,CR01PS15            
+10285,2023-09-02 오전 12:38,2023-09-02 오전 12:38,MSAI03,Load Runtime Fault on Conveyor                                                                                  OK ,CR01PS15            
+10286,2023-09-02 오전 12:38,2023-09-02 오전 12:38,MSAI03,Load Runtime Fault on Conveyor                                                                                  OK ,CR01PS15            
+10288,2023-09-02 오전 12:38,2023-09-02 오전 12:38,MSAI03,Load Runtime Fault on Conveyor                                                                                  ,CR01PS15            
+10289,2023-09-02 오전 12:38,2023-09-02 오전 12:38,MSAI03,Load Jam or Sensor Fault on Conveyor                                                                            OK ,CR01PS16            
+10290,2023-09-02 오전 12:38,2023-09-02 오전 12:38,MSAI03,Load Jam or Sensor Fault on Conveyor                                                                            OK ,CR01PS16            
+10293,2023-09-02 오전 12:38,2023-09-02 오전 12:38,MSAI03,Load Jam or Sensor Fault on Conveyor                                                                            ,CR01PS16            
+10297,2023-09-02 오전 12:37,2023-09-02 오전 12:34,MSAI03,Conveyor Gap Sensor Blocked                                                                                     OK ,CR01PS11            
+10300,2023-09-02 오전 12:37,2023-09-02 오전 12:34,MSAI03,Infeed 1 Gap Check Fault                                                                                        OK ,ER01LO00            
+10301,2023-09-02 오전 12:37,2023-09-02 오전 12:34,MSAI03,Infeed 1 Gap Check Fault                                                                                        OK ,ER01LO00            
+10341,2023-09-02 오전 12:34,2023-09-02 오전 12:34,MSAI03,Conveyor Gap Sensor Blocked                                                                                     ,CR01PS11            
+10342,2023-09-02 오전 12:34,2023-09-02 오전 12:34,MSAI03,Infeed 1 Gap Check Fault                                                                                        ,ER01LO00            
+10343,2023-09-02 오전 12:33,2023-09-02 오전 12:31,MSAI03,"Pick Location Deep, Front Bin Occupied                                                                          OK ",LV12SH01            
+10344,2023-09-02 오전 12:33,2023-09-02 오전 12:31,MSAI03,"Pick Location Deep, Front Bin Occupied                                                                          OK ",LV12SH01            
+10366,2023-09-02 오전 12:31,2023-09-02 오전 12:31,MSAI03,"Pick Location Deep, Front Bin Occupied                                                                          ",LV12SH01            
+10410,2023-09-02 오전 12:26,2023-09-02 오전 12:24,MSAI03,Hall Sensor Error                                                                                               OK ,LR07RI12            
+10411,2023-09-02 오전 12:26,2023-09-02 오전 12:24,MSAI03,Hall Sensor Error                                                                                               OK ,LR07RI12            
+10437,2023-09-02 오전 12:24,2023-09-02 오전 12:24,MSAI03,Hall Sensor Error                                                                                               ,LR07RI12            
+12240,2023-09-01 오후 8:33,2023-09-01 오후 8:25,MSAI03,Bin Empty                                                                                                       OK ,LV11SH01            
+12241,2023-09-01 오후 8:33,2023-09-01 오후 8:25,MSAI03,Bin Empty                                                                                                       OK ,LV11SH01            
+12242,2023-09-01 오후 8:33,2023-09-01 오후 8:29,MSAI03,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12243,2023-09-01 오후 8:33,2023-09-01 오후 8:29,MSAI03,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12279,2023-09-01 오후 8:29,2023-09-01 오후 8:29,MSAI03,Maintenance Level Rear Gate Open                                                                                ,ML03                
+12298,2023-09-01 오후 8:25,2023-09-01 오후 8:25,MSAI03,Bin Empty                                                                                                       ,LV11SH01            
+12301,2023-09-01 오후 8:25,2023-09-01 오후 8:22,MSAI03,Bin Empty                                                                                                       OK ,LV11SH01            
+12302,2023-09-01 오후 8:25,2023-09-01 오후 8:22,MSAI03,Bin Empty                                                                                                       OK ,LV11SH01            
+12325,2023-09-01 오후 8:22,2023-09-01 오후 8:22,MSAI03,Bin Empty                                                                                                       ,LV11SH01            
+12488,2023-09-01 오후 8:08,2023-09-01 오후 8:07,MSAI03,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12489,2023-09-01 오후 8:08,2023-09-01 오후 8:07,MSAI03,Maintenance Level Rear Gate Open                                                                                OK ,ML03                
+12492,2023-09-01 오후 8:07,2023-09-01 오후 8:07,MSAI03,Maintenance Level Rear Gate Open                                                                                ,ML03                

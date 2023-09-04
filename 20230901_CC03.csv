@@ -1,0 +1,24 @@
+﻿,Time / Date,Active Time/Date,Area,Description,Device
+38,2023-09-01 오전 8:48,2023-09-01 오전 8:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
+39,2023-09-01 오전 8:48,2023-09-01 오전 8:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
+40,2023-09-01 오전 8:48,2023-09-01 오전 8:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+456,2023-09-01 오전 7:48,2023-09-01 오전 7:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
+457,2023-09-01 오전 7:48,2023-09-01 오전 7:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
+465,2023-09-01 오전 7:48,2023-09-01 오전 7:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+585,2023-09-01 오전 7:31,2023-09-01 오전 7:15,PC03,P2220 Conveyor Movimot Drive M01 Fault  OK ,P2220               
+586,2023-09-01 오전 7:31,2023-09-01 오전 7:15,PC03,P2220 Conveyor Movimot Drive M01 Fault  OK ,P2220               
+602,2023-09-01 오전 7:15,2023-09-01 오전 7:15,PC03,P2220 Conveyor Movimot Drive M01 Fault  ,P2220               
+603,2023-09-01 오전 7:15,2023-09-01 오전 7:14,PC03,P2220 Conveyor Movimot Drive M01 Fault  OK ,P2220               
+604,2023-09-01 오전 7:15,2023-09-01 오전 7:14,PC03,P2220 Conveyor Movimot Drive M01 Fault  OK ,P2220               
+605,2023-09-01 오전 7:14,2023-09-01 오전 7:14,PC03,P2220 Conveyor Movimot Drive M01 Fault  ,P2220               
+606,2023-09-01 오전 7:14,2023-09-01 오전 7:12,PC03,P2220 Conveyor Movimot Drive M01 Fault  OK ,P2220               
+607,2023-09-01 오전 7:14,2023-09-01 오전 7:12,PC03,P2220 Conveyor Movimot Drive M01 Fault  OK ,P2220               
+610,2023-09-01 오전 7:14,2023-09-01 오전 7:12,PC03,LC2273A  Safety Light Curtain Tripped  OK ,LC2273A             
+613,2023-09-01 오전 7:12,2023-09-01 오전 7:12,PC03,LC2273A  Safety Light Curtain Tripped  ,LC2273A             
+617,2023-09-01 오전 7:12,2023-09-01 오전 7:12,PC03,P2220 Conveyor Movimot Drive M01 Fault  ,P2220               
+618,2023-09-01 오전 7:11,2023-09-01 오전 4:27,PC03,L2253 Inverter Not Ready  OK ,P2253_Lifter_Winkel 
+619,2023-09-01 오전 7:11,2023-09-01 오전 4:35,PC03,P2266 Jog Mode Selected  OK ,P2266               
+620,2023-09-01 오전 7:11,2023-09-01 오전 4:35,PC03,P2266 Jog Mode Selected  OK ,P2266               
+666,2023-09-01 오전 6:48,2023-09-01 오전 6:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
+667,2023-09-01 오전 6:48,2023-09-01 오전 6:48,PC03,Invalid header received from WCS. (Return Code BF)  OK ,DCI_LCS             
+668,2023-09-01 오전 6:48,2023-09-01 오전 6:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             

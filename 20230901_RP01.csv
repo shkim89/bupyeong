@@ -1,0 +1,123 @@
+﻿,Time / Date,Active Time/Date,Area,Description,Device
+42,2023-09-01 오전 8:47,2023-09-01 오전 8:46,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+43,2023-09-01 오전 8:47,2023-09-01 오전 8:46,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+44,2023-09-01 오전 8:47,2023-09-01 오전 8:46,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+45,2023-09-01 오전 8:47,2023-09-01 오전 8:46,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+46,2023-09-01 오전 8:47,2023-09-01 오전 8:46,RP01,Security Door Open 01  OK ,P01RP1_O_SIK
+47,2023-09-01 오전 8:47,2023-09-01 오전 8:46,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+48,2023-09-01 오전 8:47,2023-09-01 오전 8:46,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+51,2023-09-01 오전 8:46,2023-09-01 오전 8:46,RP01,Security Door Open 01 Digital Alarm,P01RP1_O_SIK
+52,2023-09-01 오전 8:46,2023-09-01 오전 8:46,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_LI_SIK
+53,2023-09-01 오전 8:46,2023-09-01 오전 8:46,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_O_SIK
+54,2023-09-01 오전 8:46,2023-09-01 오전 8:46,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+55,2023-09-01 오전 8:45,2023-09-01 오전 8:41,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+56,2023-09-01 오전 8:45,2023-09-01 오전 8:45,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+57,2023-09-01 오전 8:45,2023-09-01 오전 8:45,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+58,2023-09-01 오전 8:45,2023-09-01 오전 8:45,RP01,Security Door Open 01  OK ,P01RP1_O_SIK
+59,2023-09-01 오전 8:45,2023-09-01 오전 8:45,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+60,2023-09-01 오전 8:45,2023-09-01 오전 8:30,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+61,2023-09-01 오전 8:45,2023-09-01 오전 8:30,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+62,2023-09-01 오전 8:45,2023-09-01 오전 8:45,RP01,Security Door Open 01 Digital Alarm,P01RP1_O_SIK
+63,2023-09-01 오전 8:45,2023-09-01 오전 8:45,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_LI_SIK
+64,2023-09-01 오전 8:45,2023-09-01 오전 8:45,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_O_SIK
+114,2023-09-01 오전 8:41,2023-09-01 오전 8:41,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+213,2023-09-01 오전 8:30,2023-09-01 오전 8:30,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+258,2023-09-01 오전 8:25,2023-08-30 오후 5:56,RP01,Broken Cabinet Air Conditioner Digital Alarm,P01S02_2
+269,2023-09-01 오전 8:24,2023-09-01 오전 8:24,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+270,2023-09-01 오전 8:24,2023-09-01 오전 8:24,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+271,2023-09-01 오전 8:24,2023-09-01 오전 8:23,RP01,[Z Axis] Unit Failure  OK ,P01DA1_DB1
+272,2023-09-01 오전 8:24,2023-09-01 오전 8:23,RP01,[Z Axis] Unit Failure  OK ,P01DA1_DB1
+273,2023-09-01 오전 8:24,2023-09-01 오전 8:24,RP01,Security Door Open 01  OK ,P01RP1_O_SIK
+274,2023-09-01 오전 8:24,2023-09-01 오전 8:24,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+275,2023-09-01 오전 8:24,2023-09-01 오전 8:21,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+276,2023-09-01 오전 8:24,2023-09-01 오전 8:21,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+283,2023-09-01 오전 8:24,2023-09-01 오전 8:24,RP01,Security Door Open 01 Digital Alarm,P01RP1_O_SIK
+284,2023-09-01 오전 8:24,2023-09-01 오전 8:24,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_LI_SIK
+285,2023-09-01 오전 8:24,2023-09-01 오전 8:24,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_O_SIK
+291,2023-09-01 오전 8:23,2023-09-01 오전 8:23,RP01,[Z Axis] Unit Failure Digital Alarm,P01DA1_DB1
+304,2023-09-01 오전 8:21,2023-09-01 오전 8:21,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+319,2023-09-01 오전 8:15,2023-09-01 오전 8:14,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+320,2023-09-01 오전 8:15,2023-09-01 오전 8:14,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+321,2023-09-01 오전 8:15,2023-09-01 오전 8:14,RP01,Frequency Converter Failure  OK ,P01CB1
+322,2023-09-01 오전 8:15,2023-09-01 오전 8:14,RP01,Frequency Converter Failure  OK ,P01CB1
+323,2023-09-01 오전 8:15,2023-09-01 오전 8:14,RP01,Security Door Open 01  OK ,P01RP1_O_SIK
+324,2023-09-01 오전 8:15,2023-09-01 오전 8:14,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+325,2023-09-01 오전 8:15,2023-09-01 오전 8:14,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+326,2023-09-01 오전 8:14,2023-09-01 오전 8:14,RP01,Security Door Open 01 Digital Alarm,P01RP1_O_SIK
+327,2023-09-01 오전 8:14,2023-09-01 오전 8:14,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_LI_SIK
+328,2023-09-01 오전 8:14,2023-09-01 오전 8:14,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_O_SIK
+329,2023-09-01 오전 8:14,2023-09-01 오전 8:14,RP01,Frequency Converter Failure Digital Alarm,P01CB1
+332,2023-09-01 오전 8:14,2023-09-01 오전 8:13,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+333,2023-09-01 오전 8:14,2023-09-01 오전 8:06,RP01,Location Occupancy Failure  OK ,P01AA1
+336,2023-09-01 오전 8:14,2023-09-01 오전 8:06,RP01,Your Data Occupation Failure  OK ,P01AA2
+337,2023-09-01 오전 8:14,2023-09-01 오전 8:06,RP01,Your Data Occupation Failure  OK ,P01AA2
+338,2023-09-01 오전 8:14,2023-09-01 오전 8:13,RP01,Security Door Open 01  OK ,P01RP1_O_SIK
+339,2023-09-01 오전 8:14,2023-09-01 오전 8:13,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+340,2023-09-01 오전 8:14,2023-09-01 오전 7:51,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+341,2023-09-01 오전 8:14,2023-09-01 오전 7:51,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+344,2023-09-01 오전 8:13,2023-09-01 오전 8:13,RP01,Security Door Open 01 Digital Alarm,P01RP1_O_SIK
+345,2023-09-01 오전 8:13,2023-09-01 오전 8:13,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_LI_SIK
+346,2023-09-01 오전 8:13,2023-09-01 오전 8:13,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_O_SIK
+371,2023-09-01 오전 8:06,2023-09-01 오전 8:06,RP01,Your Data Occupation Failure Digital Alarm,P01AA2
+372,2023-09-01 오전 8:06,2023-09-01 오전 8:06,RP01,Location Occupancy Failure Digital Alarm,P01AA1
+442,2023-09-01 오전 7:51,2023-09-01 오전 7:51,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+473,2023-09-01 오전 7:44,2023-09-01 오전 7:44,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+474,2023-09-01 오전 7:44,2023-09-01 오전 7:44,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+475,2023-09-01 오전 7:44,2023-09-01 오전 7:43,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+476,2023-09-01 오전 7:44,2023-09-01 오전 7:43,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+477,2023-09-01 오전 7:44,2023-09-01 오전 7:44,RP01,Security Door Open 01  OK ,P01RP1_O_SIK
+478,2023-09-01 오전 7:44,2023-09-01 오전 7:44,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+479,2023-09-01 오전 7:44,2023-09-01 오전 7:44,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+485,2023-09-01 오전 7:44,2023-09-01 오전 7:44,RP01,Security Door Open 01 Digital Alarm,P01RP1_O_SIK
+486,2023-09-01 오전 7:44,2023-09-01 오전 7:44,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_LI_SIK
+487,2023-09-01 오전 7:44,2023-09-01 오전 7:44,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_O_SIK
+488,2023-09-01 오전 7:43,2023-09-01 오전 7:43,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+489,2023-09-01 오전 7:43,2023-09-01 오전 7:43,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+490,2023-09-01 오전 7:43,2023-09-01 오전 7:43,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+492,2023-09-01 오전 7:43,2023-09-01 오전 7:43,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+493,2023-09-01 오전 7:43,2023-09-01 오전 7:42,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+494,2023-09-01 오전 7:43,2023-09-01 오전 7:42,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+495,2023-09-01 오전 7:43,2023-09-01 오전 7:42,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+496,2023-09-01 오전 7:43,2023-09-01 오전 7:42,RP01,Security Door Open 01  OK ,P01RP1_O_SIK
+497,2023-09-01 오전 7:43,2023-09-01 오전 7:42,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+498,2023-09-01 오전 7:43,2023-09-01 오전 7:42,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+499,2023-09-01 오전 7:43,2023-09-01 오전 7:35,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+500,2023-09-01 오전 7:43,2023-09-01 오전 7:35,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+501,2023-09-01 오전 7:42,2023-09-01 오전 7:42,RP01,Security Door Open 01 Digital Alarm,P01RP1_O_SIK
+502,2023-09-01 오전 7:42,2023-09-01 오전 7:42,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_LI_SIK
+503,2023-09-01 오전 7:42,2023-09-01 오전 7:42,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_O_SIK
+504,2023-09-01 오전 7:42,2023-09-01 오전 7:42,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+506,2023-09-01 오전 7:39,2023-09-01 오전 7:39,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+507,2023-09-01 오전 7:39,2023-09-01 오전 7:39,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+508,2023-09-01 오전 7:39,2023-09-01 오전 7:39,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+511,2023-09-01 오전 7:39,2023-09-01 오전 7:38,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+512,2023-09-01 오전 7:39,2023-09-01 오전 7:38,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+518,2023-09-01 오전 7:38,2023-09-01 오전 7:38,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+539,2023-09-01 오전 7:35,2023-09-01 오전 7:35,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+540,2023-09-01 오전 7:34,2023-09-01 오전 7:29,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+541,2023-09-01 오전 7:34,2023-09-01 오전 7:29,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+542,2023-09-01 오전 7:34,2023-09-01 오전 7:33,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+543,2023-09-01 오전 7:34,2023-09-01 오전 7:33,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+544,2023-09-01 오전 7:34,2023-09-01 오전 7:33,RP01,Security Door Open 01  OK ,P01RP1_O_SIK
+545,2023-09-01 오전 7:34,2023-09-01 오전 7:33,RP01,Security Door Open 01  OK ,P01RP1_O_SIK
+546,2023-09-01 오전 7:34,2023-09-01 오전 7:33,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+547,2023-09-01 오전 7:34,2023-09-01 오전 5:39,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+548,2023-09-01 오전 7:34,2023-09-01 오전 5:39,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+553,2023-09-01 오전 7:33,2023-09-01 오전 7:33,RP01,Security Door Open 01 Digital Alarm,P01RP1_O_SIK
+554,2023-09-01 오전 7:33,2023-09-01 오전 7:33,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_LI_SIK
+555,2023-09-01 오전 7:33,2023-09-01 오전 7:33,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_O_SIK
+591,2023-09-01 오전 7:29,2023-09-01 오전 7:29,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+841,2023-09-01 오전 5:39,2023-09-01 오전 5:39,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+846,2023-09-01 오전 5:38,2023-09-01 오전 5:37,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+847,2023-09-01 오전 5:38,2023-09-01 오전 5:37,RP01,Emergency Circuit Activated  OK ,P01RP1_O_SIK
+848,2023-09-01 오전 5:38,2023-09-01 오전 5:35,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+849,2023-09-01 오전 5:38,2023-09-01 오전 5:35,RP01,The Target Space Is Occupied Or Not Accessible  OK ,RP1_LOAD_APP
+850,2023-09-01 오전 5:38,2023-09-01 오전 5:37,RP01,Security Door Open 01  OK ,P01RP1_O_SIK
+851,2023-09-01 오전 5:38,2023-09-01 오전 5:37,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+852,2023-09-01 오전 5:38,2023-09-01 오전 5:37,RP01,Emergency Circuit Activated  OK ,P01RP1_LI_SIK
+856,2023-09-01 오전 5:37,2023-09-01 오전 5:37,RP01,Security Door Open 01 Digital Alarm,P01RP1_O_SIK
+857,2023-09-01 오전 5:37,2023-09-01 오전 5:37,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_LI_SIK
+858,2023-09-01 오전 5:37,2023-09-01 오전 5:37,RP01,Emergency Circuit Activated Digital Alarm,P01RP1_O_SIK
+859,2023-09-01 오전 5:37,2023-09-01 오전 4:42,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+860,2023-09-01 오전 5:37,2023-09-01 오전 4:42,RP01,The Database Is Very Close To Being Full  OK ,P01MFC
+871,2023-09-01 오전 5:35,2023-09-01 오전 5:35,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
