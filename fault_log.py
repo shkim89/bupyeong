@@ -32,6 +32,7 @@ def open_dialog_1():
     df1.to_csv(f'{window.dirName}\\{date}_{"RP02"}.csv', encoding='utf-8-sig')
 
     df1 = df[df[df.columns[2]].str.contains('UL01') == True]
+    df1 = df1[df1[df1.columns[3]].str.contains('200108') == False]
     df1.to_csv(f'{window.dirName}\\{date}_{"UL01"}.csv', encoding='utf-8-sig')  
 
     df1 = df[df[df.columns[2]].str.contains('UL02') == True]
