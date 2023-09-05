@@ -1,9 +1,0 @@
-﻿,Time / Date,Active Time/Date,Area,Description,Device
-1425,2023-09-05 오전 4:14,2023-09-05 오전 4:14,MSAI03,Motor Stalled                                                                                                   ,LR02RI12            
-1450,2023-09-05 오전 4:09,2023-09-05 오전 4:09,MSAI03,Load Runtime Fault on Conveyor                                                                                  ,LR04RI12            
-1457,2023-09-05 오전 4:08,2023-09-05 오전 4:08,MSAI03,Maintenance Level Safety Barrier Tripped                                                                        ,ML01                
-1462,2023-09-05 오전 4:07,2023-09-05 오전 4:07,MSAI03,Maintenance Level Rear Gate Open                                                                                ,ML01                
-1551,2023-09-05 오전 4:01,2023-09-05 오전 4:01,MSAI03,Z: Runtime Exceeded                                                                                             ,LV04SH01            
-2265,2023-09-05 오전 1:48,2023-09-05 오전 1:48,MSAI03,Outfeed 1 Gap Check Fault                                                                                       ,EL01LO00            
-2287,2023-09-05 오전 1:42,2023-09-05 오전 1:42,MSAI03,Conveyor Gap Sensor Blocked                                                                                     ,CL02DS11            
-3077,2023-09-05 오전 12:05,2023-09-05 오전 12:05,MSAI03,"Pick Location Deep, Front Bin Occupied                                                                          ",LV12SH01            
