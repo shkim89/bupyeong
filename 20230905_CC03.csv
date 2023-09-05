@@ -1,0 +1,72 @@
+﻿,Time / Date,Active Time/Date,Area,Description,Device
+116,2023-09-05 오전 8:47,2023-09-05 오전 8:47,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+404,2023-09-05 오전 7:47,2023-09-05 오전 7:47,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+522,2023-09-05 오전 6:48,2023-09-05 오전 6:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+707,2023-09-05 오전 6:08,2023-09-05 오전 6:08,PC03,P2220 Conveyor Movimot Drive M01 Fault  ,P2220               
+757,2023-09-05 오전 5:56,2023-09-05 오전 5:56,PC03,P2220 Conveyor Movimot Drive M01 Fault  ,P2220               
+761,2023-09-05 오전 5:55,2023-09-05 오전 5:55,PC03,P2247 Jog Mode Selected  ,P2247               
+764,2023-09-05 오전 5:54,2023-09-05 오전 5:54,PC03,P2223 Q03 Pallet transfer run time fault  ,P2223               
+767,2023-09-05 오전 5:53,2023-09-05 오전 5:53,PC03,P2220 Conveyor Movimot Drive M01 Fault  ,P2220               
+770,2023-09-05 오전 5:53,2023-09-05 오전 5:53,PC03,P2220 Conveyor Movimot Drive M01 Fault  ,P2220               
+794,2023-09-05 오전 5:48,2023-09-05 오전 5:48,PC03,P2222 Q03 Pallet transfer run time fault  ,P2222               
+801,2023-09-05 오전 5:47,2023-09-05 오전 5:47,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+926,2023-09-05 오전 5:20,2023-09-05 오전 5:20,PC03,P2220 Conveyor Movimot Drive M01 Fault  ,P2220               
+1024,2023-09-05 오전 5:04,2023-09-05 오전 5:04,PC03,P2220 Conveyor Movimot Drive M01 Fault  ,P2220               
+1042,2023-09-05 오전 5:03,2023-09-05 오전 5:03,PC03,P2272 Q03 Pallet transfer run time fault  ,P2272               
+1060,2023-09-05 오전 5:01,2023-09-05 오전 5:01,PC03,LC2273A  Safety Light Curtain Tripped  ,LC2273A             
+1158,2023-09-05 오전 4:47,2023-09-05 오전 4:47,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+1585,2023-09-05 오전 3:53,2023-09-05 오전 3:53,PC03,P2273 Jog Mode Selected  ,P2273               
+1588,2023-09-05 오전 3:53,2023-09-05 오전 3:53,PC03,P2271 Jog Mode Selected  ,P2271               
+1605,2023-09-05 오전 3:47,2023-09-05 오전 3:47,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+1888,2023-09-05 오전 2:53,2023-09-05 오전 2:53,PC03,ErgoPall Not Ready  ,ErgoPall            
+1897,2023-09-05 오전 2:52,2023-09-05 오전 2:52,PC03,ErgoPall Not Ready  ,ErgoPall            
+1900,2023-09-05 오전 2:51,2023-09-05 오전 2:51,PC03,ErgoPall Not Ready  ,ErgoPall            
+1923,2023-09-05 오전 2:48,2023-09-05 오전 2:48,PC03,P2203 Conveyor Movimot Drive M01 Fault  ,P2203               
+1937,2023-09-05 오전 2:48,2023-09-05 오전 2:48,PC03,P2203 Conveyor Movimot Drive M01 Fault  ,P2203               
+1948,2023-09-05 오전 2:47,2023-09-05 오전 2:47,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+1961,2023-09-05 오전 2:46,2023-09-05 오전 2:46,PC03,P2203 Conveyor Movimot Drive M01 Fault  ,P2203               
+1964,2023-09-05 오전 2:45,2023-09-05 오전 2:45,PC03,ErgoPall Not Ready  ,ErgoPall            
+1967,2023-09-05 오전 2:45,2023-09-05 오전 2:45,PC03,ErgoPall Not Ready  ,ErgoPall            
+1977,2023-09-05 오전 2:44,2023-09-05 오전 2:44,PC03,P2203 Conveyor Movimot Drive M01 Fault  ,P2203               
+1980,2023-09-05 오전 2:44,2023-09-05 오전 2:44,PC03,P2203 Conveyor Movimot Drive M01 Fault  ,P2203               
+1983,2023-09-05 오전 2:44,2023-09-05 오전 2:44,PC03,P2203 Conveyor Movimot Drive M01 Fault  ,P2203               
+1987,2023-09-05 오전 2:43,2023-09-05 오전 2:43,PC03,P2203 Conveyor Movimot Drive M01 Fault  ,P2203               
+1990,2023-09-05 오전 2:43,2023-09-05 오전 2:43,PC03,P2203 Conveyor Movimot Drive M01 Fault  ,P2203               
+1993,2023-09-05 오전 2:43,2023-09-05 오전 2:43,PC03,ErgoPall Not Ready  ,ErgoPall            
+1994,2023-09-05 오전 2:43,2023-09-05 오전 2:43,PC03,P2203 Conveyor Movimot Drive M01 Fault  ,P2203               
+2001,2023-09-05 오전 2:42,2023-09-05 오전 2:42,PC03,P2203 Conveyor Movimot Drive M01 Fault  ,P2203               
+2002,2023-09-05 오전 2:42,2023-09-05 오전 2:42,PC03,ErgoPall Estop  ,ErgoPall            
+2003,2023-09-05 오전 2:42,2023-09-05 오전 2:42,PC03,ErgoPall Not Ready  ,ErgoPall            
+2028,2023-09-05 오전 2:38,2023-09-05 오전 2:38,PC03,ErgoPall Not Ready  ,ErgoPall            
+2045,2023-09-05 오전 2:36,2023-09-05 오전 2:36,PC03,ErgoPall Not Ready  ,ErgoPall            
+2073,2023-09-05 오전 2:32,2023-09-05 오전 2:32,PC03,P2272 Q03 Pallet transfer run time fault  ,P2272               
+2076,2023-09-05 오전 2:31,2023-09-05 오전 2:31,PC03,P2272 Q03 Pallet transfer run time fault  ,P2272               
+2083,2023-09-05 오전 2:31,2023-09-05 오전 2:31,PC03,LC2273A  Safety Light Curtain Tripped  ,LC2273A             
+2088,2023-09-05 오전 2:30,2023-09-05 오전 2:30,PC03,P2272 Jog Mode Selected  ,P2272               
+2091,2023-09-05 오전 2:30,2023-09-05 오전 2:30,PC03,P2268 Jog Mode Selected  ,P2268               
+2102,2023-09-05 오전 2:29,2023-09-05 오전 2:29,PC03,ErgoPall Not Ready  ,ErgoPall            
+2118,2023-09-05 오전 2:26,2023-09-05 오전 2:26,PC03,P2267 Jog Mode Selected  ,P2267               
+2122,2023-09-05 오전 2:26,2023-09-05 오전 2:26,PC03,P2268 Jog Mode Selected  ,P2268               
+2125,2023-09-05 오전 2:26,2023-09-05 오전 2:26,PC03,P2272 Jog Mode Selected  ,P2272               
+2133,2023-09-05 오전 2:25,2023-09-05 오전 2:25,PC03,P2272 Jog Mode Selected  ,P2272               
+2136,2023-09-05 오전 2:24,2023-09-05 오전 2:24,PC03,ErgoPall Not Ready  ,ErgoPall            
+2140,2023-09-05 오전 2:21,2023-09-05 오전 2:21,PC03,LC2273A  Safety Light Curtain Tripped  ,LC2273A             
+2142,2023-09-05 오전 2:20,2023-09-05 오전 2:20,PC03,P2272 Q03 Pallet transfer run time fault  ,P2272               
+2145,2023-09-05 오전 2:18,2023-09-05 오전 2:18,PC03,ErgoPall Not Ready  ,ErgoPall            
+2348,2023-09-05 오전 1:27,2023-09-05 오전 1:27,PC03,ErgoPall Not Ready  ,ErgoPall            
+2426,2023-09-05 오전 1:16,2023-09-05 오전 1:16,PC03,ErgoPall Not Ready  ,ErgoPall            
+2561,2023-09-05 오전 12:57,2023-09-05 오전 12:57,PC03,P2228 End Transfer PE Fault  ,P2228               
+2562,2023-09-05 오전 12:57,2023-09-05 오전 12:57,PC03,P2229 End Transfer PE Fault  ,P2229               
+2631,2023-09-05 오전 12:47,2023-09-05 오전 12:47,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+3248,2023-09-04 오후 11:48,2023-09-04 오후 11:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+3650,2023-09-04 오후 10:47,2023-09-04 오후 10:47,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+3909,2023-09-04 오후 10:18,2023-09-04 오후 10:18,PC03,ErgoPall Not Ready  ,ErgoPall            
+3918,2023-09-04 오후 10:17,2023-09-04 오후 10:17,PC03,ErgoPall Not Ready  ,ErgoPall            
+4171,2023-09-04 오후 9:47,2023-09-04 오후 9:47,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+4357,2023-09-04 오후 9:34,2023-09-04 오후 9:34,PC03,ErgoPall Not Ready  ,ErgoPall            
+4562,2023-09-04 오후 9:17,2023-09-04 오후 9:17,PC03,P2229 End Transfer PE Fault  ,P2229               
+4563,2023-09-04 오후 9:17,2023-09-04 오후 9:17,PC03,P2230 End Transfer PE Fault  ,P2230               
+4959,2023-09-04 오후 8:25,2023-09-04 오후 8:25,PC03,LC2273A  Safety Light Curtain Tripped  ,LC2273A             
+4969,2023-09-04 오후 8:24,2023-09-04 오후 8:24,PC03,LC2271A  Safety Light Curtain Tripped  ,LC2271A             
+5397,2023-09-04 오후 7:48,2023-09-04 오후 7:48,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             
+5828,2023-09-04 오후 6:47,2023-09-04 오후 6:47,PC03,Invalid header received from WCS. (Return Code BF)  ,DCI_LCS             

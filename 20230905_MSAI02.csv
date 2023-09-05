@@ -1,0 +1,204 @@
+﻿,Time / Date,Active Time/Date,Area,Description,Device
+62,2023-09-05 오전 8:56,2023-09-05 오전 8:56,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML02                
+111,2023-09-05 오전 8:48,2023-09-05 오전 8:48,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+112,2023-09-05 오전 8:48,2023-09-05 오전 8:48,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+113,2023-09-05 오전 8:48,2023-09-05 오전 8:48,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+255,2023-09-05 오전 8:28,2023-09-05 오전 8:28,MSAI02,Z: Following Error Window too Large                                                                             ,LV08SH01            
+316,2023-09-05 오전 8:13,2023-09-05 오전 8:13,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+317,2023-09-05 오전 8:13,2023-09-05 오전 8:13,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+318,2023-09-05 오전 8:13,2023-09-05 오전 8:13,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+407,2023-09-05 오전 7:43,2023-09-05 오전 7:43,MSAI02,Maintenance Level Safety Barrier Tripped                                                                        ,ML01                
+410,2023-09-05 오전 7:38,2023-09-05 오전 7:38,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML01                
+415,2023-09-05 오전 7:37,2023-09-05 오전 7:37,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+416,2023-09-05 오전 7:37,2023-09-05 오전 7:37,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+417,2023-09-05 오전 7:37,2023-09-05 오전 7:37,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+457,2023-09-05 오전 7:19,2023-09-05 오전 7:19,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+458,2023-09-05 오전 7:19,2023-09-05 오전 7:19,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+459,2023-09-05 오전 7:19,2023-09-05 오전 7:19,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+464,2023-09-05 오전 7:18,2023-09-05 오전 7:18,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+465,2023-09-05 오전 7:18,2023-09-05 오전 7:18,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+467,2023-09-05 오전 7:18,2023-09-05 오전 7:18,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+547,2023-09-05 오전 6:39,2023-09-05 오전 6:39,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+548,2023-09-05 오전 6:39,2023-09-05 오전 6:39,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+549,2023-09-05 오전 6:39,2023-09-05 오전 6:39,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+564,2023-09-05 오전 6:34,2023-09-05 오전 6:34,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+565,2023-09-05 오전 6:34,2023-09-05 오전 6:34,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+566,2023-09-05 오전 6:34,2023-09-05 오전 6:34,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+659,2023-09-05 오전 6:14,2023-09-05 오전 6:14,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+660,2023-09-05 오전 6:14,2023-09-05 오전 6:14,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+662,2023-09-05 오전 6:14,2023-09-05 오전 6:14,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+671,2023-09-05 오전 6:12,2023-09-05 오전 6:12,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+672,2023-09-05 오전 6:12,2023-09-05 오전 6:12,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+673,2023-09-05 오전 6:12,2023-09-05 오전 6:12,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+714,2023-09-05 오전 6:07,2023-09-05 오전 6:07,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML02                
+724,2023-09-05 오전 6:06,2023-09-05 오전 6:06,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+725,2023-09-05 오전 6:06,2023-09-05 오전 6:06,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+726,2023-09-05 오전 6:06,2023-09-05 오전 6:06,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+778,2023-09-05 오전 5:52,2023-09-05 오전 5:52,MSAI02,Gap between loads too small                                                                                     ,LV08SH01            
+861,2023-09-05 오전 5:32,2023-09-05 오전 5:32,MSAI02,Maintenance Level Safety Barrier Tripped                                                                        ,ML01                
+866,2023-09-05 오전 5:31,2023-09-05 오전 5:31,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML01                
+867,2023-09-05 오전 5:31,2023-09-05 오전 5:31,MSAI02,Pick Location Empty or Load Not Onboard                                                                         ,LV01SH01            
+870,2023-09-05 오전 5:30,2023-09-05 오전 5:30,MSAI02,Pick Location Empty or Load Not Onboard                                                                         ,LV01SH01            
+886,2023-09-05 오전 5:28,2023-09-05 오전 5:28,MSAI02,Load Runtime Fault on Conveyor                                                                                  ,LL01RI12            
+887,2023-09-05 오전 5:28,2023-09-05 오전 5:28,MSAI02,Pick Location Empty or Load Not Onboard                                                                         ,LV01SH01            
+958,2023-09-05 오전 5:18,2023-09-05 오전 5:18,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+959,2023-09-05 오전 5:18,2023-09-05 오전 5:18,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+960,2023-09-05 오전 5:18,2023-09-05 오전 5:18,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+1110,2023-09-05 오전 4:54,2023-09-05 오전 4:54,MSAI02,Load Runtime Fault on Conveyor                                                                                  ,CR02DS14            
+1117,2023-09-05 오전 4:53,2023-09-05 오전 4:53,MSAI02,"Shuttle Load Overhang, Left                                                                                     ",LV10SH01            
+1120,2023-09-05 오전 4:53,2023-09-05 오전 4:53,MSAI02,X: Over Current                                                                                                 ,LV04SH01            
+1121,2023-09-05 오전 4:52,2023-09-05 오전 4:52,MSAI02,"Data Present, No Logical Load Presence                                                                          ",CR02DS13            
+1125,2023-09-05 오전 4:51,2023-09-05 오전 4:51,MSAI02,X: Over Current                                                                                                 ,LV02SH01            
+1134,2023-09-05 오전 4:49,2023-09-05 오전 4:49,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+1136,2023-09-05 오전 4:49,2023-09-05 오전 4:49,MSAI02,Load Runtime Fault on Conveyor                                                                                  ,LL03RI12            
+1137,2023-09-05 오전 4:49,2023-09-05 오전 4:49,MSAI02,Conveyor Gap Sensor Blocked                                                                                     ,CR02DS11            
+1138,2023-09-05 오전 4:49,2023-09-05 오전 4:49,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+1139,2023-09-05 오전 4:49,2023-09-05 오전 4:49,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+1150,2023-09-05 오전 4:48,2023-09-05 오전 4:48,MSAI02,Load Runtime Fault on Conveyor                                                                                  ,LR10RO12            
+1151,2023-09-05 오전 4:48,2023-09-05 오전 4:48,MSAI02,Maintenance Level Safety Barrier Tripped                                                                        ,ML01                
+1159,2023-09-05 오전 4:47,2023-09-05 오전 4:47,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML01                
+1161,2023-09-05 오전 4:47,2023-09-05 오전 4:47,MSAI02,Front Finger 1 Not Closed                                                                                       ,LV03SH01            
+1209,2023-09-05 오전 4:42,2023-09-05 오전 4:42,MSAI02,X: Max Current Duration Exceeded                                                                                ,LV03SH01            
+1403,2023-09-05 오전 4:18,2023-09-05 오전 4:18,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+1404,2023-09-05 오전 4:18,2023-09-05 오전 4:18,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+1405,2023-09-05 오전 4:18,2023-09-05 오전 4:18,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+1440,2023-09-05 오전 4:12,2023-09-05 오전 4:12,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+1441,2023-09-05 오전 4:12,2023-09-05 오전 4:12,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+1442,2023-09-05 오전 4:12,2023-09-05 오전 4:12,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+1612,2023-09-05 오전 3:47,2023-09-05 오전 3:47,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+1613,2023-09-05 오전 3:47,2023-09-05 오전 3:47,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+1614,2023-09-05 오전 3:47,2023-09-05 오전 3:47,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+1794,2023-09-05 오전 3:17,2023-09-05 오전 3:17,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+1795,2023-09-05 오전 3:17,2023-09-05 오전 3:17,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+1796,2023-09-05 오전 3:17,2023-09-05 오전 3:17,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+1823,2023-09-05 오전 3:08,2023-09-05 오전 3:08,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML03                
+1826,2023-09-05 오전 3:06,2023-09-05 오전 3:06,MSAI02,Front Finger 2 Not Open                                                                                         ,LV10SH01            
+1829,2023-09-05 오전 3:06,2023-09-05 오전 3:06,MSAI02,Front Finger 2 Not Open                                                                                         ,LV10SH01            
+1848,2023-09-05 오전 3:02,2023-09-05 오전 3:02,MSAI02,"Drop Location Deep, Front Bin Occupied                                                                          ",LV10SH01            
+1931,2023-09-05 오전 2:48,2023-09-05 오전 2:48,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML03                
+1957,2023-09-05 오전 2:47,2023-09-05 오전 2:47,MSAI02,Z: Over Current                                                                                                 ,LV10SH01            
+2006,2023-09-05 오전 2:41,2023-09-05 오전 2:41,MSAI02,Z: Max Current Duration Exceeded                                                                                ,LV10SH01            
+2027,2023-09-05 오전 2:38,2023-09-05 오전 2:38,MSAI02,Bin Empty                                                                                                       ,LV10SH01            
+2040,2023-09-05 오전 2:37,2023-09-05 오전 2:37,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+2041,2023-09-05 오전 2:37,2023-09-05 오전 2:37,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+2042,2023-09-05 오전 2:37,2023-09-05 오전 2:37,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+2052,2023-09-05 오전 2:35,2023-09-05 오전 2:35,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+2053,2023-09-05 오전 2:35,2023-09-05 오전 2:35,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+2054,2023-09-05 오전 2:35,2023-09-05 오전 2:35,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+2152,2023-09-05 오전 2:17,2023-09-05 오전 2:17,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML01                
+2155,2023-09-05 오전 2:15,2023-09-05 오전 2:15,MSAI02,Front Finger 1 Not Closed                                                                                       ,LV01SH01            
+2222,2023-09-05 오전 1:59,2023-09-05 오전 1:59,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+2223,2023-09-05 오전 1:59,2023-09-05 오전 1:59,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+2224,2023-09-05 오전 1:59,2023-09-05 오전 1:59,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+2225,2023-09-05 오전 1:59,2023-09-05 오전 1:59,MSAI02,"Pick Location Deep, Front Bin Occupied                                                                          ",LV15SH01            
+2238,2023-09-05 오전 1:57,2023-09-05 오전 1:57,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+2239,2023-09-05 오전 1:57,2023-09-05 오전 1:57,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+2240,2023-09-05 오전 1:57,2023-09-05 오전 1:57,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+2248,2023-09-05 오전 1:52,2023-09-05 오전 1:52,MSAI02,Maintenance Level Safety Barrier Tripped                                                                        ,ML04                
+2251,2023-09-05 오전 1:52,2023-09-05 오전 1:52,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML04                
+2255,2023-09-05 오전 1:50,2023-09-05 오전 1:50,MSAI02,Gap between loads too small                                                                                     ,LV14SH01            
+2282,2023-09-05 오전 1:44,2023-09-05 오전 1:44,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+2283,2023-09-05 오전 1:44,2023-09-05 오전 1:44,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+2284,2023-09-05 오전 1:44,2023-09-05 오전 1:44,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+2316,2023-09-05 오전 1:35,2023-09-05 오전 1:35,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+2319,2023-09-05 오전 1:35,2023-09-05 오전 1:35,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+2320,2023-09-05 오전 1:35,2023-09-05 오전 1:35,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+2383,2023-09-05 오전 1:22,2023-09-05 오전 1:22,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+2384,2023-09-05 오전 1:22,2023-09-05 오전 1:22,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+2385,2023-09-05 오전 1:22,2023-09-05 오전 1:22,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+2461,2023-09-05 오전 1:07,2023-09-05 오전 1:07,MSAI02,Maintenance Level Rear Gate Open                                                                                ,ML01                
+2466,2023-09-05 오전 1:06,2023-09-05 오전 1:06,MSAI02,Front Finger 1 Not Closed                                                                                       ,LV01SH01            
+2630,2023-09-05 오전 12:47,2023-09-05 오전 12:47,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+2632,2023-09-05 오전 12:47,2023-09-05 오전 12:47,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+2633,2023-09-05 오전 12:47,2023-09-05 오전 12:47,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+2705,2023-09-05 오전 12:30,2023-09-05 오전 12:30,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+2706,2023-09-05 오전 12:30,2023-09-05 오전 12:30,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+2707,2023-09-05 오전 12:30,2023-09-05 오전 12:30,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+3043,2023-09-05 오전 12:07,2023-09-05 오전 12:07,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+3044,2023-09-05 오전 12:07,2023-09-05 오전 12:07,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+3045,2023-09-05 오전 12:07,2023-09-05 오전 12:07,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+3051,2023-09-05 오전 12:06,2023-09-05 오전 12:06,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+3054,2023-09-05 오전 12:06,2023-09-05 오전 12:06,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+3055,2023-09-05 오전 12:06,2023-09-05 오전 12:06,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+3388,2023-09-04 오후 11:25,2023-09-04 오후 11:25,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+3389,2023-09-04 오후 11:25,2023-09-04 오후 11:25,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+3390,2023-09-04 오후 11:25,2023-09-04 오후 11:25,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+3609,2023-09-04 오후 10:55,2023-09-04 오후 10:55,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+3610,2023-09-04 오후 10:55,2023-09-04 오후 10:55,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+3611,2023-09-04 오후 10:55,2023-09-04 오후 10:55,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+3620,2023-09-04 오후 10:54,2023-09-04 오후 10:54,MSAI02,Motor Stalled                                                                                                   ,ER01LO04            
+3631,2023-09-04 오후 10:51,2023-09-04 오후 10:51,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+3632,2023-09-04 오후 10:51,2023-09-04 오후 10:51,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+3633,2023-09-04 오후 10:51,2023-09-04 오후 10:51,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+3953,2023-09-04 오후 10:08,2023-09-04 오후 10:08,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+3954,2023-09-04 오후 10:08,2023-09-04 오후 10:08,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+3955,2023-09-04 오후 10:08,2023-09-04 오후 10:08,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+4021,2023-09-04 오후 9:58,2023-09-04 오후 9:58,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+4039,2023-09-04 오후 9:58,2023-09-04 오후 9:58,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+4040,2023-09-04 오후 9:58,2023-09-04 오후 9:58,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+4071,2023-09-04 오후 9:57,2023-09-04 오후 9:57,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+4072,2023-09-04 오후 9:57,2023-09-04 오후 9:57,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+4073,2023-09-04 오후 9:57,2023-09-04 오후 9:57,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+4352,2023-09-04 오후 9:35,2023-09-04 오후 9:35,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+4354,2023-09-04 오후 9:35,2023-09-04 오후 9:35,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+4355,2023-09-04 오후 9:35,2023-09-04 오후 9:35,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+4388,2023-09-04 오후 9:32,2023-09-04 오후 9:32,MSAI02,"Sensor Blocked, No Logical Load Presence                                                                        ",EL01LO04            
+4398,2023-09-04 오후 9:31,2023-09-04 오후 9:31,MSAI02,Conveyor Gap Sensor Blocked                                                                                     ,EL01LO04            
+4606,2023-09-04 오후 9:10,2023-09-04 오후 9:10,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+4609,2023-09-04 오후 9:10,2023-09-04 오후 9:10,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+4610,2023-09-04 오후 9:10,2023-09-04 오후 9:10,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+4664,2023-09-04 오후 9:02,2023-09-04 오후 9:02,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+4665,2023-09-04 오후 9:02,2023-09-04 오후 9:02,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+4666,2023-09-04 오후 9:02,2023-09-04 오후 9:02,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+4749,2023-09-04 오후 8:51,2023-09-04 오후 8:51,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+4750,2023-09-04 오후 8:51,2023-09-04 오후 8:51,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+4751,2023-09-04 오후 8:51,2023-09-04 오후 8:51,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+4772,2023-09-04 오후 8:50,2023-09-04 오후 8:50,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+4773,2023-09-04 오후 8:50,2023-09-04 오후 8:50,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+4774,2023-09-04 오후 8:50,2023-09-04 오후 8:50,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+4845,2023-09-04 오후 8:41,2023-09-04 오후 8:41,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+4846,2023-09-04 오후 8:41,2023-09-04 오후 8:41,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+4847,2023-09-04 오후 8:41,2023-09-04 오후 8:41,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+4863,2023-09-04 오후 8:37,2023-09-04 오후 8:37,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+4866,2023-09-04 오후 8:37,2023-09-04 오후 8:37,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+4867,2023-09-04 오후 8:37,2023-09-04 오후 8:37,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+4919,2023-09-04 오후 8:30,2023-09-04 오후 8:30,MSAI02,"Sensor Blocked, No Logical Load Presence                                                                        ",LR01RO12            
+5119,2023-09-04 오후 8:13,2023-09-04 오후 8:13,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5120,2023-09-04 오후 8:13,2023-09-04 오후 8:13,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5121,2023-09-04 오후 8:13,2023-09-04 오후 8:13,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+5151,2023-09-04 오후 8:11,2023-09-04 오후 8:11,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5152,2023-09-04 오후 8:11,2023-09-04 오후 8:11,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5153,2023-09-04 오후 8:11,2023-09-04 오후 8:11,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+5289,2023-09-04 오후 7:59,2023-09-04 오후 7:59,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5290,2023-09-04 오후 7:59,2023-09-04 오후 7:59,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5291,2023-09-04 오후 7:59,2023-09-04 오후 7:59,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+5310,2023-09-04 오후 7:56,2023-09-04 오후 7:56,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5311,2023-09-04 오후 7:56,2023-09-04 오후 7:56,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5312,2023-09-04 오후 7:56,2023-09-04 오후 7:56,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+5383,2023-09-04 오후 7:49,2023-09-04 오후 7:49,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5386,2023-09-04 오후 7:49,2023-09-04 오후 7:49,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5387,2023-09-04 오후 7:49,2023-09-04 오후 7:49,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+5394,2023-09-04 오후 7:48,2023-09-04 오후 7:48,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5395,2023-09-04 오후 7:48,2023-09-04 오후 7:48,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5396,2023-09-04 오후 7:48,2023-09-04 오후 7:48,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+5402,2023-09-04 오후 7:47,2023-09-04 오후 7:47,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5403,2023-09-04 오후 7:46,2023-09-04 오후 7:46,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5404,2023-09-04 오후 7:46,2023-09-04 오후 7:46,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+5454,2023-09-04 오후 7:39,2023-09-04 오후 7:39,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5456,2023-09-04 오후 7:39,2023-09-04 오후 7:39,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5457,2023-09-04 오후 7:39,2023-09-04 오후 7:39,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+5597,2023-09-04 오후 7:19,2023-09-04 오후 7:19,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5598,2023-09-04 오후 7:19,2023-09-04 오후 7:19,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5599,2023-09-04 오후 7:19,2023-09-04 오후 7:19,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+5762,2023-09-04 오후 6:58,2023-09-04 오후 6:58,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5765,2023-09-04 오후 6:58,2023-09-04 오후 6:58,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5766,2023-09-04 오후 6:58,2023-09-04 오후 6:58,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+5776,2023-09-04 오후 6:57,2023-09-04 오후 6:57,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5777,2023-09-04 오후 6:57,2023-09-04 오후 6:57,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5778,2023-09-04 오후 6:57,2023-09-04 오후 6:57,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+5960,2023-09-04 오후 6:21,2023-09-04 오후 6:21,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+5961,2023-09-04 오후 6:21,2023-09-04 오후 6:21,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
+5962,2023-09-04 오후 6:21,2023-09-04 오후 6:21,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+6045,2023-09-04 오후 6:07,2023-09-04 오후 6:07,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,PROFINET            
+6046,2023-09-04 오후 6:07,2023-09-04 오후 6:07,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO01            
+6047,2023-09-04 오후 6:07,2023-09-04 오후 6:07,MSAI02,Profinet Fault - See Diagnostics Screen                                                                         ,ER01LO04            
