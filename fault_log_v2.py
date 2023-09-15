@@ -5,6 +5,7 @@ from os import path
 import os
 from openpyxl.styles import Font
 from openpyxl import load_workbook
+from openpyxl.styles import PatternFill, GradientFill
 
 window=Tk()
 
