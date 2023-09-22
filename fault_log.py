@@ -25,8 +25,19 @@ def open_dialog_1():
 
         df1 = df1[df1[df1.columns[1]].str.contains('OK') == False]
         df1 = df1[df1[df1.columns[1]].str.contains('Maintenance LED on SRM PLC is Active Indicating System Maintenance Required') == False]
+        df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
+        # df1 = df1[df1[df1.columns[1]].str.contains('Emergency Circuit Activated Digital Alarm') == False]
+        # df1 = df1[df1[df1.columns[1]].str.contains('Security Door Open 01 Digital Alarm') == False]
+        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
+        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
+        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
+        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
+        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
+        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
+
 
         df1[df1.columns[1]] = df1[df1.columns[1]].str.replace('  ', '')
+    
         df1.to_csv(f'{window.dirName}\\{date}_{i}.csv', encoding='utf-8-sig')
     
     os.startfile(window.dirName)
