@@ -26,14 +26,14 @@ def open_dialog_1():
         df1 = df1[df1[df1.columns[1]].str.contains('OK') == False]
         df1 = df1[df1[df1.columns[1]].str.contains('Maintenance LED on SRM PLC is Active Indicating System Maintenance Required') == False]
         df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
-        # df1 = df1[df1[df1.columns[1]].str.contains('Emergency Circuit Activated Digital Alarm') == False]
-        # df1 = df1[df1[df1.columns[1]].str.contains('Security Door Open 01 Digital Alarm') == False]
-        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
-        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
-        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
-        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
-        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
-        # df1 = df1[df1[df1.columns[1]].str.contains('SRM Logging Tool is not connected to the PLC') == False]
+        df1 = df1[df1[df1.columns[1]].str.contains('Emergency Circuit Activated Digital Alarm') == False]
+        df1 = df1[df1[df1.columns[1]].str.contains('Security Door Open 01 Digital Alarm') == False]
+        df1 = df1[df1[df1.columns[1]].str.contains('PALLET ARRIVED AT CP2') == False]
+        df1 = df1[df1[df1.columns[1]].str.contains('Layer Picker in Manual') == False]
+        df1 = df1[df1[df1.columns[1]].str.contains('Access Requested') == False]
+        df1 = df1[df1[df1.columns[1]].str.contains('Jog Mode Selected') == False]
+        df1 = df1[df1[df1.columns[1]].str.contains('Gate Open') == False]
+        df1 = df1[df1[df1.columns[1]].str.contains('Safety Barrier') == False]
 
 
         df1[df1.columns[1]] = df1[df1.columns[1]].str.replace('  ', '')
