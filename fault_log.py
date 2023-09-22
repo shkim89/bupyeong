@@ -18,71 +18,17 @@ def open_dialog_1():
     window.dirName=filedialog.askdirectory()
     print(window.dirName)
     date = str(file_2[-12:-4])
-    df= pd.read_csv(file_2, encoding='utf-16', usecols=[0,1,4,7,15], skipinitialspace= True)
-    df1 = df[df[df.columns[2]].str.contains('LP01') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"LP01"}.csv', encoding='utf-8-sig')
+    df= pd.read_csv(file_2, encoding='utf-16', usecols=[0,4,7,15], skipinitialspace= True, index_col=0)
+    device_list = ['LP01','LP02', 'RP01', 'RP02', 'UL01', 'UL02', 'UL03', 'PC01', 'PC02', 'PC03', 'CC04', 'CC05', 'MSAI01', 'MSAI02', 'MSAI03', 'MSAI04']
+    for i in device_list:
+        df1 = df[df[df.columns[0]].str.contains(i) == True]
 
-    df1 = df[df[df.columns[2]].str.contains('LP02') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"LP02"}.csv', encoding='utf-8-sig')   
+        df1 = df1[df1[df1.columns[1]].str.contains('OK') == False]
+        df1 = df1[df1[df1.columns[1]].str.contains('Maintenance LED on SRM PLC is Active Indicating System Maintenance Required') == False]
 
-    df1 = df[df[df.columns[2]].str.contains('RP01') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"RP01"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('RP02') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"RP02"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('UL01') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"UL01"}.csv', encoding='utf-8-sig')  
-
-    df1 = df[df[df.columns[2]].str.contains('UL02') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"UL02"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('UL03') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"UL03"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('PC01') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"CC01"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('PC02') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"CC02"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('PC03') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"CC03"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('CC04') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"CC04"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('CC05') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"CC05"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('MSAI01') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"MSAI01"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('MSAI02') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"MSAI02"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('MSAI03') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"MSAI03"}.csv', encoding='utf-8-sig')
-
-    df1 = df[df[df.columns[2]].str.contains('MSAI04') == True]
-    df1 = df1[df1[df1.columns[3]].str.contains('OK') == False]
-    df1.to_csv(f'{window.dirName}\\{date}_{"MSAI04"}.csv', encoding='utf-8-sig')
-
+        df1[df1.columns[1]] = df1[df1.columns[1]].str.replace('  ', '')
+        df1.to_csv(f'{window.dirName}\\{date}_{i}.csv', encoding='utf-8-sig')
+    
     os.startfile(window.dirName)
     window.destroy()
 
