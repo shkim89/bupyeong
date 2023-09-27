@@ -1,0 +1,8 @@
+﻿Time / Date,Area,Description,Device
+2023-09-26 오전 8:28,MSAI04,Conveyor Gap Sensor Blocked ,EL01LO04            
+2023-09-26 오전 8:28,MSAI04,"Sensor Blocked, No Logical Load Presence",CL01PS11            
+2023-09-26 오전 8:28,MSAI04,Lift Conveyor Overhang Fault Side B ,EL01LO00            
+2023-09-26 오전 2:20,MSAI04,Gap between loads too small ,LV12SH01            
+2023-09-26 오전 12:55,MSAI04,"Data Present, No Logical Load Presence",LR03RO11            
+2023-09-25 오후 9:57,MSAI04,Hall Sensor Error ,LR02RO11            
+2023-09-25 오후 4:23,MSAI04,Gap between loads too small ,LV15SH01            
