@@ -1,0 +1,38 @@
+﻿Time / Date,Area,Description,Device
+2023-09-27 오전 4:40,MSAI03,Front Finger 1 Not Closed ,LV03SH01            
+2023-09-27 오전 4:37,MSAI03,Front Finger 1 Not Closed ,LV05SH01            
+2023-09-27 오전 4:37,MSAI03,Front Finger 1 Not Closed ,LV07SH01            
+2023-09-27 오전 4:34,MSAI03,Front Finger 1 Not Closed ,LV07SH01            
+2023-09-27 오전 4:32,MSAI03,Front Finger 1 Not Closed ,LV05SH01            
+2023-09-26 오후 10:39,MSAI03,Load Sensed on Shuttle After Drop ,LV12SH01            
+2023-09-26 오후 10:33,MSAI03,Load Runtime Fault on Conveyor,LR07RI11            
+2023-09-26 오후 10:33,MSAI03,Load Runtime Fault on Conveyor,LR05RI11            
+2023-09-26 오후 10:32,MSAI03,Order repair timeout,LV12SH01            
+2023-09-26 오후 10:18,MSAI03,Bin Occupied,LV12SH01            
+2023-09-26 오후 9:56,MSAI03,"Data Present, No Logical Load Presence",LR03RI12            
+2023-09-26 오후 9:56,MSAI03,Load Runtime Fault on Conveyor,ER01LO04            
+2023-09-26 오후 9:56,MSAI03,Order repair timeout,LV12SH01            
+2023-09-26 오후 9:55,MSAI03,Load Runtime Fault on Conveyor,LR13RI11            
+2023-09-26 오후 9:55,MSAI03,Rack Conveyor Gap Sensor Blocked,LR06RI11            
+2023-09-26 오후 9:54,MSAI03,Order repair timeout,LV03SH01            
+2023-09-26 오후 9:52,MSAI03,"Data Present, No Logical Load Presence",LR12RI12            
+2023-09-26 오후 9:51,MSAI03,Load Runtime Fault on Conveyor,LR12RI12            
+2023-09-26 오후 9:51,MSAI03,Load Runtime Fault on Conveyor,LR09RI12            
+2023-09-26 오후 9:50,MSAI03,Load Runtime Fault on Conveyor,LR01RI11            
+2023-09-26 오후 9:50,MSAI03,Load Runtime Fault on Conveyor,LR02RI11            
+2023-09-26 오후 9:50,MSAI03,"Data Present, No Logical Load Presence",LR03RI12            
+2023-09-26 오후 9:50,MSAI03,Load Runtime Fault on Conveyor,LR02RI11            
+2023-09-26 오후 9:48,MSAI03,Load Runtime Fault on Conveyor,LR03RI12            
+2023-09-26 오후 9:47,MSAI03,Load Runtime Fault on Conveyor,LR10RI11            
+2023-09-26 오후 9:44,MSAI03,X: Shuttle Moved with No Order Data ,LV12SH01            
+2023-09-26 오후 9:44,MSAI03,X: Max Current Duration Exceeded,LV03SH01            
+2023-09-26 오후 9:12,MSAI03,Load Runtime Fault on Conveyor,LR09RI12            
+2023-09-26 오후 8:38,MSAI03,"Sensor Blocked, No Logical Load Presence",LR14RI11            
+2023-09-26 오후 8:31,MSAI03,Conveyor Gap Sensor Blocked ,ER01LO04            
+2023-09-26 오후 8:31,MSAI03,Rack Conveyor Gap Sensor Blocked,LR14RI11            
+2023-09-26 오후 8:05,MSAI03,Load Runtime Fault on Conveyor,LR10RI12            
+2023-09-26 오후 7:36,MSAI03,Front Finger 3 Not Open ,LV14SH01            
+2023-09-26 오후 6:45,MSAI03,Load Runtime Fault on Conveyor,LR14RI12            
+2023-09-26 오후 6:41,MSAI03,X: Shuttle Moved with No Order Data ,LV14SH01            
+2023-09-26 오후 6:34,MSAI03,X: Shuttle Moved with No Order Data ,LV14SH01            
+2023-09-26 오후 5:45,MSAI03,Back Finger 4 Not Closed,LV12SH01            
