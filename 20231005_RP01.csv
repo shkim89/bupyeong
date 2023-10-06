@@ -1,0 +1,76 @@
+﻿Time / Date,Area,Description,Device
+2023-10-05 오전 10:19,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 10:10,RP01,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 10:07,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 9:46,RP01,Frequency Converter Failure Digital Alarm,P01BA1
+2023-10-05 오전 9:28,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 9:14,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 9:11,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 9:06,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 9:05,RP01,[Z Axis] Unit Failure Digital Alarm,P01DA1_DB1
+2023-10-05 오전 8:18,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-10-05 오전 7:33,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 7:01,RP01,Sequence Error Digital Alarm,RP1_SH_APP
+2023-10-05 오전 6:55,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-10-05 오전 6:50,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-10-05 오전 6:38,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 6:35,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 6:31,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 6:28,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 6:26,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 6:02,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-10-05 오전 6:01,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-10-05 오전 5:17,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-10-05 오전 5:12,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 5:08,RP01,Pusher Is Not In Home Position Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 4:17,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-10-05 오전 4:15,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 4:10,RP01,Pusher Is Not In Home Position Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 3:30,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 3:09,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 3:00,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 2:55,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 2:49,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 2:39,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 2:28,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 2:20,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 2:10,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 2:09,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-10-05 오전 1:13,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 1:09,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 1:05,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-05 오전 12:59,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-05 오전 12:47,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-04 오후 11:56,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 11:50,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-04 오후 11:14,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 11:12,RP01,[Z Axis] Unit Failure Digital Alarm,P01GA1_GB1
+2023-10-04 오후 11:12,RP01,[Z Axis] Unit Failure Digital Alarm,P01GA2_GB2
+2023-10-04 오후 11:11,RP01,[Z Axis] Unit Failure Digital Alarm,P01DA1_DB1
+2023-10-04 오후 10:49,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 10:49,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-10-04 오후 10:47,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-04 오후 10:45,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 10:42,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-04 오후 10:39,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 10:36,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-04 오후 10:35,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 10:32,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-04 오후 10:28,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 10:10,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-04 오후 9:57,RP01,Your Data Occupation Failure Digital Alarm,P01AA1
+2023-10-04 오후 9:08,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 9:06,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-04 오후 9:05,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 8:58,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-04 오후 8:42,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 8:35,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 8:34,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 8:34,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-10-04 오후 8:33,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-10-04 오후 8:18,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 8:15,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-10-04 오후 8:08,RP01,Pusher Is Not In Home Position Digital Alarm,RP1_LOAD_APP
+2023-10-04 오후 8:03,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-10-04 오후 7:55,RP01,[X Axis] Execution Time Digital Alarm,P01MA1
+2023-10-04 오후 7:54,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC

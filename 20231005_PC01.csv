@@ -1,0 +1,72 @@
+﻿Time / Date,Area,Description,Device
+2023-10-04 오후 11:01,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 11:01,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 10:47,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 10:47,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 10:44,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 10:44,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 10:29,PC01,P1109[#1] 2F In Speed Door OP/CL Runtime Fault,P1109               
+2023-10-04 오후 10:29,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 10:29,PC01,P1109[#1] 2F In Speed Door OP/CL Runtime Fault,P1109               
+2023-10-04 오후 10:29,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 10:28,PC01,P1109[#1] 2F In Speed Door OP/CL Runtime Fault,P1109               
+2023-10-04 오후 10:28,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 10:28,PC01,P1109[#1] 2F In Speed Door OP/CL Runtime Fault,P1109               
+2023-10-04 오후 10:28,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 10:26,PC01,P1109[#1] 2F In Speed Door OP/CL Runtime Fault,P1109               
+2023-10-04 오후 10:26,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 10:18,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 10:18,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 10:17,PC01,P1109[#1] Lifter Conveyor Runtime Fault,P1109               
+2023-10-04 오후 10:17,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 10:10,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 10:10,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 9:58,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 9:58,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 9:55,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 9:55,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 9:54,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 9:54,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 9:52,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 9:52,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 9:42,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 9:42,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 9:41,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 9:41,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 9:38,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 9:38,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 9:36,PC01,P1109[#1] Lifter Conveyor Runtime Fault,P1109               
+2023-10-04 오후 9:36,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 9:31,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-04 오후 9:31,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-04 오후 9:25,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-04 오후 9:22,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-04 오후 9:22,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-04 오후 9:21,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-04 오후 9:21,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-04 오후 9:15,PC01,P1109[#1] Lifter Conveyor Runtime Fault,P1109               
+2023-10-04 오후 9:15,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 9:15,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-04 오후 9:15,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-04 오후 9:05,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-04 오후 9:05,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-04 오후 9:04,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-10-04 오후 9:04,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 8:59,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-04 오후 8:59,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-04 오후 8:57,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-04 오후 8:57,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-04 오후 8:56,PC01,P1109[#1] Lifter Conveyor Runtime Fault,P1109               
+2023-10-04 오후 8:56,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 8:52,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-04 오후 8:52,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-04 오후 8:47,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-04 오후 8:47,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-04 오후 8:43,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-04 오후 8:43,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-04 오후 7:56,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-04 오후 7:56,PC01,P1109[#1] CC1 Safety Sensor Error,P1109               
+2023-10-04 오후 7:56,PC01,LC1102ASafety Light Curtain Tripped,LC1102A             
+2023-10-04 오후 6:09,PC01,P1209 End Transfer PE Fault,P1209               
+2023-10-04 오후 6:09,PC01,P1210 End Transfer PE Fault,P1210               
+2023-10-04 오후 6:04,PC01,ST12051 STOP Button Activated,ST12051             

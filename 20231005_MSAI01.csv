@@ -1,0 +1,34 @@
+﻿Time / Date,Area,Description,Device
+2023-10-05 오전 9:12,MSAI01,Gap between loads too small ,LV07SH01            
+2023-10-05 오전 8:55,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-10-05 오전 8:55,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-10-05 오전 8:47,MSAI01,"Pick Location Deep, Front Bin Occupied",LV12SH01            
+2023-10-05 오전 8:43,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-10-05 오전 8:43,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-10-05 오전 8:42,MSAI01,Too Many Consecutive Bin Blocked Faults ,LV12SH01            
+2023-10-05 오전 8:38,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-10-05 오전 8:38,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-10-05 오전 8:35,MSAI01,"Pick Location Deep, Front Bin Occupied",LV12SH01            
+2023-10-05 오전 7:42,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-10-05 오전 7:42,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-10-05 오전 7:34,MSAI01,"Pick Location Deep, Front Bin Occupied",LV12SH01            
+2023-10-05 오전 7:31,MSAI01,Gap between loads too small ,LV07SH01            
+2023-10-05 오전 6:07,MSAI01,Load Runtime Fault on Conveyor,LL02RO12            
+2023-10-05 오전 6:07,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-10-05 오전 6:07,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-10-05 오전 6:06,MSAI01,Bin Empty ,LV11SH01            
+2023-10-05 오전 6:02,MSAI01,Bin Empty ,LV11SH01            
+2023-10-05 오전 1:57,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-10-05 오전 1:57,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-10-05 오전 1:56,MSAI01,Bin Empty ,LV02SH01            
+2023-10-05 오전 1:54,MSAI01,Bin Empty ,LV02SH01            
+2023-10-05 오전 1:45,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-10-05 오전 1:41,MSAI01,"Data Present, No Logical Load Presence",LL02RO12            
+2023-10-05 오전 1:40,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-10-05 오전 1:36,MSAI01,"Data Present, No Logical Load Presence",LL02RO12            
+2023-10-05 오전 1:33,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-10-05 오전 1:33,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-10-05 오전 1:26,MSAI01,"Data Present, No Logical Load Presence",LL02RO11            
+2023-10-05 오전 1:23,MSAI01,"Data Present, No Logical Load Presence",LL02RO12            
+2023-10-04 오후 10:46,MSAI01,Hall Sensor Error ,LL15RO11            
+2023-10-04 오후 9:41,MSAI01,Gap between loads too small ,LV14SH01            
