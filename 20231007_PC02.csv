@@ -72,3 +72,18 @@
 2023-10-05 오후 6:59,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
 2023-10-05 오후 6:54,PC02,LC2017ASafety Light Curtain Tripped,LC2017A             
 2023-10-05 오후 6:28,PC02,P2127A Stretch Wrapper Fault,FSM_SW_DB           
+2023-10-05 오후 5:33,PC02,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-05 오후 2:43,PC02,"P2595 Slipsheet Jam, Need Attention",                    
+2023-10-05 오후 2:22,PC02,P2006 End Transfer PE Fault,P2006               
+2023-10-05 오후 2:22,PC02,P2032 End Transfer PE Fault,P2032               
+2023-10-05 오후 2:14,PC02,"P2596 Slipsheet Jam, Need Attention",                    
+2023-10-05 오후 1:46,PC02,"P2597 Slipsheet Jam, Need Attention",                    
+2023-10-05 오전 6:40,PC02,"P2598 Slipsheet Jam, Need Attention",                    
+2023-10-05 오전 5:45,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-10-05 오전 5:45,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-10-05 오전 5:45,PC02,EZ14 ESTOP S15 reset required,                    
+2023-10-05 오전 5:45,PC02,EZ14 ESTOP S15 Activated,EZ14                
+2023-10-05 오전 5:45,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-10-05 오전 5:33,PC02,P2032 End Transfer PE Fault,P2032               
+2023-10-05 오전 5:33,PC02,P2033 End Transfer PE Fault,P2033               
+2023-10-05 오전 4:31,PC02,TOP Shuttle car - Unit Control Fault - Error code 35,SC_Car_TOP          

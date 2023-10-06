@@ -35,3 +35,11 @@
 2023-10-05 오후 7:37,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
 2023-10-05 오후 7:37,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
 2023-10-05 오후 7:19,MSAI03,Motor Stalled ,LR04RI12            
+2023-10-05 오후 2:59,MSAI03,"Data Present, No Logical Load Presence",LR04RI12            
+2023-10-05 오후 2:58,MSAI03,Load Runtime Fault on Conveyor,LR04RI12            
+2023-10-05 오후 2:43,MSAI03,X: Max Current Duration Exceeded,LV04SH01            
+2023-10-05 오후 2:39,MSAI03,Hall Sensor Error ,LR10RI12            
+2023-10-05 오전 5:51,MSAI03,Motor Stalled ,LR01RI12            
+2023-10-05 오전 5:27,MSAI03,Gap between loads too small ,LV13SH01            
+2023-10-05 오전 1:45,MSAI03,"Data Present, No Logical Load Presence",LL02RO11            
+2023-10-05 오전 12:22,MSAI03,"Data Present, No Logical Load Presence",LL06RO11            
