@@ -1,0 +1,91 @@
+﻿Time / Date,Area,Description,Device
+2023-10-06 오전 6:56,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 6:55,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 6:53,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 6:47,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 6:24,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 6:20,LP01,LG has been activated during move with layer - layer dropped Digital Alarm,LP01
+2023-10-06 오전 6:16,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 6:14,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 6:12,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 2:00,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-10-06 오전 2:00,LP01,System is stopped Digital Alarm,LP01
+2023-10-06 오전 2:00,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-10-06 오전 2:00,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-10-06 오전 1:52,LP01,System is stopped Digital Alarm,LP01
+2023-10-06 오전 1:52,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-10-06 오전 1:52,LP01,System is stopped Digital Alarm,LP01
+2023-10-06 오전 1:52,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-10-06 오전 1:36,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-10-06 오전 1:35,LP01,System is stopped Digital Alarm,LP01
+2023-10-06 오전 1:35,LP01,[Robot]LG has been activated during move_Layer dropped Digital Alarm,LP01
+2023-10-06 오전 1:35,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-10-06 오전 1:30,LP01,LPF in Product Test Mode Digital Alarm,LP01
+2023-10-06 오전 1:30,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-06 오전 1:29,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-06 오전 1:28,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-10-06 오전 1:28,LP01,System is stopped Digital Alarm,LP01
+2023-10-06 오전 1:28,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-10-06 오전 1:27,LP01,LG has been activated during move with layer - layer dropped Digital Alarm,LP01
+2023-10-06 오전 1:26,LP01,[Sensor]Light grid activated Digital Alarm,LP01
+2023-10-06 오전 1:26,LP01,LPF in Product Test Mode Digital Alarm,LP01
+2023-10-06 오전 1:26,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-06 오전 1:26,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-06 오전 1:26,LP01,Distance to deposit pallet is too high - Drop it? Digital Alarm,LP01
+2023-10-06 오전 1:25,LP01,Vacuum is not turned off Digital Alarm,LP01
+2023-10-06 오전 1:25,LP01,Bellows are inflated Digital Alarm,LP01
+2023-10-06 오전 1:25,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-06 오전 1:25,LP01,Distance to deposit pallet is too high - Drop it? Digital Alarm,LP01
+2023-10-06 오전 1:24,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-06 오전 1:23,LP01,Distance to deposit pallet is too high - Drop it? Digital Alarm,LP01
+2023-10-06 오전 1:17,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 1:15,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 1:10,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 1:09,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-06 오전 1:06,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-06 오전 1:05,LP01,Distance to deposit pallet is too high - Drop it? Digital Alarm,LP01
+2023-10-06 오전 12:06,LP01,System is stopped Digital Alarm,LP01
+2023-10-06 오전 12:06,LP01,Emergency stop from external system Digital Alarm,LP01
+2023-10-05 오후 9:40,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 9:37,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 9:31,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 9:06,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 8:32,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 8:28,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 8:18,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 8:14,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 8:12,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 7:59,LP01,[Robot]LG has been activated during move_Layer dropped Digital Alarm,LP01
+2023-10-05 오후 7:58,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 7:50,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 7:48,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 7:47,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 7:45,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 7:11,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 7:10,LP01,Vacuum is not turned off Digital Alarm,LP01
+2023-10-05 오후 7:10,LP01,Bellows are inflated Digital Alarm,LP01
+2023-10-05 오후 7:10,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-05 오후 7:09,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 7:09,LP01,Vacuum is not turned off Digital Alarm,LP01
+2023-10-05 오후 7:09,LP01,Bellows are inflated Digital Alarm,LP01
+2023-10-05 오후 7:09,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-05 오후 7:08,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 7:08,LP01,Vacuum is not turned off Digital Alarm,LP01
+2023-10-05 오후 7:08,LP01,Bellows are inflated Digital Alarm,LP01
+2023-10-05 오후 7:08,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-05 오후 7:07,LP01,Vacuum is not turned off Digital Alarm,LP01
+2023-10-05 오후 7:07,LP01,Bellows are inflated Digital Alarm,LP01
+2023-10-05 오후 7:07,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-05 오후 7:03,LP01,Time out movement on robot Digital Alarm,LP01
+2023-10-05 오후 7:02,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 7:00,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-10-05 오후 6:59,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-10-05 오후 6:58,LP01,System is stopped Digital Alarm,LP01
+2023-10-05 오후 6:58,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-10-05 오후 6:47,LP01,[Robot]LG has been activated during move_Layer dropped Digital Alarm,LP01
+2023-10-05 오후 6:44,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 6:42,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 6:39,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 6:30,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 6:29,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-10-05 오후 6:27,LP01,Timeout - Deposit position not ready Digital Alarm,LP01

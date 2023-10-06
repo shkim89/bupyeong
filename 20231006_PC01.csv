@@ -1,0 +1,140 @@
+﻿Time / Date,Area,Description,Device
+2023-10-06 오전 7:18,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-06 오전 3:58,PC01,P1211 Running Low On One Or More Consumable(s),P1211_LPA           
+2023-10-06 오전 12:48,PC01,P1120 Q04 Pallet transfer run time fault,P1120               
+2023-10-06 오전 12:36,PC01,P1120 Q04 Pallet transfer run time fault,P1120               
+2023-10-06 오전 12:36,PC01,ST11291 STOP Button Activated,ST11291             
+2023-10-06 오전 12:36,PC01,P1120 Q04 Pallet transfer run time fault,P1120               
+2023-10-06 오전 12:29,PC01,P1108[#2] CC2 Safety Sensor Error,P1108               
+2023-10-06 오전 12:29,PC01,Pallet Lift2 Alarm,P1108               
+2023-10-06 오전 12:18,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-06 오전 12:16,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-06 오전 12:16,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-06 오전 12:15,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-06 오전 12:15,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-06 오전 12:15,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-06 오전 12:15,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-06 오전 12:14,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-06 오전 12:14,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-06 오전 12:14,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-06 오전 12:14,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-06 오전 12:13,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-06 오전 12:13,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-06 오전 12:12,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-06 오전 12:12,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-06 오전 12:08,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-06 오전 12:08,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-06 오전 12:04,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-06 오전 12:02,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-06 오전 12:01,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-06 오전 12:01,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-05 오후 11:59,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-05 오후 11:51,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:51,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:50,PC01,P1032 End Transfer PE Fault,P1032               
+2023-10-05 오후 11:50,PC01,P1100 End Transfer PE Fault,P1100               
+2023-10-05 오후 11:21,PC01,Pallet Lift1 Alarm,P1109               
+2023-10-05 오후 11:21,PC01,P1109[#1] CC1 Safety Sensor Error,P1109               
+2023-10-05 오후 11:21,PC01,LC1102ASafety Light Curtain Tripped,LC1102A             
+2023-10-05 오후 11:20,PC01,P1101 Q04 Pallet transfer run time fault,P1101               
+2023-10-05 오후 11:19,PC01,P1101 Q04 Pallet transfer run time fault,P1101               
+2023-10-05 오후 11:16,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:16,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:16,PC01,P1101 Q04 Pallet transfer run time fault,P1101               
+2023-10-05 오후 11:12,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:12,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:12,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:12,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:11,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:11,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:11,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:11,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:10,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:10,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:10,PC01,P1101 Q04 Pallet transfer run time fault,P1101               
+2023-10-05 오후 11:07,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:07,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:07,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:07,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:06,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:06,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:06,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:05,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:05,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:05,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:05,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 11:05,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 11:05,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:58,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:58,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:55,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:55,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:54,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:54,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:54,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:54,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:53,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:53,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:50,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:50,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:39,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:39,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:29,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:29,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:14,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:14,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:06,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:06,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:05,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:05,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:05,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:05,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:04,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:04,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 10:04,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 10:04,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 9:57,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 9:57,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 9:45,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 9:45,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 9:36,PC01,ST11301 STOP Button Activated,ST11301             
+2023-10-05 오후 9:36,PC01,ST11301 STOP Button Activated,ST11301             
+2023-10-05 오후 9:36,PC01,ST11301 STOP Button Activated,ST11301             
+2023-10-05 오후 9:16,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 9:16,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:18,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:18,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:11,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:11,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:10,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:10,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:08,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:08,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:07,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:07,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:06,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:06,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:05,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:05,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:03,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:03,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:03,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:03,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:02,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:02,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:01,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:01,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 7:00,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 7:00,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 6:54,PC01,P1108[#2] CC2 Safety Sensor Error,P1108               
+2023-10-05 오후 6:54,PC01,Pallet Lift2 Alarm,P1108               
+2023-10-05 오후 6:09,PC01,BS1141_LotteChilsung2 Barcode Scanner No Response Fault,BS1141_LotteChilsung
+2023-10-05 오후 6:09,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 6:09,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 6:07,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 6:06,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 6:06,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 6:05,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 6:05,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-10-05 오후 6:00,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-10-05 오후 6:00,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
