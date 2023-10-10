@@ -1,0 +1,252 @@
+﻿Time / Date,Area,Description,Device
+2023-10-10 오전 7:44,MSAI02,"Data Present, No Logical Load Presence",LL07RI12            
+2023-10-10 오전 7:42,MSAI02,Load Runtime Fault on Conveyor,LL07RI12            
+2023-10-10 오전 7:23,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-10 오전 7:23,MSAI02,"Shuttle Load Overhang, Both Sides ",LV15SH01            
+2023-10-10 오전 7:21,MSAI02,Load Jam or Sensor Fault on Conveyor,CL01PS16            
+2023-10-10 오전 6:26,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-10 오전 6:25,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-10 오전 6:25,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-10 오전 6:25,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-10 오전 4:41,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-10 오전 4:41,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-10 오전 4:41,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-10 오전 3:59,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-10 오전 3:59,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-10 오전 3:59,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-10 오전 3:05,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-10 오전 3:05,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-10 오전 3:05,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-10 오전 2:40,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-10 오전 2:40,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-10 오전 2:40,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-10 오전 2:40,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-10 오전 1:42,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-10 오전 1:42,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-10 오전 1:42,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-10 오전 1:20,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-10 오전 1:19,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-10 오전 1:19,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-09 오후 11:40,MSAI02,Load Runtime Fault on Conveyor,LL07RI12            
+2023-10-09 오후 11:32,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오후 10:39,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-09 오후 10:39,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-09 오후 10:39,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-09 오후 6:46,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-09 오후 6:46,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-09 오후 6:46,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-09 오후 6:46,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-09 오후 6:46,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-09 오후 6:46,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-09 오후 6:46,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-09 오후 6:30,MSAI02,Order repair timeout,LV04SH01            
+2023-10-09 오후 6:29,MSAI02,Order repair timeout,LV02SH01            
+2023-10-09 오후 6:28,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-09 오후 6:27,MSAI02,"Data Present, No Logical Load Presence",LL07RI12            
+2023-10-09 오후 2:04,MSAI02,Current Shuttle Order Timeout ,LV04SH01            
+2023-10-09 오전 10:40,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-09 오전 10:40,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-09 오전 10:40,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-09 오전 10:39,MSAI02,Load Runtime Fault on Conveyor,LL14RI11            
+2023-10-09 오전 10:37,MSAI02,"Sensor Blocked, No Logical Load Presence",LL13RI11            
+2023-10-09 오전 10:36,MSAI02,"Logical Load Presence, No Data Present",EL01LO04            
+2023-10-09 오전 10:35,MSAI02,X: Shuttle Telescope Not Centered ,LV10SH01            
+2023-10-09 오전 10:27,MSAI02,X: Shuttle Telescope Not Centered ,LV10SH01            
+2023-10-09 오전 10:26,MSAI02,Conveyor Gap Sensor Blocked ,EL01LO04            
+2023-10-09 오전 10:24,MSAI02,Load Jam or Sensor Fault on Conveyor,CL01PS16            
+2023-10-09 오전 10:16,MSAI02,Order repair timeout,LV02SH01            
+2023-10-09 오전 10:13,MSAI02,Load Runtime Fault on Conveyor,EL01LO03            
+2023-10-09 오전 10:13,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 10:07,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 10:02,MSAI02,Order repair timeout,LV02SH01            
+2023-10-09 오전 10:02,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 10:00,MSAI02,Order repair timeout,LV02SH01            
+2023-10-09 오전 9:59,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 9:59,MSAI02,Load Runtime Fault on Conveyor,EL01LO03            
+2023-10-09 오전 9:58,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 9:58,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 9:37,MSAI02,"Drop Location Deep, Front Bin Occupied",LV03SH01            
+2023-10-09 오전 9:20,MSAI02,Load Runtime Fault on Conveyor,EL01LO04            
+2023-10-09 오전 9:20,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 9:20,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 9:17,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 8:45,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 8:45,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 8:45,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 8:25,MSAI02,"Sensor Blocked, No Logical Load Presence",LL16RI11            
+2023-10-09 오전 8:25,MSAI02,Load Runtime Fault on Conveyor,LL16RI12            
+2023-10-09 오전 8:22,MSAI02,Order repair timeout,LV02SH01            
+2023-10-09 오전 8:10,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-09 오전 7:47,MSAI02,"Shuttle Load Overhang, Right",LV04SH01            
+2023-10-09 오전 2:08,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-08 오후 4:18,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-08 오후 4:18,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-08 오후 4:18,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-08 오후 4:04,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-08 오후 4:04,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-08 오후 4:04,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-08 오전 6:41,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-08 오전 6:41,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-08 오전 6:41,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-08 오전 5:40,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-07 오후 11:56,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-07 오후 11:56,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-07 오후 11:56,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-07 오후 10:19,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-07 오후 10:19,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-07 오후 10:19,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-07 오후 6:47,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-07 오후 6:47,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-07 오후 6:47,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-07 오후 6:15,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-07 오후 6:15,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-07 오후 6:14,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-07 오후 6:14,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-07 오후 6:07,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-07 오후 6:07,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-07 오후 6:07,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-07 오후 4:37,MSAI02,Too Many Consecutive Bin Occupied Faults,LV02SH01            
+2023-10-07 오후 4:17,MSAI02,"Drop Location Deep, Front Bin Occupied",LV02SH01            
+2023-10-07 오후 4:07,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-07 오후 4:05,MSAI02,"Shuttle Load Overhang, Both Sides ",LV15SH01            
+2023-10-07 오후 4:04,MSAI02,"Data Present, No Logical Load Presence",LL15RI12            
+2023-10-07 오후 4:04,MSAI02,Order repair timeout,LV04SH01            
+2023-10-07 오후 4:04,MSAI02,Order repair timeout,LV02SH01            
+2023-10-07 오후 4:02,MSAI02,Load Runtime Fault on Conveyor,LL08RI11            
+2023-10-07 오후 4:02,MSAI02,Load Runtime Fault on Conveyor,LL05RI11            
+2023-10-07 오후 4:01,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-07 오후 4:00,MSAI02,Load Runtime Fault on Conveyor,LL07RI12            
+2023-10-07 오후 4:00,MSAI02,"Shuttle Load Overhang, Both Sides ",LV15SH01            
+2023-10-07 오후 4:00,MSAI02,"Data Present, No Logical Load Presence",LL03RI12            
+2023-10-07 오후 4:00,MSAI02,Load Runtime Fault on Conveyor,LL13RI11            
+2023-10-07 오후 3:58,MSAI02,"Pick Location Deep, Front Bin Occupied",LV02SH01            
+2023-10-07 오후 3:58,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-07 오후 3:58,MSAI02,"Shuttle Load Overhang, Right",LV04SH01            
+2023-10-07 오후 3:58,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-07 오후 3:57,MSAI02,"Data Present, No Logical Load Presence",LL03RI12            
+2023-10-07 오후 3:56,MSAI02,"Shuttle Load Overhang, Right",LV04SH01            
+2023-10-07 오후 3:56,MSAI02,Load Runtime Fault on Conveyor,LL03RI12            
+2023-10-07 오후 3:56,MSAI02,"Data Present, No Logical Load Presence",LL09RI12            
+2023-10-07 오후 3:55,MSAI02,Order repair timeout,LV06SH01            
+2023-10-07 오후 3:55,MSAI02,Order repair timeout,LV08SH01            
+2023-10-07 오후 3:55,MSAI02,Load Runtime Fault on Conveyor,LL09RI12            
+2023-10-07 오후 3:55,MSAI02,Load Runtime Fault on Conveyor,LL11RI12            
+2023-10-07 오후 3:54,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-07 오후 3:54,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-07 오후 3:54,MSAI02,Load Runtime Fault on Conveyor,LL13RI11            
+2023-10-07 오후 3:53,MSAI02,"Data Present, No Logical Load Presence",LL06RI12            
+2023-10-07 오후 3:53,MSAI02,Load Runtime Fault on Conveyor,LL06RI12            
+2023-10-07 오후 3:53,MSAI02,Load Runtime Fault on Conveyor,LL03RI11            
+2023-10-07 오후 3:53,MSAI02,"Data Present, No Logical Load Presence",LL02RI12            
+2023-10-07 오후 3:52,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-10-07 오후 3:52,MSAI02,Load Runtime Fault on Conveyor,LL06RI12            
+2023-10-07 오후 3:52,MSAI02,Load Runtime Fault on Conveyor,LL07RI12            
+2023-10-07 오후 3:52,MSAI02,Load Runtime Fault on Conveyor,LL02RI12            
+2023-10-07 오후 3:52,MSAI02,Load Runtime Fault on Conveyor,LL08RI12            
+2023-10-07 오후 3:50,MSAI02,Load Runtime Fault on Conveyor,LL10RI11            
+2023-10-07 오후 3:37,MSAI02,Front Finger 1 Not Closed ,LV15SH01            
+2023-10-07 오후 3:37,MSAI02,X: Max Current Duration Exceeded,LV06SH01            
+2023-10-07 오후 3:36,MSAI02,Front Finger 1 Not Closed ,LV07SH01            
+2023-10-07 오후 3:35,MSAI02,Z: Max Current Duration Exceeded,LV02SH01            
+2023-10-07 오후 3:35,MSAI02,Z: Over Current ,LV11SH01            
+2023-10-07 오후 2:56,MSAI02,"Drop Location Deep, Front Bin Occupied",LV02SH01            
+2023-10-07 오후 2:43,MSAI02,Bin Empty ,LV11SH01            
+2023-10-07 오후 2:40,MSAI02,Order repair timeout,LV11SH01            
+2023-10-07 오후 2:37,MSAI02,Conveyor Gap Sensor Blocked ,EL01LO04            
+2023-10-07 오후 2:18,MSAI02,Lift Conveyor Overhang Fault Side B ,EL01LO00            
+2023-10-07 오후 1:38,MSAI02,Bin Empty ,LV11SH01            
+2023-10-07 오후 1:08,MSAI02,Load Runtime Fault on Conveyor,LL03RI12            
+2023-10-07 오후 12:22,MSAI02,Z: Over Current ,LV03SH01            
+2023-10-07 오전 11:53,MSAI02,Load Runtime Fault on Conveyor,EL01LO04            
+2023-10-07 오전 11:53,MSAI02,Rack Conveyor Gap Sensor Blocked,LL03RI11            
+2023-10-07 오전 11:53,MSAI02,Lift Conveyor Overhang Fault Side B ,EL01LO00            
+2023-10-07 오전 11:05,MSAI02,Motor Stalled ,EL01LO01            
+2023-10-07 오전 7:42,MSAI02,"Pick Location Deep, Front Bin Occupied",LV02SH01            
+2023-10-07 오전 7:19,MSAI02,Load Runtime Fault on Conveyor,LR02RO12            
+2023-10-07 오전 7:15,MSAI02,"Pick Location Deep, Front Bin Occupied",LV08SH01            
+2023-10-07 오전 6:52,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-07 오전 6:52,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-07 오전 5:15,MSAI02,Load Runtime Fault on Conveyor,LR09RO12            
+2023-10-07 오전 3:59,MSAI02,"Shuttle Load Overhang, Right",LV04SH01            
+2023-10-07 오전 3:38,MSAI02,Bin Empty ,LV03SH01            
+2023-10-07 오전 3:30,MSAI02,Too Many Consecutive Bin Blocked Faults ,LV02SH01            
+2023-10-07 오전 3:25,MSAI02,"Drop Location Deep, Front Bin Occupied",LV02SH01            
+2023-10-07 오전 3:18,MSAI02,Order repair timeout,LV03SH01            
+2023-10-07 오전 3:11,MSAI02,Order repair timeout,LV01SH01            
+2023-10-07 오전 2:57,MSAI02,Order repair timeout,LV08SH01            
+2023-10-07 오전 2:54,MSAI02,Order repair timeout,LV01SH01            
+2023-10-07 오전 2:45,MSAI02,Order repair timeout,LV07SH01            
+2023-10-07 오전 2:44,MSAI02,Order repair timeout,LV01SH01            
+2023-10-07 오전 2:43,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-07 오전 2:43,MSAI02,Current Shuttle Order Timeout ,LV09SH01            
+2023-10-07 오전 2:43,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-07 오전 2:43,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-07 오전 2:43,MSAI02,Current Shuttle Order Timeout ,LV10SH01            
+2023-10-07 오전 2:43,MSAI02,Current Shuttle Order Timeout ,LV12SH01            
+2023-10-07 오전 2:37,MSAI02,Back Finger 1 Not Closed,LV07SH01            
+2023-10-07 오전 2:36,MSAI02,Front Finger 2 Not Closed ,LV01SH01            
+2023-10-07 오전 2:34,MSAI02,Conveyor Gap Sensor Blocked ,EL01LO04            
+2023-10-07 오전 2:33,MSAI02,Load Runtime Fault on Conveyor,LR02RO12            
+2023-10-07 오전 2:33,MSAI02,Load Runtime Fault on Conveyor,LL01RI11            
+2023-10-07 오전 2:28,MSAI02,Gap between loads too small ,LV12SH01            
+2023-10-07 오전 2:22,MSAI02,Load Runtime Fault on Conveyor,LL07RI11            
+2023-10-07 오전 2:08,MSAI02,"Data Present, No Logical Load Presence",LL04RI12            
+2023-10-07 오전 2:08,MSAI02,Load Runtime Fault on Conveyor,LL12RI12            
+2023-10-07 오전 2:07,MSAI02,Load Runtime Fault on Conveyor,LL02RI11            
+2023-10-07 오전 2:05,MSAI02,Load Runtime Fault on Conveyor,LL04RI12            
+2023-10-07 오전 2:02,MSAI02,Load Runtime Fault on Conveyor,LL08RI12            
+2023-10-07 오전 1:59,MSAI02,Z: Over Current ,LV12SH01            
+2023-10-07 오전 1:59,MSAI02,Z: Runtime Exceeded ,LV04SH01            
+2023-10-07 오전 1:46,MSAI02,Front Finger 1 Not Closed ,LV01SH01            
+2023-10-07 오전 1:16,MSAI02,Gap between loads too small ,LV06SH01            
+2023-10-07 오전 12:28,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-07 오전 12:07,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-07 오전 12:07,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-07 오전 12:07,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-07 오전 12:07,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-06 오후 11:54,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-10-06 오후 11:54,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-10-06 오후 11:54,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-10-06 오후 11:25,MSAI02,No Communications with Shuttle,LV03SH01            
+2023-10-06 오후 11:25,MSAI02,No Communications with Shuttle,LV04SH01            
+2023-10-06 오후 11:25,MSAI02,No Communications with Shuttle,LV02SH01            
+2023-10-06 오후 11:23,MSAI02,Shuttle Safety Circuit Active ,LV01SH01            
+2023-10-06 오후 11:17,MSAI02,Gap between loads too small ,LV04SH01            
+2023-10-06 오후 11:17,MSAI02,Gap between loads too small ,LV04SH01            
+2023-10-06 오후 10:24,MSAI02,Load Runtime Fault on Conveyor,LL14RI12            
+2023-10-06 오후 10:17,MSAI02,Maintenance Level Shuttle Breaker Fault ,ML02                
+2023-10-06 오후 10:11,MSAI02,Z: Over Current ,LV14SH01            
+2023-10-06 오후 9:52,MSAI02,Rear Solenoid Release Fault ,ML02                
+2023-10-06 오후 9:50,MSAI02,"Pick Location Deep, Front Bin Occupied",LV07SH01            
+2023-10-06 오후 9:49,MSAI02,Too Many Consecutive Bin Blocked Faults ,LV07SH01            
+2023-10-06 오후 9:38,MSAI02,Maintenance Level Shuttle Breaker Fault ,ML02                
+2023-10-06 오후 9:26,MSAI02,"Data Present, No Logical Load Presence",LL03RI12            
+2023-10-06 오후 9:26,MSAI02,Load Runtime Fault on Conveyor,LL03RI12            
+2023-10-06 오후 9:20,MSAI02,Z: Over Current ,LV03SH01            
+2023-10-06 오후 9:18,MSAI02,"Pick Location Deep, Front Bin Occupied",LV07SH01            
+2023-10-06 오후 9:11,MSAI02,Order repair timeout,LV07SH01            
+2023-10-06 오후 8:53,MSAI02,Order repair timeout,LV07SH01            
+2023-10-06 오후 8:43,MSAI02,"Data Present, No Logical Load Presence",LL12RI12            
+2023-10-06 오후 8:42,MSAI02,Load Runtime Fault on Conveyor,LL09RI12            
+2023-10-06 오후 8:42,MSAI02,Load Runtime Fault on Conveyor,LL12RI12            
+2023-10-06 오후 8:41,MSAI02,Load Runtime Fault on Conveyor,LL09RI11            
+2023-10-06 오후 8:32,MSAI02,Load Runtime Fault on Conveyor,LL12RI11            
+2023-10-06 오후 8:32,MSAI02,Load Runtime Fault on Conveyor,LL09RI11            
+2023-10-06 오후 8:29,MSAI02,Back Finger 2 Not Open,LV07SH01            
+2023-10-06 오후 8:28,MSAI02,"Data Present, No Logical Load Presence",LL11RI12            
+2023-10-06 오후 8:25,MSAI02,Load Runtime Fault on Conveyor,LL11RI12            
+2023-10-06 오후 7:48,MSAI02,Load Runtime Fault on Conveyor,LL08RI12            
+2023-10-06 오후 7:48,MSAI02,Back Finger 2 Not Open,LV07SH01            
+2023-10-06 오후 7:47,MSAI02,Too Many Consecutive Bin Blocked Faults ,LV07SH01            
+2023-10-06 오후 7:46,MSAI02,Order repair timeout,LV07SH01            
+2023-10-06 오후 7:45,MSAI02,"Shuttle Load Overhang, Both Sides ",LV11SH01            
+2023-10-06 오후 7:44,MSAI02,Load Runtime Fault on Conveyor,EL01LO04            
+2023-10-06 오후 7:44,MSAI02,"Data Present, No Logical Load Presence",LL11RI12            
+2023-10-06 오후 7:42,MSAI02,Order repair timeout,LV08SH01            
+2023-10-06 오후 7:42,MSAI02,Rear Solenoid Release Fault ,ML01                
+2023-10-06 오후 7:39,MSAI02,Order repair timeout,LV04SH01            
+2023-10-06 오후 7:31,MSAI02,"Drop Location Deep, Front Bin Occupied",LV07SH01            
+2023-10-06 오후 7:29,MSAI02,"Shuttle Load Overhang, Both Sides ",LV11SH01            
+2023-10-06 오후 7:27,MSAI02,Load Runtime Fault on Conveyor,LL13RI11            
+2023-10-06 오후 7:26,MSAI02,W: Max Current Duration Exceeded,LV08SH01            
+2023-10-06 오후 7:24,MSAI02,"Shuttle Load Overhang, Right",LV04SH01            

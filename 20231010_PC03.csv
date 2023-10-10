@@ -1,0 +1,34 @@
+﻿Time / Date,Area,Description,Device
+2023-10-07 오후 4:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오후 3:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오후 2:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오후 1:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오후 12:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오전 11:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오전 11:01,PC03,P2217 Conveyor Movimot Drive M01 Fault,P2217               
+2023-10-07 오전 11:00,PC03,P2265 Q03 Pallet transfer run time fault,P2265               
+2023-10-07 오전 10:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오전 9:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오전 8:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오전 7:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오전 6:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오전 4:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오전 4:30,PC03,P2217 Conveyor Movimot Drive M01 Fault,P2217               
+2023-10-07 오전 4:29,PC03,P2217 Conveyor Movimot Drive M01 Fault,P2217               
+2023-10-07 오전 4:26,PC03,P2210A Destacker Alarm,                    
+2023-10-07 오전 3:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오전 2:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오전 1:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-07 오전 12:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-06 오후 11:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-06 오후 10:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-06 오후 9:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-06 오후 8:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-06 오후 7:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-06 오후 6:33,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-10-06 오후 6:18,PC03,P2217 Conveyor Movimot Drive M01 Fault,P2217               
+2023-10-06 오후 6:18,PC03,P2217 Conveyor Movimot Drive M01 Fault,P2217               
+2023-10-06 오후 6:04,PC03,LC2236ASafety Light Curtain Tripped,LC2236A             
+2023-10-06 오후 6:04,PC03,EZ17 Tripped,                    
+2023-10-06 오후 6:02,PC03,P2210A Destacker Alarm,                    
+2023-10-06 오후 6:01,PC03,P2217 Conveyor Movimot Drive M01 Fault,P2217               

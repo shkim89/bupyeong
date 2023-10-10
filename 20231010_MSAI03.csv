@@ -1,0 +1,17 @@
+﻿Time / Date,Area,Description,Device
+2023-10-09 오전 10:02,MSAI03,Motor Stalled ,LR16RI12            
+2023-10-09 오전 8:08,MSAI03,Hall Sensor Error ,LR03RI12            
+2023-10-08 오전 2:08,MSAI03,Gap between loads too small ,LV13SH01            
+2023-10-07 오후 4:34,MSAI03,Move W-axis not allowed when loaded ,LV08SH01            
+2023-10-07 오후 4:31,MSAI03,Move W-axis not allowed when loaded ,LV08SH01            
+2023-10-07 오후 4:22,MSAI03,Move W-axis not allowed when loaded ,LV08SH01            
+2023-10-07 오후 4:06,MSAI03,Hall Sensor Error ,LR07RI12            
+2023-10-07 오후 12:06,MSAI03,Motor Stalled ,LR10RI12            
+2023-10-07 오전 5:02,MSAI03,"Pick Location Deep, Front Bin Occupied",LV03SH01            
+2023-10-07 오전 3:09,MSAI03,Bin Empty ,LV09SH01            
+2023-10-07 오전 2:44,MSAI03,Bin Empty ,LV09SH01            
+2023-10-06 오후 8:57,MSAI03,Load Runtime Fault on Conveyor,LR06RI12            
+2023-10-06 오후 8:54,MSAI03,Front Finger 2 Not Closed ,LV06SH01            
+2023-10-06 오후 8:11,MSAI03,"Drop Location Deep, Front Bin Occupied",LV09SH01            
+2023-10-06 오후 7:32,MSAI03,Front Finger 1 Not Closed ,LV10SH01            
+2023-10-06 오후 7:23,MSAI03,Order repair timeout,LV05SH01            
