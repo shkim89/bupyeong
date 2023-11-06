@@ -1,0 +1,113 @@
+﻿Time / Date,Area,Description,Device
+2023-11-04 오전 11:59,MSAI01,Load Runtime Fault on Conveyor,CR01PS15            
+2023-11-04 오전 11:59,MSAI01,Load Runtime Fault on Conveyor,CR01PS15            
+2023-11-04 오전 11:57,MSAI01,Load Runtime Fault on Conveyor,ER01LO04            
+2023-11-04 오전 11:56,MSAI01,Load Jam or Sensor Fault on Conveyor,CR01PS15            
+2023-11-04 오전 11:53,MSAI01,Conveyor Gap Sensor Blocked ,CR01PS11            
+2023-11-04 오전 11:48,MSAI01,Load Runtime Fault on Conveyor,ER01LO04            
+2023-11-04 오전 11:41,MSAI01,Load Runtime Fault on Conveyor,ER01LO03            
+2023-11-04 오전 11:40,MSAI01,"Data Present, No Logical Load Presence",LR16RI11            
+2023-11-04 오전 11:29,MSAI01,"Data Present, No Logical Load Presence",LR16RI11            
+2023-11-04 오전 11:28,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-04 오전 11:28,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-04 오전 11:26,MSAI01,"Data Present, No Logical Load Presence",LR16RI11            
+2023-11-04 오전 11:17,MSAI01,Load Runtime Fault on Conveyor,ER01LO04            
+2023-11-04 오전 10:11,MSAI01,"Data Present, No Logical Load Presence",LR13RI12            
+2023-11-04 오전 10:09,MSAI01,Load Runtime Fault on Conveyor,LR13RI12            
+2023-11-04 오전 10:08,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-04 오전 10:08,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-04 오전 6:53,MSAI01,W: Max Current Duration Exceeded,LV13SH01            
+2023-11-04 오전 2:15,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-04 오전 2:15,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-04 오전 2:13,MSAI01,Back Finger 4 Not Open,LV14SH01            
+2023-11-04 오전 2:00,MSAI01,"Drop Location Deep, Front Bin Occupied",LV14SH01            
+2023-11-04 오전 12:54,MSAI01,W: Max Current Duration Exceeded,LV02SH01            
+2023-11-04 오전 12:37,MSAI01,Gap between loads too small ,LV11SH01            
+2023-11-04 오전 12:32,MSAI01,Motor Stalled ,EL01LO04            
+2023-11-03 오후 10:53,MSAI01,Load Runtime Fault on Conveyor,LL14RO12            
+2023-11-03 오후 10:51,MSAI01,Load Runtime Fault on Conveyor,LL14RO12            
+2023-11-03 오후 10:48,MSAI01,Load Runtime Fault on Conveyor,LR01RI11            
+2023-11-03 오후 10:48,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-03 오후 10:48,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-03 오후 10:46,MSAI01,Move W-axis not allowed when loaded ,LV14SH01            
+2023-11-03 오후 10:41,MSAI01,Order repair timeout,LV14SH01            
+2023-11-03 오후 10:37,MSAI01,Move W-axis not allowed when loaded ,LV14SH01            
+2023-11-03 오후 10:16,MSAI01,"Data Present, No Logical Load Presence",LL03RO11            
+2023-11-03 오후 10:05,MSAI01,Gap between loads too small ,LV14SH01            
+2023-11-03 오후 9:10,MSAI01,"Data Present, No Logical Load Presence",LL12RO11            
+2023-11-03 오전 10:02,MSAI01,Hall Sensor Error ,LR01RI12            
+2023-11-03 오전 3:53,MSAI01,Hall Sensor Error ,LR08RI12            
+2023-11-03 오전 3:00,MSAI01,Load Runtime Fault on Conveyor,LR11RI12            
+2023-11-03 오전 3:00,MSAI01,Load Runtime Fault on Conveyor,LR10RI12            
+2023-11-03 오전 2:59,MSAI01,"Data Present, No Logical Load Presence",LR11RI12            
+2023-11-03 오전 2:58,MSAI01,"Data Present, No Logical Load Presence",LR10RI12            
+2023-11-03 오전 2:56,MSAI01,Load Runtime Fault on Conveyor,LR10RI12            
+2023-11-03 오전 2:56,MSAI01,Load Runtime Fault on Conveyor,LR11RI12            
+2023-11-03 오전 2:40,MSAI01,Load Runtime Fault on Conveyor,CL02DS18            
+2023-11-03 오전 2:39,MSAI01,Load Runtime Fault on Conveyor,CL02DS18            
+2023-11-03 오전 2:36,MSAI01,Conveyor Gap Sensor Blocked ,CL02DS11            
+2023-11-03 오전 2:36,MSAI01,Motor Stalled ,EL01LO04            
+2023-11-03 오전 2:23,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-03 오전 2:20,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-03 오전 2:20,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-03 오전 2:10,MSAI01,Gap between loads too small ,LV16SH01            
+2023-11-03 오전 12:21,MSAI01,Lift Conveyor Overhang Fault Side B ,EL01LO00            
+2023-11-03 오전 12:02,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-03 오전 12:02,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-02 오후 11:56,MSAI01,Load Runtime Fault on Conveyor,LR07RI11            
+2023-11-02 오후 11:55,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-02 오후 11:55,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-02 오후 11:51,MSAI01,Too Many Consecutive Bin Blocked Faults ,LV10SH01            
+2023-11-02 오후 11:49,MSAI01,Load Runtime Fault on Conveyor,LL01RO12            
+2023-11-02 오후 11:48,MSAI01,Load Runtime Fault on Conveyor,LR15RI11            
+2023-11-02 오후 11:48,MSAI01,Load Runtime Fault on Conveyor,LR02RI11            
+2023-11-02 오후 11:48,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-02 오후 11:48,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-02 오후 11:42,MSAI01,"Drop Location Deep, Front Bin Occupied",LV10SH01            
+2023-11-02 오후 11:41,MSAI01,Shuttle Not Homed ,LV06SH01            
+2023-11-02 오후 11:20,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-02 오후 11:18,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-02 오후 11:17,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-02 오후 11:11,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-02 오후 11:11,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-02 오후 11:10,MSAI01,X: Slip Value Out of Range,LV06SH01            
+2023-11-02 오후 11:09,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-02 오후 11:09,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-02 오후 11:08,MSAI01,Shuttle not Homed ,LV06SH01            
+2023-11-02 오후 11:01,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-02 오후 11:01,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-02 오후 10:57,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-02 오후 10:57,MSAI01,Shuttle not Homed ,LV06SH01            
+2023-11-02 오후 10:54,MSAI01,Load Runtime Fault on Conveyor,LR15RI11            
+2023-11-02 오후 10:54,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-02 오후 10:54,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-02 오후 10:51,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-02 오후 10:51,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-02 오후 10:50,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-02 오후 10:48,MSAI01,Shuttle Not Homed ,LV06SH01            
+2023-11-02 오후 10:31,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-02 오후 10:30,MSAI01,Load Runtime Fault on Conveyor,ER01LO04            
+2023-11-02 오후 10:30,MSAI01,"Sensor Blocked, No Logical Load Presence",LR16RI11            
+2023-11-02 오후 10:30,MSAI01,"Logical Load Presence, No Data Present",ER01LO03            
+2023-11-02 오후 10:30,MSAI01,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-02 오후 10:29,MSAI01,Load Runtime Fault on Conveyor,ER01LO04            
+2023-11-02 오후 10:28,MSAI01,Load Runtime Fault on Conveyor,LR09RI11            
+2023-11-02 오후 10:28,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-02 오후 10:28,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-02 오후 10:27,MSAI01,Rack Conveyor Gap Sensor Blocked,LR16RI11            
+2023-11-02 오후 10:26,MSAI01,Outfeed 1 Gap Check Fault ,EL01LO00            
+2023-11-02 오후 10:16,MSAI01,Motor Stalled ,EL01LO04            
+2023-11-02 오후 9:43,MSAI01,"Data Present, No Logical Load Presence",LL08RO11            
+2023-11-02 오후 9:19,MSAI01,Load Runtime Fault on Conveyor,LR01RI11            
+2023-11-02 오후 9:19,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-02 오후 9:19,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-02 오후 9:16,MSAI01,Gap between loads too small ,LV10SH01            
+2023-11-02 오후 8:36,MSAI01,Front Finger 4 Not Closed ,LV03SH01            
+2023-11-02 오후 6:50,MSAI01,Motor Stalled ,LR01RI12            
+2023-11-02 오후 3:47,MSAI01,Hall Sensor Error ,LR12RI12            
+2023-11-02 오후 1:00,MSAI01,Motor Stalled ,LR01RI12            
+2023-11-02 오후 12:00,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-02 오후 12:00,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-02 오전 11:59,MSAI01,Load Runtime Fault on Conveyor,ER01LO03            
+2023-11-02 오전 11:58,MSAI01,Conveyor Gap Sensor Blocked ,ER01LO01            
+2023-11-02 오전 9:48,MSAI01,Conveyor Gap Sensor Blocked ,ER01LO04            
