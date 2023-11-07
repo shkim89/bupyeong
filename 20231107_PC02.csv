@@ -1,0 +1,139 @@
+﻿Time / Date,Area,Description,Device
+2023-11-07 오전 6:03,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-07 오전 6:03,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-07 오전 6:02,PC02,EZ14 Tripped,                    
+2023-11-07 오전 6:02,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-07 오전 6:02,PC02,LC2058ASafety Light Curtain Tripped,LC2058A             
+2023-11-07 오전 6:00,PC02,ST20511 STOP Button Activated,ST20511             
+2023-11-07 오전 5:58,PC02,ST20581 STOP Button Activated,ST20581             
+2023-11-07 오전 5:38,PC02,MC3001_E_Stop WEST_SC_02 reset required,                    
+2023-11-07 오전 5:37,PC02,MC3001_E_Stop WEST_SC_02 Activated,MC3001_E_Stop       
+2023-11-07 오전 5:37,PC02,MC3001_E_Stop WEST_SC_02 Input hardware faulted,                    
+2023-11-07 오전 5:37,PC02,EZ14 Tripped,                    
+2023-11-07 오전 5:37,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-07 오전 5:37,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-07 오전 5:37,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-07 오전 1:10,PC02,EZ14 ESTOP S15 reset required,                    
+2023-11-07 오전 1:10,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-07 오전 1:10,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-07 오전 1:09,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-07 오전 1:09,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-07 오전 1:09,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-07 오전 1:09,PC02,EZ14 ESTOP S15 Activated,EZ14                
+2023-11-07 오전 1:05,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-07 오전 1:04,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-07 오전 1:04,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-07 오전 1:02,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-07 오전 1:02,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-07 오전 1:02,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-07 오전 1:02,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-07 오전 1:02,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-07 오전 1:02,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-07 오전 1:02,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-07 오전 1:02,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-07 오전 1:02,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-07 오전 12:59,PC02,TOP Shuttle car - Unit Control Fault - Error code 25,SC_Car_TOP          
+2023-11-07 오전 12:59,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-07 오전 12:39,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-07 오전 12:37,PC02,EZ14 ESTOP S14 reset required,                    
+2023-11-07 오전 12:37,PC02,EZ14 ESTOP S14 Activated,EZ14                
+2023-11-07 오전 12:37,PC02,EZ14 ESTOP S14 reset required,                    
+2023-11-07 오전 12:36,PC02,EZ14 ESTOP S14 Activated,EZ14                
+2023-11-07 오전 12:35,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-07 오전 12:35,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-07 오전 12:35,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-07 오전 12:35,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-07 오전 12:35,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-07 오전 12:35,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-07 오전 12:32,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-07 오전 12:31,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-07 오전 12:30,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-07 오전 12:30,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-07 오전 12:29,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-07 오전 12:25,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-07 오전 12:25,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-07 오전 12:25,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-07 오전 12:24,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-07 오전 12:24,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-07 오전 12:24,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-07 오전 12:24,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-07 오전 12:24,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-07 오전 12:24,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-07 오전 12:23,PC02,P2081 Q03 Pallet transfer run time fault,P2081               
+2023-11-07 오전 12:19,PC02,P2081 Q03 Pallet transfer run time fault,P2081               
+2023-11-07 오전 12:19,PC02,P2127A Stretch Wrapper Fault,FSM_SW_DB           
+2023-11-07 오전 12:16,PC02,P2081 Q03 Pallet transfer run time fault,P2081               
+2023-11-06 오후 11:59,PC02,P2081 Q03 Pallet transfer run time fault,P2081               
+2023-11-06 오후 11:52,PC02,TOP Shuttle car - Unit Control Fault - Error code 25,SC_Car_TOP          
+2023-11-06 오후 11:52,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-06 오후 11:07,PC02,P2127A Stretch Wrapper Fault,FSM_SW_DB           
+2023-11-06 오후 9:19,PC02,EZ14 ESTOP S15 reset required,                    
+2023-11-06 오후 9:18,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-06 오후 9:18,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-06 오후 9:18,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-06 오후 9:18,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-06 오후 9:18,PC02,EZ14 ESTOP S15 Activated,EZ14                
+2023-11-06 오후 9:18,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-06 오후 8:27,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-06 오후 8:23,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-06 오후 8:23,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-06 오후 8:23,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-06 오후 8:23,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-06 오후 8:23,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-06 오후 8:23,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-06 오후 8:20,PC02,P2104 Q01 Pallet transfer run time fault,P2104               
+2023-11-06 오후 8:20,PC02,EZ14 ESTOP S15 reset required,                    
+2023-11-06 오후 8:18,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-06 오후 8:18,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-06 오후 8:18,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-06 오후 8:18,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-06 오후 8:17,PC02,EZ14 ESTOP S15 Activated,EZ14                
+2023-11-06 오후 8:17,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-06 오후 8:17,PC02,P2104 Q01 Pallet transfer run time fault,P2104               
+2023-11-06 오후 8:10,PC02,P2104 Q01 Pallet transfer run time fault,P2104               
+2023-11-06 오후 8:09,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-06 오후 8:09,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-06 오후 8:09,PC02,P2127A Stretch Wrapper Fault,FSM_SW_DB           
+2023-11-06 오후 8:09,PC02,EZ14 ESTOP S15 reset required,                    
+2023-11-06 오후 8:09,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-06 오후 8:09,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-06 오후 8:09,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-06 오후 8:09,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-06 오후 8:08,PC02,EZ14 ESTOP S15 Activated,EZ14                
+2023-11-06 오후 8:06,PC02,WEST Shuttle car - Unit Control Fault - Error code 22,SC_Car_WEST         
+2023-11-06 오후 8:06,PC02,P2127A Stretch Wrapper Fault,FSM_SW_DB           
+2023-11-06 오후 8:03,PC02,P2104 Q01 Pallet transfer run time fault,P2104               
+2023-11-06 오후 7:45,PC02,EZ14 ESTOP S15 reset required,                    
+2023-11-06 오후 7:45,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-06 오후 7:45,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-06 오후 7:45,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-06 오후 7:45,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-06 오후 7:44,PC02,EZ14 ESTOP S15 Activated,EZ14                
+2023-11-06 오후 7:44,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-06 오후 7:41,PC02,EZ14 ESTOP S15 reset required,                    
+2023-11-06 오후 7:37,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-06 오후 7:37,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-06 오후 7:37,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-06 오후 7:37,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-06 오후 7:37,PC02,EZ14 ESTOP S15 Activated,EZ14                
+2023-11-06 오후 7:37,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-06 오후 6:33,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-06 오후 6:33,PC02,EZ14 Tripped,                    
+2023-11-06 오후 6:33,PC02,LC2045ASafety Light Curtain Tripped,LC2045A             
+2023-11-06 오후 6:32,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-06 오후 6:32,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-06 오후 6:32,PC02,WEST Shuttle car - Unit Control Fault - Error code 36,SC_Car_WEST         
+2023-11-06 오후 6:32,PC02,EZ14 Tripped,                    
+2023-11-06 오후 6:32,PC02,LC2045ASafety Light Curtain Tripped,LC2045A             
+2023-11-06 오후 6:27,PC02,P2046 End Transfer PE Fault,P2046               
+2023-11-06 오후 6:27,PC02,P2138 End Transfer PE Fault,P2138               
+2023-11-06 오후 6:20,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-06 오후 6:20,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-06 오후 6:20,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-06 오후 6:20,PC02,EZ14 ESTOP S11 reset required,                    
+2023-11-06 오후 6:19,PC02,EZ14 Tripped,                    
+2023-11-06 오후 6:19,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-06 오후 6:19,PC02,EZ14 ESTOP S11 Activated,EZ14                
+2023-11-06 오후 6:10,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-06 오후 6:10,PC02,LC2058ASafety Light Curtain Tripped,LC2058A             
+2023-11-06 오후 6:10,PC02,EZ14 Tripped,                    

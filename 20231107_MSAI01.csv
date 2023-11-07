@@ -1,0 +1,14 @@
+﻿Time / Date,Area,Description,Device
+2023-11-07 오전 2:59,MSAI01,Hall Sensor Error ,LL15RO12            
+2023-11-07 오전 2:24,MSAI01,Order repair timeout,LV02SH01            
+2023-11-07 오전 2:16,MSAI01,"Drop Location Deep, Front Bin Occupied",LV02SH01            
+2023-11-07 오전 1:52,MSAI01,Front Finger 2 Not Closed ,LV01SH01            
+2023-11-06 오후 9:02,MSAI01,"Data Present, No Logical Load Presence",LL04RO11            
+2023-11-06 오후 9:00,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-06 오후 9:00,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-06 오후 8:41,MSAI01,Bin Empty ,LV13SH01            
+2023-11-06 오후 8:37,MSAI01,"Data Present, No Logical Load Presence",LL04RO12            
+2023-11-06 오후 8:32,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-06 오후 8:32,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-06 오후 8:31,MSAI01,"Data Present, No Logical Load Presence",LL04RO11            
+2023-11-06 오후 8:30,MSAI01,"Data Present, No Logical Load Presence",LL04RO12            
