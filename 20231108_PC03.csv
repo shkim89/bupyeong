@@ -1,0 +1,51 @@
+﻿Time / Date,Area,Description,Device
+2023-11-08 오전 7:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-08 오전 6:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-08 오전 5:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-08 오전 4:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-08 오전 3:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-08 오전 2:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-08 오전 1:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-08 오전 12:48,PC03,P2203 Conveyor Movimot Drive M01 Fault,P2203               
+2023-11-08 오전 12:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-07 오후 10:06,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:06,PC03,EZ19 ESTOP S03 reset required,                    
+2023-11-07 오후 10:06,PC03,EZ19 ESTOP S03 Activated,EZ19                
+2023-11-07 오후 10:06,PC03,Gate_ErgoPallopen,Gate_ErgoPall       
+2023-11-07 오후 10:05,PC03,EZ19 ESTOP S03 reset required,                    
+2023-11-07 오후 10:05,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:05,PC03,EZ19 Tripped,                    
+2023-11-07 오후 10:05,PC03,EZ19 ESTOP S03 Activated,EZ19                
+2023-11-07 오후 10:05,PC03,EZ19 ESTOP S03 reset required,                    
+2023-11-07 오후 10:05,PC03,EZ19 Tripped,                    
+2023-11-07 오후 10:05,PC03,ErgoPall Estop,ErgoPall            
+2023-11-07 오후 10:05,PC03,EZ19 ESTOP S03 Activated,EZ19                
+2023-11-07 오후 10:05,PC03,Gate_ErgoPallopen,Gate_ErgoPall       
+2023-11-07 오후 10:05,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:05,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:04,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:04,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:03,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:03,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:03,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:02,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:02,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:02,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:01,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 10:00,PC03,EZ19 ESTOP S03 reset required,                    
+2023-11-07 오후 10:00,PC03,EZ19 ESTOP S03 Activated,EZ19                
+2023-11-07 오후 9:57,PC03,P2231 Q04 Pallet transfer run time fault,P2231               
+2023-11-07 오후 9:57,PC03,Gate_ErgoPall has been opened too long,Gate_ErgoPall       
+2023-11-07 오후 9:56,PC03,EZ19 ESTOP S03 reset required,                    
+2023-11-07 오후 9:56,PC03,EZ19 Tripped,                    
+2023-11-07 오후 9:56,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 9:56,PC03,ErgoPall Estop,ErgoPall            
+2023-11-07 오후 9:56,PC03,EZ19 ESTOP S03 Activated,EZ19                
+2023-11-07 오후 9:56,PC03,Gate_ErgoPallopen,Gate_ErgoPall       
+2023-11-07 오후 9:53,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 9:39,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 9:37,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-07 오후 9:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-07 오후 8:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-07 오후 7:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-07 오후 6:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             

@@ -1,0 +1,50 @@
+﻿Time / Date,Area,Description,Device
+2023-11-08 오전 8:06,PC01,"ESS Level2 Has Fault, Go to see details",ESS_L2              
+2023-11-08 오전 5:59,PC01,P1104 Q04 Pallet transfer run time fault,P1104               
+2023-11-08 오전 5:51,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 5:50,PC01,P1104 Q04 Pallet transfer run time fault,P1104               
+2023-11-08 오전 5:49,PC01,ST11061 STOP Button Activated,ST11061             
+2023-11-08 오전 5:48,PC01,P1104 Q04 Pallet transfer run time fault,P1104               
+2023-11-08 오전 5:48,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 5:47,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 5:47,PC01,P1131 End Transfer PE Fault,P1131               
+2023-11-08 오전 5:47,PC01,P1132 End Transfer PE Fault,P1132               
+2023-11-08 오전 5:44,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 5:43,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 5:43,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 5:42,PC01,P1131 End Transfer PE Fault,P1131               
+2023-11-08 오전 5:42,PC01,P1132 End Transfer PE Fault,P1132               
+2023-11-08 오전 3:31,PC01,P1131 Q03 Pallet transfer run time fault,P1131               
+2023-11-08 오전 3:30,PC01,EZ07 ESTOP Cleared. Press Start to Restart.,EZ07                
+2023-11-08 오전 3:30,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 3:30,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 3:28,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 3:28,PC01,EZ07 ESTOP 01 Activated,EZ07                
+2023-11-08 오전 3:28,PC01,EZ07 Tripped,EZ07                
+2023-11-08 오전 3:28,PC01,EZ07 ESTOP Cleared. Press Start to Restart.,EZ07                
+2023-11-08 오전 3:28,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 3:28,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 3:27,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 3:27,PC01,EZ07 Tripped,EZ07                
+2023-11-08 오전 3:27,PC01,EZ07 ESTOP 01 Activated,EZ07                
+2023-11-08 오전 3:27,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-08 오전 3:26,PC01,P1131 End Transfer PE Fault,P1131               
+2023-11-08 오전 3:26,PC01,P1132 End Transfer PE Fault,P1132               
+2023-11-07 오후 11:12,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-11-07 오후 11:12,PC01,P1211 LPA Faulted - See Device For Details,P1211_LPA           
+2023-11-07 오후 11:09,PC01,P1109[#1] Lifter Conveyor Runtime Fault,P1109               
+2023-11-07 오후 11:09,PC01,Pallet Lift1 Alarm,P1109               
+2023-11-07 오후 11:08,PC01,P1123Pallet Mover Sensor Fault,P1123               
+2023-11-07 오후 10:47,PC01,P1151[P1151] ESS Lifter Fault,P1151               
+2023-11-07 오후 9:28,PC01,P1132 Q03 Pallet transfer run time fault,P1132               
+2023-11-07 오후 9:28,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-07 오후 9:28,PC01,P1132 Q03 Pallet transfer run time fault,P1132               
+2023-11-07 오후 9:27,PC01,P1132 Q03 Pallet transfer run time fault,P1132               
+2023-11-07 오후 9:27,PC01,ST11331 STOP Button Activated,ST11331             
+2023-11-07 오후 9:27,PC01,ST11331 STOP Button Activated,ST11331             
+2023-11-07 오후 9:27,PC01,P1132 Q03 Pallet transfer run time fault,P1132               
+2023-11-07 오후 9:27,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-07 오후 9:21,PC01,P1132 Q03 Pallet transfer run time fault,P1132               
+2023-11-07 오후 7:45,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-11-07 오후 6:52,PC01,ST11171 STOP Button Activated,ST11171             
+2023-11-07 오후 6:52,PC01,ST11141 STOP Button Activated,ST11141             

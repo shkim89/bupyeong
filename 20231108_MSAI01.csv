@@ -1,0 +1,29 @@
+﻿Time / Date,Area,Description,Device
+2023-11-08 오전 7:39,MSAI01,Motor Stalled ,LR12RI12            
+2023-11-07 오후 11:24,MSAI01,Move W-axis not allowed when loaded ,LV07SH01            
+2023-11-07 오후 10:19,MSAI01,Gap between loads too small ,LV15SH01            
+2023-11-07 오후 9:40,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-07 오후 9:40,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-07 오후 9:36,MSAI01,Gap between loads too small ,LV14SH01            
+2023-11-07 오후 9:32,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-07 오후 9:32,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-07 오후 9:27,MSAI01,Gap between loads too small ,LV14SH01            
+2023-11-07 오후 8:53,MSAI01,Front Finger 4 Not Closed ,LV02SH01            
+2023-11-07 오후 8:52,MSAI01,"Data Present, No Logical Load Presence",LR02RI12            
+2023-11-07 오후 8:48,MSAI01,"Sensor Blocked, No Logical Load Presence",LR02RI11            
+2023-11-07 오후 8:48,MSAI01,Load Runtime Fault on Conveyor,LR02RI12            
+2023-11-07 오후 8:47,MSAI01,"Data Present, No Logical Load Presence",LR16RI12            
+2023-11-07 오후 8:47,MSAI01,"Data Present, No Logical Load Presence",LR02RI11            
+2023-11-07 오후 8:47,MSAI01,Load Runtime Fault on Conveyor,LR02RI11            
+2023-11-07 오후 8:47,MSAI01,"Data Present, No Logical Load Presence",LR02RI12            
+2023-11-07 오후 8:46,MSAI01,Load Runtime Fault on Conveyor,LR16RI12            
+2023-11-07 오후 8:46,MSAI01,Load Runtime Fault on Conveyor,LR02RI12            
+2023-11-07 오후 8:44,MSAI01,Load Runtime Fault on Conveyor,LR16RI11            
+2023-11-07 오후 8:44,MSAI01,Load Runtime Fault on Conveyor,LR02RI11            
+2023-11-07 오후 8:44,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-07 오후 8:44,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-07 오후 8:43,MSAI01,"Data Present, No Logical Load Presence",LL07RO11            
+2023-11-07 오후 8:43,MSAI01,"Data Present, No Logical Load Presence",LL07RO12            
+2023-11-07 오후 8:43,MSAI01,Rack Conveyor Gap Sensor Blocked,LL07RO11            
+2023-11-07 오후 8:27,MSAI01,"Data Present, No Logical Load Presence",LL07RO11            
+2023-11-07 오후 7:51,MSAI01,Load Runtime Fault on Conveyor,CL02DS18            

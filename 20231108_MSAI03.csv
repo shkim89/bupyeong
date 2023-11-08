@@ -1,0 +1,16 @@
+﻿Time / Date,Area,Description,Device
+2023-11-08 오전 7:51,MSAI03,Load Jam or Sensor Fault on Conveyor,CR01PS16            
+2023-11-08 오전 2:29,MSAI03,"Data Present, No Logical Load Presence",LL09RO11            
+2023-11-08 오전 2:28,MSAI03,Gap between loads too small ,LV03SH01            
+2023-11-08 오전 2:04,MSAI03,"Pick Location Deep, Front Bin Occupied",LV14SH01            
+2023-11-08 오전 12:46,MSAI03,Lift Conveyor Overhang Fault Side B ,EL01LO00            
+2023-11-07 오후 11:44,MSAI03,"Shuttle Load Overhang, Right",LV15SH01            
+2023-11-07 오후 10:24,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-07 오후 10:24,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-07 오후 10:24,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-07 오후 9:07,MSAI03,Load Runtime Fault on Conveyor,LL07RO12            
+2023-11-07 오후 8:59,MSAI03,Front Finger 3 Not Closed ,LV02SH01            
+2023-11-07 오후 8:20,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-07 오후 8:20,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-07 오후 8:20,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-07 오후 7:56,MSAI03,Gap between loads too small ,LV13SH01            

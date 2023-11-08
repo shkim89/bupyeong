@@ -1,0 +1,17 @@
+﻿Time / Date,Area,Description,Device
+2023-11-08 오전 2:41,RP01,[Z Axis] Unit Failure Digital Alarm,P01DA1_DB1
+2023-11-07 오후 11:41,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-07 오후 11:34,RP01,[Z Axis] Unit Failure Digital Alarm,P01DA1_DB1
+2023-11-07 오후 11:26,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-07 오후 11:07,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-07 오후 10:45,RP01,Your Data Occupation Failure Digital Alarm,P01AA1
+2023-11-07 오후 10:17,RP01,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-11-07 오후 8:13,RP01,Your Data Occupation Failure Digital Alarm,P01AA1
+2023-11-07 오후 8:12,RP01,Your Data Occupation Failure Digital Alarm,P01AA1
+2023-11-07 오후 7:57,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-07 오후 7:52,RP01,Frequency Converter Failure Digital Alarm,P01CB1
+2023-11-07 오후 7:23,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-07 오후 7:21,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-07 오후 7:20,RP01,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-07 오후 7:05,RP01,Your Data Occupation Failure Digital Alarm,P01AA1
+2023-11-07 오후 6:52,RP01,The Database Is Very Close To Being Full Digital Alarm,P01MFC
