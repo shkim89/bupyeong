@@ -1,0 +1,7 @@
+﻿Time / Date,Area,Description,Device
+2023-11-09 오전 7:45,MSAI01,Motor Stalled ,LR02RI12            
+2023-11-09 오전 12:01,MSAI01,Current Shuttle Order Timeout ,LV02SH01            
+2023-11-08 오후 11:11,MSAI01,"Data Present, No Logical Load Presence",LL03RO12            
+2023-11-08 오후 11:01,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-08 오후 11:01,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-08 오후 10:57,MSAI01,"Data Present, No Logical Load Presence",LL03RO12            

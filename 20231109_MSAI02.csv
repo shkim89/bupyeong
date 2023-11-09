@@ -1,0 +1,103 @@
+﻿Time / Date,Area,Description,Device
+2023-11-09 오전 8:52,MSAI02,"Shuttle Load Overhang, Both Sides ",LV07SH01            
+2023-11-09 오전 8:50,MSAI02,Load Jam or Sensor Fault on Conveyor,CL01PS15            
+2023-11-09 오전 8:47,MSAI02,Load Runtime Fault on Conveyor,EL01LO04            
+2023-11-09 오전 8:47,MSAI02,"Sensor Blocked, No Logical Load Presence",CL01PS11            
+2023-11-09 오전 8:44,MSAI02,Load Runtime Fault on Conveyor,CL01PS15            
+2023-11-09 오전 8:42,MSAI02,Conveyor Gap Sensor Blocked ,CL01PS11            
+2023-11-09 오전 8:42,MSAI02,Infeed 1 Gap Check Fault,EL01LO00            
+2023-11-09 오전 8:42,MSAI02,Load Jam or Sensor Fault on Conveyor,CL01PS15            
+2023-11-09 오전 8:39,MSAI02,Conveyor Gap Sensor Blocked ,EL01LO04            
+2023-11-09 오전 8:39,MSAI02,Conveyor Gap Sensor Blocked ,CL01PS11            
+2023-11-09 오전 8:32,MSAI02,Conveyor Gap Sensor Blocked ,CL01PS11            
+2023-11-09 오전 8:12,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 8:12,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 8:12,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 8:03,MSAI02,"Sensor Blocked, No Logical Load Presence",EL01LO04            
+2023-11-09 오전 8:03,MSAI02,Load Runtime Fault on Conveyor,LL16RI12            
+2023-11-09 오전 7:57,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 7:56,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 7:56,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 6:44,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 6:44,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 6:44,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 6:32,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 6:32,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 5:40,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 5:40,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 5:40,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 4:37,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 4:37,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 4:37,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 4:10,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 4:10,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 4:10,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 4:02,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 4:02,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 4:02,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 3:52,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 3:52,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 3:20,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 3:20,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 3:20,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 3:16,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 3:16,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 3:16,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 2:45,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 2:45,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 2:45,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 2:20,MSAI02,Lift Conveyor Overhang Fault Side B ,ER01LO00            
+2023-11-09 오전 2:06,MSAI02,Gap between loads too small ,LV14SH01            
+2023-11-09 오전 1:36,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 1:36,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 1:02,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 1:02,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 1:02,MSAI02,Hall Sensor Error ,ER01LO04            
+2023-11-09 오전 12:38,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 12:38,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 12:38,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 12:17,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 12:17,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 12:17,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-09 오전 12:17,MSAI02,Load Runtime Fault on Conveyor,LR06RO12            
+2023-11-09 오전 12:13,MSAI02,Load Runtime Fault on Conveyor,LR06RO12            
+2023-11-09 오전 12:03,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-09 오전 12:03,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-09 오전 12:03,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-08 오후 11:54,MSAI02,Conveyor Gap Sensor Blocked ,EL01LO04            
+2023-11-08 오후 11:29,MSAI02,Load Jam or Sensor Fault on Conveyor,CL01PS16            
+2023-11-08 오후 10:51,MSAI02,Move W-axis not allowed when loaded ,LV13SH01            
+2023-11-08 오후 10:40,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-08 오후 10:40,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-08 오후 10:40,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-08 오후 10:34,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-08 오후 10:34,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-08 오후 10:34,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-08 오후 10:26,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-08 오후 10:26,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-08 오후 10:26,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-08 오후 10:18,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-08 오후 10:18,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-08 오후 9:46,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-08 오후 9:46,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-08 오후 9:46,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-08 오후 9:27,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-08 오후 9:27,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-08 오후 9:27,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-08 오후 9:27,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-08 오후 8:43,MSAI02,Motor Stalled ,ER01LO04            
+2023-11-08 오후 8:22,MSAI02,"Data Present, No Logical Load Presence",LR06RO11            
+2023-11-08 오후 7:32,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-08 오후 7:32,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-08 오후 7:17,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-08 오후 7:17,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-08 오후 7:17,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-08 오후 7:07,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-08 오후 7:07,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-08 오후 7:07,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-08 오후 6:50,MSAI02,Lift Conveyor Overhang Fault Side B ,ER01LO00            
+2023-11-08 오후 6:48,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-08 오후 6:48,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO04            
+2023-11-08 오후 6:48,MSAI02,Profinet Fault - See Diagnostics Screen ,ER01LO01            
+2023-11-08 오후 6:21,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-08 오후 6:21,MSAI02,Profinet Fault - See Diagnostics Screen ,PROFINET            
