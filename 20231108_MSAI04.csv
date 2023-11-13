@@ -1,7 +1,0 @@
-﻿Time / Date,Area,Description,Device
-2023-11-08 오전 7:52,MSAI04,Load Jam or Sensor Fault on Conveyor,CL01PS16            
-2023-11-08 오전 12:02,MSAI04,Lift Conveyor Overhang Fault Side B ,ER01LO00            
-2023-11-07 오후 10:29,MSAI04,"Shuttle Load Overhang, Both Sides ",LV14SH01            
-2023-11-07 오후 9:38,MSAI04,Lift Conveyor Overhang Fault Side B ,ER01LO00            
-2023-11-07 오후 8:04,MSAI04,Gap between loads too small ,LV12SH01            
-2023-11-07 오후 7:52,MSAI04,"Data Present, No Logical Load Presence",LR13RO11            

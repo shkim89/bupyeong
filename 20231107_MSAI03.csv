@@ -1,9 +1,0 @@
-﻿Time / Date,Area,Description,Device
-2023-11-07 오전 5:49,MSAI03,Motor Stalled ,LR05RI12            
-2023-11-07 오전 4:32,MSAI03,Gap between loads too small ,LV01SH01            
-2023-11-07 오전 3:22,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
-2023-11-07 오전 3:22,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
-2023-11-07 오전 3:22,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
-2023-11-06 오후 11:26,MSAI03,Gap between loads too small ,LV13SH01            
-2023-11-06 오후 9:44,MSAI03,Conveyor Gap Sensor Blocked ,CL02DS11            
-2023-11-06 오후 8:44,MSAI03,Lift Conveyor Overhang Fault Side B ,EL01LO00            

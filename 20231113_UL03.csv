@@ -1,0 +1,6 @@
+﻿Time / Date,Area,Description,Device
+2023-11-11 오후 3:59,UL03,100115 Door 1 is open while SRM is operating | Aisle 3,                    
+2023-11-11 오후 3:59,UL03,201112 Y axis not in range of bin | Aisle 3,                    
+2023-11-11 오후 3:53,UL03,"121110 Load Overhang Left Side | LHD 1, Aisle 3",                    
+2023-11-11 오후 3:47,UL03,"121110 Load Overhang Left Side | LHD 1, Aisle 3",                    
+2023-11-11 오전 5:24,UL03,"121119 LHD Fork Overhanging While SRM Commanded to Move | LHD 1, Aisle 3",                    

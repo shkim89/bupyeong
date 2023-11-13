@@ -1,0 +1,14 @@
+﻿Time / Date,Area,Description,Device
+2023-11-11 오전 4:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-11 오전 3:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-11 오전 2:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-11 오전 1:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-11 오전 12:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-10 오후 11:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-10 오후 10:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-10 오후 10:02,PC03,ErgoPall Not Ready,ErgoPall            
+2023-11-10 오후 9:20,PC03,LC2271ASafety Light Curtain Tripped,LC2271A             
+2023-11-10 오후 9:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-10 오후 8:55,PC03,P2212 Q03 Pallet transfer run time fault,P2212               
+2023-11-10 오후 8:36,PC03,P2212 Q03 Pallet transfer run time fault,P2212               
+2023-11-10 오후 7:11,PC03,Invalid header received from WCS. (Return Code BF),DCI_LCS             

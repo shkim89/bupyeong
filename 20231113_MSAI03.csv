@@ -1,0 +1,57 @@
+﻿Time / Date,Area,Description,Device
+2023-11-13 오전 8:02,MSAI03,Load Runtime Fault on Conveyor,LR13RI11            
+2023-11-13 오전 8:02,MSAI03,Gap between loads too small ,LV12SH01            
+2023-11-13 오전 2:09,MSAI03,Gap between loads too small ,LV12SH01            
+2023-11-12 오후 9:07,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-12 오후 9:07,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-12 오후 9:07,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-12 오후 4:08,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-12 오후 4:08,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-12 오후 4:08,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-12 오전 2:16,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-12 오전 2:16,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-12 오전 2:16,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-12 오전 1:22,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-12 오전 1:21,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-12 오전 1:21,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-12 오전 1:09,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-12 오전 1:09,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-12 오전 1:09,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-12 오전 12:30,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-12 오전 12:30,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-12 오전 12:30,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-11 오후 10:18,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-11 오후 10:18,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-11 오후 10:18,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-11 오후 10:16,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-11 오후 10:16,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-11 오후 10:16,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-11 오후 9:49,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-11 오후 9:49,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-11 오후 9:49,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-11 오후 7:17,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-11 오후 7:17,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-11 오후 7:17,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-11 오후 7:05,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-11 오후 7:05,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-11 오후 7:05,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-11 오후 6:51,MSAI03,Load Runtime Fault on Conveyor,LR13RI11            
+2023-11-11 오후 3:16,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-11 오후 3:16,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-11 오후 3:16,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-11 오후 1:13,MSAI03,Hall Sensor Error ,LR11RI12            
+2023-11-11 오전 10:59,MSAI03,Load Runtime Fault on Conveyor,LR13RI11            
+2023-11-11 오전 10:57,MSAI03,Motor Low Voltage ,LR13RI12            
+2023-11-11 오전 10:56,MSAI03,Load Runtime Fault on Conveyor,LR13RI11            
+2023-11-11 오전 10:56,MSAI03,Load Runtime Fault on Conveyor,LR13RI11            
+2023-11-11 오전 10:55,MSAI03,Load Runtime Fault on Conveyor,LR13RI11            
+2023-11-11 오전 5:48,MSAI03,Load Runtime Fault on Conveyor,EL01LO01            
+2023-11-11 오전 2:03,MSAI03,Load Runtime Fault on Conveyor,EL01LO01            
+2023-11-11 오전 1:23,MSAI03,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-11 오전 1:23,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO04            
+2023-11-11 오전 1:23,MSAI03,Profinet Fault - See Diagnostics Screen ,EL01LO01            
+2023-11-10 오후 10:59,MSAI03,"Shuttle Load Overhang, Right",LV14SH01            
+2023-11-10 오후 8:46,MSAI03,Gap between loads too small ,LV13SH01            
+2023-11-10 오후 8:35,MSAI03,Lift Conveyor Overhang Fault Side B ,EL01LO00            
+2023-11-10 오후 8:18,MSAI03,Motor Stalled ,EL01LO04            
+2023-11-10 오후 8:13,MSAI03,Motor Stalled ,LL12RO11            

@@ -1,0 +1,22 @@
+﻿Time / Date,Area,Description,Device
+2023-11-10 오후 11:05,MSAI01,Motor Stalled ,EL01LO04            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,PROFINET            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR11RI12            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR12RI11            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR12RI12            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR13RI11            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR13RI12            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR14RI11            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR14RI12            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR15RI11            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR15RI12            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR16RI11            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR16RI12            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR10RI11            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR10RI12            
+2023-11-10 오후 10:19,MSAI01,Profinet Fault - See Diagnostics Screen ,LR11RI11            
+2023-11-10 오후 8:55,MSAI01,Lift Conveyor Overhang Fault Side B ,EL01LO00            
+2023-11-10 오후 8:17,MSAI01,Load Runtime Fault on Conveyor,LL11RO12            
+2023-11-10 오후 8:16,MSAI01,Lift Securing Pin Not in Bracket,ER01LO00            
+2023-11-10 오후 8:16,MSAI01,Lift Securing Pin Not in Bracket,EL01LO00            
+2023-11-10 오후 8:14,MSAI01,Gap between loads too small ,LV14SH01            
