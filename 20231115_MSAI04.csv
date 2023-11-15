@@ -1,0 +1,44 @@
+﻿Time / Date,Area,Description,Device
+2023-11-14 오후 11:52,MSAI04,Motor Stalled ,ER01LO04            
+2023-11-14 오후 11:44,MSAI04,Gap between loads too small ,LV06SH01            
+2023-11-14 오후 10:18,MSAI04,Front Finger 1 Not Closed ,LV08SH01            
+2023-11-14 오후 10:16,MSAI04,Gap between loads too small ,LV16SH01            
+2023-11-14 오후 9:24,MSAI04,Hall Sensor Error ,ER01LO01            
+2023-11-14 오후 7:45,MSAI04,"Shuttle Load Overhang, Left ",LV13SH01            
+2023-11-14 오후 7:41,MSAI04,"Shuttle Load Overhang, Left ",LV13SH01            
+2023-11-14 오후 3:13,MSAI04,Shuttle Stop Not Engaged,LV06SH01            
+2023-11-14 오전 10:53,MSAI04,Shuttle Not Ready for Orders,LV13SH01            
+2023-11-14 오전 8:32,MSAI04,"Drop Location Deep, Front Bin Occupied",LV06SH01            
+2023-11-14 오전 2:09,MSAI04,Shuttle Safety Circuit Active ,LV06SH01            
+2023-11-14 오전 2:09,MSAI04,Maintenance Level Shuttle Breaker Fault ,ML02                
+2023-11-14 오전 2:06,MSAI04,Gap between loads too small ,LV12SH01            
+2023-11-14 오전 2:01,MSAI04,"Drop Location Deep, Front Bin Occupied",LV06SH01            
+2023-11-14 오전 1:26,MSAI04,Bin Empty ,LV06SH01            
+2023-11-14 오전 12:29,MSAI04,Lift Conveyor Overhang Fault Side B ,ER01LO00            
+2023-11-14 오전 12:29,MSAI04,Lift Conveyor Overhang Fault Side B ,ER01LO00            
+2023-11-14 오전 12:29,MSAI04,Conveyor Gap Sensor Blocked ,ER01LO04            
+2023-11-14 오전 12:29,MSAI04,Lift Conveyor Overhang Fault Side B ,ER01LO00            
+2023-11-14 오전 12:28,MSAI04,Lift Conveyor Overhang Fault Side B ,ER01LO00            
+2023-11-14 오전 12:03,MSAI04,Lift Conveyor Overhang Fault Side B ,ER01LO00            
+2023-11-13 오후 11:28,MSAI04,"Pick Location Deep, Front Bin Occupied",LV06SH01            
+2023-11-13 오후 10:49,MSAI04,"Drop Location Deep, Front Bin Occupied",LV06SH01            
+2023-11-13 오후 10:28,MSAI04,Hall Sensor Error ,LR08RO11            
+2023-11-13 오후 10:22,MSAI04,"Data Present, No Logical Load Presence",LR13RO11            
+2023-11-13 오후 10:10,MSAI04,"Data Present, No Logical Load Presence",LR13RO11            
+2023-11-13 오후 10:08,MSAI04,Shuttle Not Ready for Orders,LV03SH01            
+2023-11-13 오후 9:41,MSAI04,"Pick Location Deep, Front Bin Occupied",LV06SH01            
+2023-11-13 오후 9:08,MSAI04,No Communications with Shuttle,LV08SH01            
+2023-11-13 오후 9:08,MSAI04,No Communications with Shuttle,LV07SH01            
+2023-11-13 오후 9:08,MSAI04,No Communications with Shuttle,LV05SH01            
+2023-11-13 오후 9:04,MSAI04,Maintenance Level Shuttle Breaker Fault ,ML02                
+2023-11-13 오후 8:54,MSAI04,Too Many Consecutive Bin Blocked Faults ,LV06SH01            
+2023-11-13 오후 8:40,MSAI04,"Drop Location Deep, Front Bin Occupied",LV06SH01            
+2023-11-13 오후 8:30,MSAI04,Motor Stalled ,ER01LO01            
+2023-11-13 오후 7:54,MSAI04,Too Many Consecutive Bin Blocked Faults ,LV06SH01            
+2023-11-13 오후 7:48,MSAI04,"Pick Location Deep, Front Bin Occupied",LV06SH01            
+2023-11-13 오후 7:34,MSAI04,"Shuttle Load Overhang, Both Sides ",LV01SH01            
+2023-11-13 오후 7:34,MSAI04,W: Unable to Move to Target Position,LV06SH01            
+2023-11-13 오후 7:27,MSAI04,Order repair timeout,LV06SH01            
+2023-11-13 오후 7:24,MSAI04,Front Finger 4 Not Open ,LV06SH01            
+2023-11-13 오후 7:23,MSAI04,W: Max Current Duration Exceeded,LV06SH01            
+2023-11-13 오후 7:22,MSAI04,"Shuttle Empty, but has New Drop Mission ",LV06SH01            

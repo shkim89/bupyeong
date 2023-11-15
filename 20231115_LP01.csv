@@ -1,0 +1,182 @@
+﻿Time / Date,Area,Description,Device
+2023-11-15 오전 9:24,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-15 오전 9:17,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-15 오전 9:16,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-15 오전 9:12,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 9:12,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-15 오전 9:12,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-15 오전 9:11,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 9:11,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-15 오전 9:10,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-15 오전 9:06,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 9:06,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-15 오전 9:06,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-15 오전 9:01,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 9:01,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-15 오전 8:59,LP01,[Sensor]Lift head sensor 1 not activated Digital Alarm,LP01
+2023-11-15 오전 8:59,LP01,[Sensor]Light grid activated Digital Alarm,LP01
+2023-11-15 오전 8:59,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-15 오전 8:58,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-15 오전 8:56,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-15 오전 8:56,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 8:55,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-15 오전 8:55,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-15 오전 8:48,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 8:48,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-15 오전 8:48,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-15 오전 8:47,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-15 오전 8:45,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 8:45,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-15 오전 8:16,LP01,Time out movement on robot Digital Alarm,LP01
+2023-11-15 오전 8:16,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-15 오전 8:13,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-15 오전 7:57,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 7:57,LP01,Emergency stop from external system Digital Alarm,LP01
+2023-11-15 오전 7:49,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-15 오전 7:46,LP01,Time out movement on robot Digital Alarm,LP01
+2023-11-15 오전 7:46,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-15 오전 7:45,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-15 오전 7:44,LP01,Vacuum is not turned off Digital Alarm,LP01
+2023-11-15 오전 7:44,LP01,Bellows are inflated Digital Alarm,LP01
+2023-11-15 오전 7:44,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-15 오전 7:35,LP01,Time out movement on robot Digital Alarm,LP01
+2023-11-15 오전 7:34,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-15 오전 7:32,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-15 오전 7:30,LP01,Vacuum is not turned off Digital Alarm,LP01
+2023-11-15 오전 7:30,LP01,Bellows are inflated Digital Alarm,LP01
+2023-11-15 오전 7:30,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-15 오전 7:30,LP01,Time out movement on robot Digital Alarm,LP01
+2023-11-15 오전 7:30,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-15 오전 7:27,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-15 오전 7:26,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 7:26,LP01,Emergency stop from external system Digital Alarm,LP01
+2023-11-15 오전 7:21,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 7:21,LP01,Emergency stop from external system Digital Alarm,LP01
+2023-11-15 오전 7:16,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 7:16,LP01,Emergency stop from external system Digital Alarm,LP01
+2023-11-15 오전 2:53,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-15 오전 2:38,LP01,System is stopped Digital Alarm,LP01
+2023-11-15 오전 2:38,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오후 9:05,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오후 9:04,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오후 9:04,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오후 8:20,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오후 8:19,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오후 8:19,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오후 6:55,LP01,Vacuum is not turned off Digital Alarm,LP01
+2023-11-14 오후 6:55,LP01,Bellows are inflated Digital Alarm,LP01
+2023-11-14 오후 6:55,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-14 오후 6:53,LP01,Time out movement on robot Digital Alarm,LP01
+2023-11-14 오후 6:53,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오후 4:48,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-14 오후 4:23,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오후 4:21,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오후 4:21,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오후 4:21,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오후 4:19,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오후 4:19,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오후 3:41,LP01,LPF in Product Test Mode Digital Alarm,LP01
+2023-11-14 오후 3:41,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-14 오후 3:40,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오후 3:39,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오후 3:39,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오후 3:39,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-14 오후 3:38,LP01,Vacuum is not turned off Digital Alarm,LP01
+2023-11-14 오후 3:38,LP01,Bellows are inflated Digital Alarm,LP01
+2023-11-14 오후 3:38,LP01,[Sensor]Light grid activated Digital Alarm,LP01
+2023-11-14 오후 3:38,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-14 오후 3:37,LP01,[Robot]LG has been activated during move_Layer dropped Digital Alarm,LP01
+2023-11-14 오후 3:27,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-14 오후 3:27,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오후 3:24,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오후 3:24,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오후 3:24,LP01,No command-ack is returned from robot Digital Alarm,LP01
+2023-11-14 오후 3:24,LP01,[Sensor]Light grid activated Digital Alarm,LP01
+2023-11-14 오후 3:24,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-14 오후 3:24,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오후 3:18,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오후 3:18,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오후 3:18,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오후 3:07,LP01,LG has been activated during move with layer - layer dropped Digital Alarm,LP01
+2023-11-14 오후 2:53,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오후 2:49,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오후 2:49,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오후 2:46,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오후 2:46,LP01,Emergency stop from external system Digital Alarm,LP01
+2023-11-14 오후 2:46,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오후 2:44,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오후 2:44,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오후 2:43,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오후 2:42,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오후 2:42,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오후 2:37,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오전 11:39,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 11:33,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 11:33,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 11:25,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 11:23,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 11:13,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 11:04,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오전 10:57,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오전 10:57,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오전 10:56,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오전 10:54,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오전 10:54,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오전 10:48,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 10:45,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 10:41,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오전 10:41,LP01,Emergency stop from external system Digital Alarm,LP01
+2023-11-14 오전 10:37,LP01,Emergency stop from external system Digital Alarm,LP01
+2023-11-14 오전 10:37,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오전 10:37,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 10:37,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오전 10:35,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 10:32,LP01,Emergency stop from external system Digital Alarm,LP01
+2023-11-14 오전 10:32,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오전 10:31,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오전 10:30,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 10:29,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오전 10:27,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오전 10:27,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오전 10:27,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오전 10:26,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 10:24,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 10:15,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 9:59,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 9:49,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 9:48,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 9:45,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 9:43,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 9:38,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 9:36,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 9:22,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오전 9:20,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오전 9:19,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오전 9:18,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 9:10,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-14 오전 9:09,LP01,[Robot]LG has been activated during move_Layer dropped Digital Alarm,LP01
+2023-11-14 오전 9:06,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 9:05,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 8:57,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-14 오전 8:56,LP01,System is stopped Digital Alarm,LP01
+2023-11-14 오전 8:55,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-14 오전 8:14,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 8:10,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 8:02,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 8:00,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 7:54,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 7:47,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 7:45,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 7:42,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 7:41,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-14 오전 7:39,LP01,Timeout - Deposit position not ready Digital Alarm,LP01
+2023-11-13 오후 10:19,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-13 오후 10:18,LP01,System is stopped Digital Alarm,LP01
+2023-11-13 오후 10:18,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-13 오후 9:25,LP01,Zone 01 is stopped. LPF Digital Alarm,LP01
+2023-11-13 오후 9:24,LP01,System is stopped Digital Alarm,LP01
+2023-11-13 오후 9:24,LP01,Request for access for the LPF is requested or accepted Digital Alarm,LP01
+2023-11-13 오후 7:37,LP01,System is stopped Digital Alarm,LP01
+2023-11-13 오후 7:34,LP01,in manual from HMI panel Digital Alarm,LP01
+2023-11-13 오후 7:26,LP01,LPF in Product Test Mode Digital Alarm,LP01
+2023-11-13 오후 6:50,LP01,LPF in Product Test Mode Digital Alarm,LP01

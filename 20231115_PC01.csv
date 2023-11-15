@@ -1,0 +1,35 @@
+﻿Time / Date,Area,Description,Device
+2023-11-14 오후 11:00,PC01,P1109[#1] CC2 Safety Sensor Error,P1109               
+2023-11-14 오후 11:00,PC01,Pallet Lift1 Alarm,P1109               
+2023-11-14 오후 8:17,PC01,"ESS Level1 Has Fault, Go to see details",ESS_L1              
+2023-11-14 오후 7:43,PC01,EZ08 ESTOP Cleared. Press Start to Restart.,EZ08                
+2023-11-14 오후 7:43,PC01,EZ08 Tripped,EZ08                
+2023-11-14 오후 7:43,PC01,P1151[P1151] ESS Lifter Fault,P1151               
+2023-11-14 오후 7:43,PC01,EZ08 ESTOP 02 Activated,EZ08                
+2023-11-14 오후 7:34,PC01,"ESS Level1 Has Fault, Go to see details",ESS_L1              
+2023-11-14 오후 7:33,PC01,EZ08 ESTOP Cleared. Press Start to Restart.,EZ08                
+2023-11-14 오후 7:32,PC01,EZ08 Tripped,EZ08                
+2023-11-14 오후 7:32,PC01,EZ08 ESTOP 02 Activated,EZ08                
+2023-11-14 오후 7:31,PC01,EZ08 ESTOP Cleared. Press Start to Restart.,EZ08                
+2023-11-14 오후 7:31,PC01,P1151[P1151] ESS Lifter Fault,P1151               
+2023-11-14 오후 7:31,PC01,EZ08 Tripped,EZ08                
+2023-11-14 오후 7:31,PC01,EZ08 ESTOP 03 Activated,EZ08                
+2023-11-14 오후 6:50,PC01,"ESS Level1 Has Fault, Go to see details",ESS_L1              
+2023-11-14 오후 3:59,PC01,P1151[P1151] ESS Lifter Fault,P1151               
+2023-11-14 오후 3:41,PC01,Pallet Lift2 Alarm,P1108               
+2023-11-14 오후 3:41,PC01,P1108[#2] CC1 Safety Sensor Error,P1108               
+2023-11-14 오후 3:41,PC01,LC1107ASafety Light Curtain Tripped,LC1107A             
+2023-11-14 오후 3:12,PC01,P1108[#2] CC2 Safety Sensor Error,P1108               
+2023-11-14 오후 3:12,PC01,Pallet Lift2 Alarm,P1108               
+2023-11-14 오후 1:26,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-14 오후 1:23,PC01,P1131 Q03 Pallet transfer run time fault,P1131               
+2023-11-14 오전 5:12,PC01,P1130Pallet Mover Sensor Fault,P1130               
+2023-11-14 오전 5:00,PC01,P1130Pallet Mover Sensor Fault,P1130               
+2023-11-14 오전 1:29,PC01,ST11291 STOP Button Activated,ST11291             
+2023-11-14 오전 12:44,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-11-13 오후 11:59,PC01,"ESS Level3 Has Fault, Go to see details",ESS_L3              
+2023-11-13 오후 9:25,PC01,P1151[P1151] ESS Lifter Fault,P1151               
+2023-11-13 오후 7:22,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-13 오후 7:20,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-13 오후 7:19,PC01,P1130 End Transfer PE Fault,P1130               
+2023-11-13 오후 7:19,PC01,P1131 End Transfer PE Fault,P1131               

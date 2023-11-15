@@ -1,0 +1,210 @@
+﻿Time / Date,Area,Description,Device
+2023-11-15 오전 9:16,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-15 오전 9:12,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 9:12,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-15 오전 9:12,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-15 오전 9:11,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 9:11,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-15 오전 9:10,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-15 오전 9:06,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 9:06,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-15 오전 9:06,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-15 오전 9:01,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 9:01,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-15 오전 8:58,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-15 오전 8:55,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 8:55,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-15 오전 8:55,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-15 오전 8:48,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 8:48,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-15 오전 8:47,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-15 오전 8:45,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 8:45,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-15 오전 8:01,LP02,Time out movement on robot Digital Alarm,LP02
+2023-11-15 오전 8:00,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-15 오전 7:57,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 7:57,LP02,Emergency stop from external system Digital Alarm,LP02
+2023-11-15 오전 7:50,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-15 오전 7:39,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-15 오전 7:36,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-15 오전 7:32,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-15 오전 7:27,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-15 오전 7:26,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 7:26,LP02,Emergency stop from external system Digital Alarm,LP02
+2023-11-15 오전 7:21,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 7:21,LP02,Emergency stop from external system Digital Alarm,LP02
+2023-11-15 오전 7:20,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-15 오전 7:16,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 7:16,LP02,Emergency stop from external system Digital Alarm,LP02
+2023-11-15 오전 2:53,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-15 오전 2:38,LP02,System is stopped Digital Alarm,LP02
+2023-11-15 오전 2:38,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오후 9:05,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오후 9:05,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오후 9:04,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오후 9:04,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오후 9:04,LP02,LG has been activated during move with layer - layer dropped Digital Alarm,LP02
+2023-11-14 오후 8:42,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오후 8:42,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오후 8:42,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오후 8:41,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오후 8:40,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오후 8:26,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오후 8:26,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오후 8:26,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오후 8:20,LP02,No command-ack is returned from robot Digital Alarm,LP02
+2023-11-14 오후 8:20,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오후 8:20,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오후 8:19,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오후 8:19,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오후 8:19,LP02,LG has been activated during move with layer - layer dropped Digital Alarm,LP02
+2023-11-14 오후 4:48,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오후 4:24,LP02,Pick pallet is empty Digital Alarm,LP02
+2023-11-14 오후 4:24,LP02,[Sensor]Lift head sensor 1 not activated Digital Alarm,LP02
+2023-11-14 오후 4:24,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오후 4:24,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오후 4:23,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오후 4:21,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오후 4:21,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오후 4:21,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오후 4:20,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오후 4:19,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오후 4:19,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오후 4:19,LP02,Speed at the Vacuum Blower is not at requested level Digital Alarm,LP02
+2023-11-14 오후 4:18,LP02,LG has been activated during move with layer - layer dropped Digital Alarm,LP02
+2023-11-14 오후 3:40,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오후 3:39,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오후 3:39,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오후 3:27,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오후 3:24,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오후 3:24,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오후 3:24,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오후 3:18,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오후 3:18,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오후 2:53,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오후 2:49,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오후 2:49,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오후 2:46,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오후 2:46,LP02,Emergency stop from external system Digital Alarm,LP02
+2023-11-14 오후 2:46,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오후 2:44,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오후 2:44,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오후 2:43,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오후 2:43,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오후 2:42,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오후 2:37,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오후 2:27,LP02,Robot not in safe start-up position Digital Alarm,LP02
+2023-11-14 오후 2:27,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오후 2:27,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오후 2:02,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오전 11:35,LP02,Distance to deposit pallet is too high - Drop it? Digital Alarm,LP02
+2023-11-14 오전 11:34,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오전 11:34,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 11:34,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오전 11:33,LP02,Distance to deposit pallet is too high - Drop it? Digital Alarm,LP02
+2023-11-14 오전 11:18,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 11:12,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 11:10,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 11:07,LP02,Vacuum is not turned off Digital Alarm,LP02
+2023-11-14 오전 11:07,LP02,Bellows are inflated Digital Alarm,LP02
+2023-11-14 오전 11:07,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오전 11:07,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 11:05,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 11:04,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오전 10:57,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오전 10:57,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오전 10:56,LP02,Vacuum is not turned off Digital Alarm,LP02
+2023-11-14 오전 10:56,LP02,Bellows are inflated Digital Alarm,LP02
+2023-11-14 오전 10:56,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 10:56,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오전 10:54,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오전 10:54,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오전 10:54,LP02,LG has been activated during move with layer - layer dropped Digital Alarm,LP02
+2023-11-14 오전 10:51,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 10:41,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오전 10:41,LP02,Emergency stop from external system Digital Alarm,LP02
+2023-11-14 오전 10:37,LP02,Emergency stop from external system Digital Alarm,LP02
+2023-11-14 오전 10:37,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오전 10:37,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오전 10:35,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 10:32,LP02,Emergency stop from external system Digital Alarm,LP02
+2023-11-14 오전 10:32,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오전 10:31,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오전 10:31,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 10:29,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오전 10:27,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오전 10:27,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 10:27,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오전 10:26,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 10:06,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 10:06,LP02,Vacuum is not turned off Digital Alarm,LP02
+2023-11-14 오전 10:06,LP02,Bellows are inflated Digital Alarm,LP02
+2023-11-14 오전 10:06,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 10:03,LP02,Time out movement on robot Digital Alarm,LP02
+2023-11-14 오전 10:02,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 10:00,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 9:58,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 9:57,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 9:48,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오전 9:47,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 9:47,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오전 9:46,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오전 9:46,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 9:45,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오전 9:44,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오전 9:44,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 9:44,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오전 9:42,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오전 9:42,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 9:42,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오전 9:41,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오전 9:41,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 9:41,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오전 9:40,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오전 9:40,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 9:36,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오전 9:23,LP02,Pick pallet is empty Digital Alarm,LP02
+2023-11-14 오전 9:22,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오전 9:19,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오전 9:19,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오전 9:16,LP02,LG has been activated during move with layer - layer dropped Digital Alarm,LP02
+2023-11-14 오전 9:15,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 9:07,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 9:06,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 9:01,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 8:57,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-14 오전 8:56,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오전 8:55,LP02,System is stopped Digital Alarm,LP02
+2023-11-14 오전 8:55,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-14 오전 8:35,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오전 8:35,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 8:33,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오전 8:30,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 8:29,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 8:13,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 7:50,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-14 오전 7:50,LP02,in manual from HMI panel Digital Alarm,LP02
+2023-11-14 오전 7:48,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-14 오전 7:46,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 7:42,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 7:31,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-14 오전 7:29,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-13 오후 10:19,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-13 오후 10:18,LP02,System is stopped Digital Alarm,LP02
+2023-11-13 오후 10:18,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-13 오후 9:25,LP02,Zone 01 is stopped. LPF Digital Alarm,LP02
+2023-11-13 오후 9:25,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-13 오후 9:24,LP02,System is stopped Digital Alarm,LP02
+2023-11-13 오후 9:24,LP02,Request for access for the LPF is requested or accepted Digital Alarm,LP02
+2023-11-13 오후 9:22,LP02,LG has been activated during move with layer - layer dropped Digital Alarm,LP02
+2023-11-13 오후 7:34,LP02,[Sensor]Light grid activated Digital Alarm,LP02
+2023-11-13 오후 7:28,LP02,Timeout - Skirt not in position within the specified time Digital Alarm,LP02
+2023-11-13 오후 7:27,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-13 오후 7:24,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-13 오후 7:18,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-13 오후 7:16,LP02,Timeout - Deposit position not ready Digital Alarm,LP02
+2023-11-13 오후 6:51,LP02,LPF in Product Test Mode Digital Alarm,LP02
+2023-11-13 오후 6:44,LP02,Vacuum is not turned off Digital Alarm,LP02
+2023-11-13 오후 6:44,LP02,Bellows are inflated Digital Alarm,LP02
+2023-11-13 오후 6:43,LP02,Robot has detected Layer Picker head out of position Digital Alarm,LP02
+2023-11-13 오후 6:41,LP02,LG has been activated during move with layer - layer dropped Digital Alarm,LP02
