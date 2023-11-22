@@ -1,0 +1,27 @@
+﻿Time / Date,Area,Description,Device
+2023-11-22 오전 8:37,PC01,P1031 End Transfer PE Fault,P1031               
+2023-11-22 오전 8:37,PC01,P1032 End Transfer PE Fault,P1032               
+2023-11-22 오전 6:30,PC01,P1131 Q03 Pallet transfer run time fault,P1131               
+2023-11-22 오전 4:38,PC01,P1130 Q01 Pallet transfer run time fault,P1130               
+2023-11-22 오전 4:37,PC01,EZ07 ESTOP Cleared. Press Start to Restart.,EZ07                
+2023-11-22 오전 4:37,PC01,EZ07 Tripped,EZ07                
+2023-11-22 오전 4:37,PC01,EZ07 ESTOP 01 Activated,EZ07                
+2023-11-22 오전 4:37,PC01,ST11301 STOP Button Activated,ST11301             
+2023-11-22 오전 4:37,PC01,P1131 End Transfer PE Fault,P1131               
+2023-11-22 오전 4:37,PC01,P1132 End Transfer PE Fault,P1132               
+2023-11-22 오전 4:05,PC01,EZ08 ESTOP Cleared. Press Start to Restart.,EZ08                
+2023-11-22 오전 4:04,PC01,P1151[P1151] ESS Lifter Fault,P1151               
+2023-11-22 오전 4:04,PC01,EZ08 Tripped,EZ08                
+2023-11-22 오전 4:04,PC01,EZ08 ESTOP 02 Activated,EZ08                
+2023-11-22 오전 3:59,PC01,"ESS Level1 Has Fault, Go to see details",ESS_L1              
+2023-11-22 오전 2:25,PC01,P1211 LPA Not Online,P1211_LPA           
+2023-11-22 오전 2:11,PC01,P1211 Running Low On One Or More Consumable(s),P1211_LPA           
+2023-11-21 오후 10:58,PC01,P1037 Position 01 PE Blocked whilstUnoccupied Fault,P1037               
+2023-11-21 오후 10:48,PC01,EZ10 ESTOP Cleared. Press Start to Restart.,EZ10                
+2023-11-21 오후 10:47,PC01,EZ10 ESTOP 10 Activated,EZ10                
+2023-11-21 오후 10:47,PC01,"ESS Level3 Has Fault, Go to see details",ESS_L3              
+2023-11-21 오후 10:45,PC01,P1220 Q03 Pallet transfer run time fault,P1220               
+2023-11-21 오후 10:43,PC01,P1220 Q03 Pallet transfer run time fault,P1220               
+2023-11-21 오후 10:40,PC01,P1220 Q03 Pallet transfer run time fault,P1220               
+2023-11-21 오후 10:40,PC01,P1220 Q03 Pallet transfer run time fault,P1220               
+2023-11-21 오후 7:20,PC01,P1037 Position 01 PE Blocked whilstUnoccupied Fault,P1037               

@@ -1,0 +1,97 @@
+﻿Time / Date,Area,Description,Device
+2023-11-22 오전 7:31,PC02,EZ14 ESTOP S15 reset required,                    
+2023-11-22 오전 7:30,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-22 오전 7:30,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-22 오전 7:30,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-22 오전 7:30,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-22 오전 7:30,PC02,EZ14 ESTOP S15 Activated,EZ14                
+2023-11-22 오전 7:25,PC02,WEST Shuttle car - Unit Control Fault - Error code 22,SC_Car_WEST         
+2023-11-22 오전 7:22,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-22 오전 7:22,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-22 오전 7:21,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-22 오전 7:21,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-22 오전 7:20,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-22 오전 7:19,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-22 오전 7:18,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-22 오전 7:18,PC02,TOP Shuttle car - Unit Control Fault - Error code 25,SC_Car_TOP          
+2023-11-22 오전 7:18,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-22 오전 7:13,PC02,"P2597 Slipsheet Jam, Need Attention",                    
+2023-11-22 오전 4:31,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-22 오전 4:30,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-22 오전 4:30,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-22 오전 4:30,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-22 오전 4:28,PC02,"P2597 Slipsheet Jam, Need Attention",                    
+2023-11-22 오전 4:16,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-22 오전 4:13,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-22 오전 4:13,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-22 오전 4:13,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-22 오전 3:41,PC02,P2127A Stretch Wrapper Fault,FSM_SW_DB           
+2023-11-22 오전 3:13,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-22 오전 3:13,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-22 오전 3:13,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-22 오전 3:13,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-22 오전 3:13,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-22 오전 3:13,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-22 오전 3:13,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-22 오전 3:13,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-22 오전 3:13,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-22 오전 3:13,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-22 오전 3:13,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-22 오전 2:00,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-22 오전 2:00,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-22 오전 2:00,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-22 오전 2:00,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-22 오전 1:58,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-22 오전 1:58,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-22 오전 1:58,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-22 오전 1:58,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-22 오전 1:58,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-22 오전 1:58,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-22 오전 1:58,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-22 오전 1:24,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-22 오전 1:23,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-22 오전 1:21,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK reset required,                    
+2023-11-22 오전 1:17,PC02,TOP Shuttle car - Unit Control Fault - Error code 25,SC_Car_TOP          
+2023-11-22 오전 1:17,PC02,EZ12A_CC3_IncomingInterlock INTERLOCK Activated,EZ12A_CC3_IncomingIn
+2023-11-22 오전 1:08,PC02,"P2597 Slipsheet Jam, Need Attention",                    
+2023-11-22 오전 12:58,PC02,P2127A Stretch Wrapper Fault,FSM_SW_DB           
+2023-11-22 오전 12:56,PC02,TOP Shuttle car - Unit Control Fault - Error code 32,SC_Car_TOP          
+2023-11-22 오전 12:18,PC02,"P2597 Slipsheet Jam, Need Attention",                    
+2023-11-21 오후 11:29,PC02,P2127A Stretch Wrapper Fault,FSM_SW_DB           
+2023-11-21 오후 11:23,PC02,P2127A Stretch Wrapper Fault,FSM_SW_DB           
+2023-11-21 오후 10:59,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-21 오후 10:59,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-21 오후 10:59,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-21 오후 10:59,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-21 오후 10:59,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-21 오후 10:59,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-21 오후 10:59,PC02,P2115A Pallet Stacker Fault - Error code102,P2115A              
+2023-11-21 오후 10:59,PC02,P2103A Pallet Stacker Fault - Error code102,P2103A              
+2023-11-21 오후 10:59,PC02,EZ14 ESTOP S16 reset required,                    
+2023-11-21 오후 10:58,PC02,EZ14 ESTOP S16 Activated,EZ14                
+2023-11-21 오후 10:58,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-21 오후 10:19,PC02,P2139 Conveyor Movimot Drive Fault,P2139               
+2023-11-21 오후 10:19,PC02,P2138 Conveyor Movimot Drive Fault,P2138               
+2023-11-21 오후 10:18,PC02,P2022 End Transfer PE Fault,P2022               
+2023-11-21 오후 10:18,PC02,P2597 Conveyor Movimot Drive Fault,P2597               
+2023-11-21 오후 10:18,PC02,P2598 Conveyor Movimot Drive Fault,P2598               
+2023-11-21 오후 10:18,PC02,EZ14 Tripped,                    
+2023-11-21 오후 10:18,PC02,WEST Shuttle car - Unit Control Fault - Error code 25,SC_Car_WEST         
+2023-11-21 오후 10:18,PC02,LC2077ASafety Light Curtain Tripped,LC2077A             
+2023-11-21 오후 9:01,PC02,EZ12A TB30002 GATE S06 reset required,                    
+2023-11-21 오후 9:01,PC02,EZ12A TB30002 GATE S06 Activated,EZ12A               
+2023-11-21 오후 9:01,PC02,EZ12A TB30002 GATE S06 reset required,                    
+2023-11-21 오후 8:59,PC02,EZ12A Tripped,                    
+2023-11-21 오후 8:59,PC02,EZ12A TB30002 GATE S06 Activated,EZ12A               
+2023-11-21 오후 8:59,PC02,TOP Shuttle car - Unit Control Fault - Error code 35,SC_Car_TOP          
+2023-11-21 오후 8:57,PC02,TOP Shuttle car - Unit Control Fault - Error code 35,SC_Car_TOP          
+2023-11-21 오후 8:57,PC02,TOP Shuttle car - Unit Control Fault - Error code 35,SC_Car_TOP          
+2023-11-21 오후 8:54,PC02,P2127A Stretch Wrapper Fault,FSM_SW_DB           
+2023-11-21 오후 7:27,PC02,TOP Shuttle car - Unit Control Fault - Error code 25,SC_Car_TOP          
+2023-11-21 오후 7:27,PC02,EZ12 Tripped,                    
+2023-11-21 오후 7:26,PC02,LC2025ASafety Light Curtain Tripped,LC2025A             
+2023-11-21 오후 7:26,PC02,P2024 End Transfer PE Fault,P2024               
+2023-11-21 오후 7:26,PC02,P2025 End Transfer PE Fault,P2025               
+2023-11-21 오후 7:25,PC02,P2009 End Transfer PE Fault,P2009               
+2023-11-21 오후 7:25,PC02,P2010 End Transfer PE Fault,P2010               
+2023-11-21 오후 6:59,PC02,P2127A Stretch Wrapper Fault,FSM_SW_DB           

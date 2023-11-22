@@ -1,0 +1,86 @@
+﻿Time / Date,Area,Description,Device
+2023-11-22 오전 4:48,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-22 오전 4:45,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 4:44,RP02,Frequency Converter Failure Digital Alarm,P01NA1
+2023-11-22 오전 4:38,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 3:57,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 3:57,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-22 오전 3:56,RP02,Frequency Converter Failure Digital Alarm,P01NA1
+2023-11-22 오전 3:54,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-22 오전 3:54,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 3:52,RP02,Sliding Blade Is Lost Digital Alarm,P01MA1
+2023-11-22 오전 2:41,RP02,Sequence Error Digital Alarm,RP1_SH_APP
+2023-11-22 오전 2:19,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 2:18,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-22 오전 2:09,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 2:09,RP02,Frequency Converter Failure Digital Alarm,P01NA1
+2023-11-22 오전 1:58,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 1:56,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 1:53,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 1:50,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 1:44,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-22 오전 1:42,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 1:41,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-22 오전 1:40,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 1:38,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 1:38,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 1:32,RP02,No Objects Found In The Given ROI Digital Alarm,P01NA1_CAM
+2023-11-22 오전 1:27,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-22 오전 1:20,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 12:53,RP02,No Objects Found In The Given ROI Digital Alarm,P01NA1_CAM
+2023-11-22 오전 12:53,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-22 오전 12:52,RP02,No Objects Found In The Given ROI Digital Alarm,P01NA1_CAM
+2023-11-22 오전 12:22,RP02,Sliding Blade Is Lost Digital Alarm,P01MA1
+2023-11-21 오후 11:48,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:47,RP02,No Objects Found In The Given ROI Digital Alarm,P01NA1_CAM
+2023-11-21 오후 11:47,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:46,RP02,No Objects Found In The Given ROI Digital Alarm,P01NA1_CAM
+2023-11-21 오후 11:45,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-21 오후 11:44,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:44,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:43,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:42,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:41,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:40,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:25,RP02,[Z Axis] Unit Failure Digital Alarm,P01DA2_DB2
+2023-11-21 오후 11:25,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:23,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:21,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-21 오후 11:15,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:13,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 11:08,RP02,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-11-21 오후 10:53,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-21 오후 10:47,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 10:37,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 10:36,RP02,No Objects Found In The Given ROI Digital Alarm,P01NA1_CAM
+2023-11-21 오후 10:36,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 10:36,RP02,No Objects Found In The Given ROI Digital Alarm,P01NA1_CAM
+2023-11-21 오후 10:35,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 10:34,RP02,No Objects Found In The Given ROI Digital Alarm,P01NA1_CAM
+2023-11-21 오후 10:34,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 10:33,RP02,No Objects Found In The Given ROI Digital Alarm,P01NA1_CAM
+2023-11-21 오후 10:33,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 10:30,RP02,No Objects Found In The Given ROI Digital Alarm,P01NA1_CAM
+2023-11-21 오후 10:21,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 9:24,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-21 오후 9:22,RP02,Frequency Converter Failure Digital Alarm,P01NA1
+2023-11-21 오후 9:20,RP02,The Target Space Is Occupied Or Not Accessible Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 9:09,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 9:09,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-21 오후 9:07,RP02,Frequency Converter Failure Digital Alarm,P01NA1
+2023-11-21 오후 8:53,RP02,[Lift 1 (Belt)] Transmission Failure Digital Alarm,P01PA1_PB1
+2023-11-21 오후 8:44,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 8:44,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-21 오후 8:43,RP02,Frequency Converter Failure Digital Alarm,P01NA1
+2023-11-21 오후 8:26,RP02,Sequence Error Digital Alarm,RP1_SH_APP
+2023-11-21 오후 8:25,RP02,Sliding Blade Is Lost Digital Alarm,P01MA1
+2023-11-21 오후 8:23,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-21 오후 8:22,RP02,Frequency Converter Failure Digital Alarm,P01NA1
+2023-11-21 오후 8:05,RP02,Sequence Error Digital Alarm,RP1_SH_APP
+2023-11-21 오후 8:05,RP02,Frequency Converter Failure Digital Alarm,P01NA1
+2023-11-21 오후 7:56,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 7:55,RP02,Frequency Converter Failure Digital Alarm,P01NA1
+2023-11-21 오후 7:48,RP02,Sequence Error Digital Alarm,RP1_SH_APP
+2023-11-21 오후 7:20,RP02,The Database Is Very Close To Being Full Digital Alarm,P01MFC
+2023-11-21 오후 7:03,RP02,[Topography Checker] Range Check Does Not Return Any Results Digital Alarm,RP1_LOAD_APP
+2023-11-21 오후 6:35,RP02,No Objects Found In The Given ROI Digital Alarm,P01NA1_CAM
