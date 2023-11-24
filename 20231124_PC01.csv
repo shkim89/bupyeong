@@ -1,0 +1,17 @@
+﻿Time / Date,Area,Description,Device
+2023-11-24 오전 3:23,PC01,Pallet Lift1 Alarm,P1109               
+2023-11-24 오전 3:23,PC01,P1109[#1] CC1 Safety Sensor Error,P1109               
+2023-11-24 오전 3:23,PC01,LC1102ASafety Light Curtain Tripped,LC1102A             
+2023-11-24 오전 3:10,PC01,P1032 End Transfer PE Fault,P1032               
+2023-11-24 오전 3:10,PC01,P1100 End Transfer PE Fault,P1100               
+2023-11-24 오전 3:09,PC01,P1101 End Transfer PE Fault,P1101               
+2023-11-24 오전 3:09,PC01,P1102 End Transfer PE Fault,P1102               
+2023-11-24 오전 3:02,PC01,P1130Pallet Mover Sensor Fault,P1130               
+2023-11-24 오전 2:15,PC01,ST11171 STOP Button Activated,ST11171             
+2023-11-24 오전 1:33,PC01,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-24 오전 12:33,PC01,Invalid header received from WCS. (Return Code BF),DCI_LCS             
+2023-11-23 오후 11:55,PC01,LC1009ASafety Light Curtain Tripped,LC1009A             
+2023-11-23 오후 11:52,PC01,LC1013ASafety Light Curtain Tripped,LC1013A             
+2023-11-23 오후 11:28,PC01,LC1013ASafety Light Curtain Tripped,LC1013A             
+2023-11-23 오후 11:24,PC01,LC1013ASafety Light Curtain Tripped,LC1013A             
+2023-11-23 오후 7:00,PC01,LC1017ASafety Light Curtain Tripped,LC1017A             

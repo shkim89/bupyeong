@@ -1,0 +1,29 @@
+﻿Time / Date,Area,Description,Device
+2023-11-24 오전 3:39,MSAI03,Front Finger 2 Not Open ,LV13SH01            
+2023-11-24 오전 3:37,MSAI03,"Drop Location Deep, Front Bin Occupied",LV13SH01            
+2023-11-24 오전 3:17,MSAI03,"Sensor Blocked, No Logical Load Presence",LL15RO12            
+2023-11-24 오전 3:17,MSAI03,"Data Present, No Logical Load Presence",LL16RO12            
+2023-11-24 오전 3:09,MSAI03,"Sensor Blocked, No Logical Load Presence",LL15RO12            
+2023-11-24 오전 2:56,MSAI03,"Data Present, No Logical Load Presence",LL15RO11            
+2023-11-24 오전 2:54,MSAI03,"Sensor Blocked, No Logical Load Presence",LL15RO12            
+2023-11-24 오전 2:47,MSAI03,"Sensor Blocked, No Logical Load Presence",LL15RO12            
+2023-11-24 오전 2:37,MSAI03,Load Runtime Fault on Conveyor,LL06RO12            
+2023-11-24 오전 2:35,MSAI03,Rack Conveyor Gap Sensor Blocked,LL04RO11            
+2023-11-24 오전 2:35,MSAI03,"Data Present, No Logical Load Presence",LL04RO12            
+2023-11-24 오전 2:32,MSAI03,"Data Present, No Logical Load Presence",LL04RO11            
+2023-11-24 오전 2:32,MSAI03,"Pick Location Deep, Front Bin Occupied",LV14SH01            
+2023-11-24 오전 2:01,MSAI03,Z: Over Current ,LV13SH01            
+2023-11-24 오전 1:50,MSAI03,"Data Present, No Logical Load Presence",LL03RO11            
+2023-11-23 오후 11:54,MSAI03,Motor Stalled ,EL01LO04            
+2023-11-23 오후 11:04,MSAI03,"Shuttle Load Overhang, Right",LV14SH01            
+2023-11-23 오후 10:11,MSAI03,Shuttle Not Ready for Orders,LV13SH01            
+2023-11-23 오후 10:09,MSAI03,"Data Present, No Logical Load Presence",LL15RO12            
+2023-11-23 오후 10:02,MSAI03,"Data Present, No Logical Load Presence",LL15RO12            
+2023-11-23 오후 9:57,MSAI03,Conveyor Gap Sensor Blocked ,EL01LO04            
+2023-11-23 오후 9:57,MSAI03,Lift Conveyor Overhang Fault Side B ,EL01LO00            
+2023-11-23 오후 9:56,MSAI03,Lift Conveyor Overhang Fault Side B ,EL01LO00            
+2023-11-23 오후 9:22,MSAI03,Hall Sensor Error ,LL07RO12            
+2023-11-23 오후 8:33,MSAI03,"Data Present, No Logical Load Presence",LL15RO11            
+2023-11-23 오후 7:54,MSAI03,"Data Present, No Logical Load Presence",LR14RI12            
+2023-11-23 오후 7:53,MSAI03,Load Runtime Fault on Conveyor,LR14RI12            
+2023-11-23 오후 7:14,MSAI03,X: Shuttle Moved with No Order Data ,LV14SH01            
